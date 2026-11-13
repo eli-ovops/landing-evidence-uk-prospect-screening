@@ -1,0 +1,70 @@
+/* V3: sharpen the first-screen proposition around an integrated outdoor project. */
+.hero__overlay{background:linear-gradient(90deg,rgba(8,16,12,.95) 0%,rgba(8,16,12,.74) 39%,rgba(8,16,12,.23) 72%)}
+.hero__content{position:absolute!important;z-index:1;left:clamp(32px,5vw,92px);bottom:105px;width:min(870px,calc(100vw - 56px));max-width:none;margin:0!important;padding:0!important}
+.hero h1{max-width:720px;font-size:clamp(3.25rem,5.6vw,5.35rem)}
+.hero__lead{max-width:535px;margin-bottom:30px}
+.hero__actions{display:flex;align-items:center;gap:23px}
+.hero__proof{display:grid;grid-template-columns:auto 1fr auto;column-gap:9px;align-items:center;color:var(--white);text-decoration:none;border-left:1px solid rgba(255,255,255,.45);padding-left:20px;line-height:1.18}
+.hero__proof strong{font-family:var(--font-display);font-size:2rem;font-weight:400;letter-spacing:-.05em}
+.hero__proof span{font-size:.67rem;letter-spacing:.08em;text-transform:uppercase}
+.hero__proof i{font-size:.78rem;font-style:normal;padding-left:2px}
+.approach{background:#15261d;color:var(--white);padding:104px 0 0}
+.approach__stage{display:grid;grid-template-columns:1.05fr .75fr;grid-template-areas:"intro scene" "list list";gap:0 70px}
+.approach__intro{grid-area:intro;padding:30px 0 78px;max-width:570px}
+.approach .section-label{color:#c0d39f}
+.approach h2{max-width:560px;font-size:clamp(3rem,5.6vw,5.7rem)}
+.approach__intro>p:last-child{max-width:420px;margin:26px 0 0;color:rgba(255,255,255,.72);font-size:1rem;line-height:1.65}
+.approach__scene{grid-area:scene;min-height:530px;margin:0;position:relative;overflow:hidden;align-self:start}
+.approach__scene:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(7,16,11,.75),rgba(7,16,11,0) 45%)}
+.approach__scene img{width:100%;height:100%;object-fit:cover;position:absolute;inset:0}
+.approach__scene figcaption{position:absolute;z-index:1;left:24px;bottom:21px;margin:0;font-size:.63rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.86)}
+.approach__list{grid-area:list;display:grid;grid-template-columns:repeat(3,1fr);gap:0;margin:0!important;padding:0!important;border-top:1px solid rgba(255,255,255,.24)!important;list-style:none}
+.approach__list article{padding:27px 30px 31px 0;border-right:1px solid rgba(255,255,255,.2);margin-right:30px}
+.approach__list article:last-child{border-right:0;margin-right:0}
+.approach__list span{display:block;color:#c0d39f;font-size:.67rem;font-weight:800;letter-spacing:.16em;margin-bottom:30px}
+.approach__list h3{font-family:var(--font-display);font-size:1.65rem;font-weight:400;letter-spacing:-.035em;margin:0 0 9px}
+.approach__list p{max-width:260px;margin:0;color:rgba(255,255,255,.67);font-size:.87rem;line-height:1.6}
+.project-start{background:var(--white);padding:108px 0 0}
+.project-start__grid{display:grid;grid-template-columns:.8fr 1.2fr;grid-template-areas:"intro paths" "scope paths";gap:48px 80px}
+.project-start__intro{grid-area:intro;max-width:460px}
+.project-start h2{font-family:var(--font-display);font-size:clamp(2.65rem,4.3vw,4.35rem);font-weight:400;letter-spacing:-.055em;line-height:.98;margin:0}
+.project-start__paths{grid-area:paths;display:grid;grid-template-columns:repeat(2,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.project-start__paths article{min-height:198px;padding:25px 26px;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.project-start__paths span{display:block;color:var(--moss);font-size:.66rem;font-weight:800;letter-spacing:.14em;margin-bottom:36px}
+.project-start__paths h3{font-family:var(--font-display);font-size:1.85rem;font-weight:400;letter-spacing:-.04em;line-height:1;margin:0 0 10px}
+.project-start__paths p{max-width:195px;color:var(--ink-soft);font-size:.85rem;line-height:1.55;margin:0}
+.project-start__scope{grid-area:scope;display:flex;align-items:flex-start;flex-direction:column;justify-content:end;border-top:1px solid var(--line);padding:21px 0 28px}
+.project-start__scope-label{color:var(--moss);font-size:.64rem;font-weight:800;letter-spacing:.15em;text-transform:uppercase;margin:0 0 10px}
+.project-start__scope>p:nth-child(2){color:var(--ink-soft);font-size:.9rem;line-height:1.55;margin:0 0 14px;max-width:440px}
+.project-start__scope strong{color:var(--ink)}
+.project-start__scope a{color:var(--ink);font-size:.73rem;font-weight:800;text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:3px}
+.contact{background:#b7c69a;padding:92px 0}
+.contact h2{font-size:clamp(2.8rem,4.9vw,4.9rem);max-width:600px}
+@media(max-width:760px){
+  .hero__content{left:20px;bottom:78px;width:calc(100vw - 40px);margin:0!important;padding:0!important}
+  .hero{min-height:700px}
+  .hero>img{object-position:60% center}
+  .hero__overlay{background:linear-gradient(0deg,rgba(8,16,12,.94) 0%,rgba(8,16,12,.27) 92%)}
+  .hero__content{padding:95px 0 78px}
+  .hero h1{font-size:clamp(2.75rem,11.8vw,3.8rem)}
+  .hero__actions{align-items:flex-start;flex-direction:column;gap:17px}
+  .hero__proof{padding:14px 0 0;border-left:0;border-top:1px solid rgba(255,255,255,.45);width:100%;max-width:322px}
+  .approach{padding:66px 0 0}
+  .approach__stage{display:flex;flex-direction:column;gap:0}
+  .approach__intro{padding:0 0 42px}
+  .approach h2{font-size:clamp(3rem,13vw,4.25rem)}
+  .approach__scene{min-height:440px;width:calc(100% + 40px);margin-left:-20px;order:2}
+  .approach__list{display:grid;grid-template-columns:1fr!important;order:3;margin-top:0!important;border-top:0!important}
+  .approach__list article{padding:26px 0;border-right:0;border-bottom:1px solid rgba(255,255,255,.2);margin:0}
+  .approach__list span{margin-bottom:16px}
+  .project-start{padding:70px 0 0}
+  .project-start__grid{display:flex;flex-direction:column;gap:34px}
+  .project-start h2{font-size:clamp(2.65rem,11.6vw,3.8rem)}
+  .project-start__paths{width:calc(100% + 40px);margin-left:-20px}
+  .project-start__paths article{min-height:170px;padding:23px 20px}
+  .project-start__paths span{margin-bottom:24px}
+  .project-start__scope{padding:5px 0 38px}
+  .contact{padding:72px 0}
+  .contact h2{font-size:clamp(2.7rem,11vw,3.8rem)}
+  .hero__content{padding:0!important}
+}

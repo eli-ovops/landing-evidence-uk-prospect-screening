@@ -1,0 +1,15 @@
+# Nine-point refinement: current verification
+
+Same v1 site, five original routes and all12 gallery assets/deep links retained. All rows of ../FULL_REPLACEMENT_MATRIX.md apply; current render and interactions are qa/functional-results.json,10 page/viewport screenshots,2 lightbox screenshots. Exact original testimonial and complaint normalization passes. New responsive-results.json checks15 additional page/width combinations at375/768/1024 with reduced motion, zero overflow/CTA-outside failures. Previous external receipt and source content baseline remain unchanged, no external activity added.
+
+First review did not reach9 (8.6–8.8); actual defects were repaired: hero uses the existing registered A05 real kitchen in a legible split composition; mobile places CTA before complete image; type and section rhythm refined; all gallery images use natural dimensions in columns; mobile closing now whole A10 room; A12 remains completely visible on contact; testimonial image identified as wider portfolio, full quotation remains unchanged. Remaining score belongs to independent reviewer, not this document.
+
+## Asset and performance mapping
+Hero: A05 assets/asset-05.jpg; services: A03/A02/A09 with high-resolution same-scene originals as srcset; closing: A10 plus high-resolution original; contact: A12 plus high-resolution original. All files were previously sourced/registered, original bytes remain intact. No new image generation, edited content, rights alteration, font service or runtime dependency. Pillow only reads existing dimensions for generated img width/height. Existing legacy images and source files unchanged. SVG static grain is an inline non-business decorative texture, no photographic image edit.
+
+390px DPR1 full-home-image-loading comparison under local Chrome: old6,039,736 bytes, new311,619 bytes (94.84% lower). Measured by response Content-Length after eager decoding; this is not a universal device/network speed or real-user Core Web Vitals claim. Higher pixel densities may select the larger originals. Initial hero fetchpriority high; below-fold pictures lazy; intrinsic dimensions reserve photo space. No autoplay/motion/network tracking added.
+
+## Price and delivery
+US$99 complete as-shown, US$199 same completeness plus one consolidated update/QA. Existing LOCAL_HANDOVER exclusions apply: no deployment, domain/hosting chosen or purchased, no maintenance subscription; final customer asset reconfirmation still required before source transfer. Current website is locally functional, not publicly released. Before files retained under before/, historical8.3 evidence retained unchanged in parent qa/review. This pass does not modify the old score retrospectively.
+
+Static finesse detector: actual index.html and style.css inspected, p0=0, no findings; initial directory invocation EISDIR was discarded and is not PASS evidence. Visual qualities are independently reviewed, not inferred from that detector. Task-local evidence21MB, volume9% used with1.7TiB free; no cleanup/deletion performed.

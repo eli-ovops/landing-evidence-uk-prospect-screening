@@ -1,0 +1,243 @@
+{
+  "retrieved": "2026-09-08T03:36:55.333Z",
+  "requested": "https://www.youtube.com/shorts/iet95Lq8_NQ",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.youtube.com/shorts/iet95Lq8_NQ",
+  "title": "YouTube",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "跳过导航\n登录\n首页\nShorts\n订阅\n我\n历史记录\n登录即可给视频点赞、发表评论并订阅内容。\n登录\n探索\n音乐\n影视\n直播\n展开\n更多 YouTube 产品与功能\nYouTube Premium\nYouTube TV\nYouTube Music\nYouTube Kids\n举报记录\n关于新闻版权联系我们创作者广告开发者\n条款隐私权政策与安全YouTube 的运作方式测试新功能NFL Sunday Ticket\n© 2026 Google LLC\n私享视频\n如果该视频的所有者已授予你访问权，请先登录。\n登录",
+  "links": [
+    {
+      "text": "登录",
+      "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dzh-CN%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fshorts%252Fiet95Lq8_NQ&hl=zh-CN&ec=65620"
+    },
+    {
+      "text": "\n  \n    \n  \n    \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n  \n\n  \n  \n  \n  \n\n\n  \n    \n    \n  \n  \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "text": "首页",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "text": "订阅",
+      "url": "https://www.youtube.com/feed/subscriptions"
+    },
+    {
+      "text": "我",
+      "url": "https://www.youtube.com/feed/you"
+    },
+    {
+      "text": "历史记录",
+      "url": "https://www.youtube.com/feed/history"
+    },
+    {
+      "text": "登录",
+      "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dzh-CN%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fshorts%252Fiet95Lq8_NQ&hl=zh-CN"
+    },
+    {
+      "text": "音乐",
+      "url": "https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"
+    },
+    {
+      "text": "影视",
+      "url": "https://www.youtube.com/feed/storefront"
+    },
+    {
+      "text": "直播",
+      "url": "https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig"
+    },
+    {
+      "text": "YouTube Premium",
+      "url": "https://www.youtube.com/premium"
+    },
+    {
+      "text": "YouTube TV",
+      "url": "https://tv.youtube.com/?utm_source=youtube_web&utm_medium=ep&utm_campaign=home&ve=34273"
+    },
+    {
+      "text": "YouTube Music",
+      "url": "https://music.youtube.com/"
+    },
+    {
+      "text": "YouTube Kids",
+      "url": "https://www.youtubekids.com/?source=youtube_web"
+    },
+    {
+      "text": "举报记录",
+      "url": "https://www.youtube.com/reporthistory"
+    },
+    {
+      "text": "关于",
+      "url": "https://www.youtube.com/about/"
+    },
+    {
+      "text": "新闻",
+      "url": "https://www.youtube.com/about/press/"
+    },
+    {
+      "text": "版权",
+      "url": "https://www.youtube.com/about/copyright/"
+    },
+    {
+      "text": "联系我们",
+      "url": "https://www.youtube.com/t/contact_us/"
+    },
+    {
+      "text": "创作者",
+      "url": "https://www.youtube.com/creators/"
+    },
+    {
+      "text": "广告",
+      "url": "https://www.youtube.com/ads/"
+    },
+    {
+      "text": "开发者",
+      "url": "https://developers.google.com/youtube"
+    },
+    {
+      "text": "条款",
+      "url": "https://www.youtube.com/t/terms"
+    },
+    {
+      "text": "隐私权",
+      "url": "https://www.youtube.com/t/privacy"
+    },
+    {
+      "text": "政策与安全",
+      "url": "https://www.youtube.com/about/policies/"
+    },
+    {
+      "text": "YouTube 的运作方式",
+      "url": "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen"
+    },
+    {
+      "text": "测试新功能",
+      "url": "https://www.youtube.com/new"
+    },
+    {
+      "text": "NFL Sunday Ticket",
+      "url": "https://tv.youtube.com/learn/nflsundayticket"
+    },
+    {
+      "text": "登录",
+      "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dzh-CN&hl=zh-CN"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    }
+  ]
+}

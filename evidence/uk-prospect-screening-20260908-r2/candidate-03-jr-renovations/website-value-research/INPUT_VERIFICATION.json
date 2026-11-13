@@ -1,0 +1,176 @@
+[
+  {
+    "path": "candidate-03-jr-renovations/CANDIDATE.md",
+    "expected": "8d96b08e4a78d10db6aa77eb7ee012a2762da96c7a7f624464717042a5f59366",
+    "actual": "8d96b08e4a78d10db6aa77eb7ee012a2762da96c7a7f624464717042a5f59366",
+    "match": true
+  },
+  {
+    "path": "candidate-03-jr-renovations/QUERY_RECEIPT.json",
+    "expected": "f93e17e4bb55db92567d08394e28bf28ac4ebb9f2085edc126f47db8f581dc12",
+    "actual": "f93e17e4bb55db92567d08394e28bf28ac4ebb9f2085edc126f47db8f581dc12",
+    "match": true
+  },
+  {
+    "path": "AUTHORITY.md",
+    "expected": "50f5ea12c61698ef706b7393f7a2f83d414583feb4780993a5ec43b9e126c656",
+    "actual": "50f5ea12c61698ef706b7393f7a2f83d414583feb4780993a5ec43b9e126c656",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-http-desktop.json",
+    "expected": "16174749ee2379b89c3111b8ce85cb792ab0e7fe72ce2ba7d5dbfbebfbde2cb2",
+    "actual": "16174749ee2379b89c3111b8ce85cb792ab0e7fe72ce2ba7d5dbfbebfbde2cb2",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-http-desktop.png",
+    "expected": "cccaa1f46394216439cf7e813a87e1199b9942164620a4326e24fc2308aed282",
+    "actual": "cccaa1f46394216439cf7e813a87e1199b9942164620a4326e24fc2308aed282",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-http-mobile.json",
+    "expected": "0f37aa42a3fb81a7e4eb6ec64c32641d2947cd402edd4d4b86a5b4142b1d7f11",
+    "actual": "0f37aa42a3fb81a7e4eb6ec64c32641d2947cd402edd4d4b86a5b4142b1d7f11",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-http-mobile.png",
+    "expected": "b282d92d6ddb16760307eb8055d0c6bc2db9da59d32b2bbbf8a6652f3c625e4a",
+    "actual": "b282d92d6ddb16760307eb8055d0c6bc2db9da59d32b2bbbf8a6652f3c625e4a",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-services-desktop.json",
+    "expected": "531a5ead454f0e8513528f4f800ad87d4a47cd75c4c3e353a149e10504f02401",
+    "actual": "531a5ead454f0e8513528f4f800ad87d4a47cd75c4c3e353a149e10504f02401",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-services-desktop.png",
+    "expected": "0995483b56cb9f26a7f89dab3afc44d40132de928f5d87dde5a4cc0fefe39889",
+    "actual": "0995483b56cb9f26a7f89dab3afc44d40132de928f5d87dde5a4cc0fefe39889",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-services-mobile.json",
+    "expected": "2e5a5d241d706f4d6eed47e52eec9921474fd180f7398581e21665ea24f623fc",
+    "actual": "2e5a5d241d706f4d6eed47e52eec9921474fd180f7398581e21665ea24f623fc",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-services-mobile.png",
+    "expected": "c8eeac40ffe6eaf1abea7cf41cb482792a65eeeeb29425c0e5f9ed313898304e",
+    "actual": "c8eeac40ffe6eaf1abea7cf41cb482792a65eeeeb29425c0e5f9ed313898304e",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-gallery-desktop.json",
+    "expected": "1deac16d9e0a2da5ca8931feb9441fad6ca93be00b185f5afc53d2af137f4c1c",
+    "actual": "1deac16d9e0a2da5ca8931feb9441fad6ca93be00b185f5afc53d2af137f4c1c",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-gallery-desktop.png",
+    "expected": "c709f7416bed0730d4dc805f4f5364aefc3a838d1757dcd16922e378ac3060f6",
+    "actual": "c709f7416bed0730d4dc805f4f5364aefc3a838d1757dcd16922e378ac3060f6",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-gallery-mobile.json",
+    "expected": "b0694e5939fd70148a979684fc1eb33d3aceec97842791a331754bc351c474eb",
+    "actual": "b0694e5939fd70148a979684fc1eb33d3aceec97842791a331754bc351c474eb",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-gallery-mobile.png",
+    "expected": "0db54aecb2ffe813fc6243b8b2e3a93845aef4886946bc09e0a3c1c632328b6e",
+    "actual": "0db54aecb2ffe813fc6243b8b2e3a93845aef4886946bc09e0a3c1c632328b6e",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-contact-desktop.json",
+    "expected": "64180377c57ee536d207b262927ece3b8240583f9e5b883847cd15e3141a866c",
+    "actual": "64180377c57ee536d207b262927ece3b8240583f9e5b883847cd15e3141a866c",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-contact-desktop.png",
+    "expected": "79d2588217177a6d503ee67a5b2b0f7996fb17b9f1a0b1248a892d91eec27032",
+    "actual": "79d2588217177a6d503ee67a5b2b0f7996fb17b9f1a0b1248a892d91eec27032",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-contact-mobile.json",
+    "expected": "9e553e1934e5195e529267532d1b924df4eea599c0030c48ac1af11144054044",
+    "actual": "9e553e1934e5195e529267532d1b924df4eea599c0030c48ac1af11144054044",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-contact-mobile.png",
+    "expected": "8359ca4e02011648c9467429da6edfc676974e011c04cd328b5159f389a9fffc",
+    "actual": "8359ca4e02011648c9467429da6edfc676974e011c04cd328b5159f389a9fffc",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-desktop-section-0.png",
+    "expected": "b1322bdbe98014a24d5abfd71862ca86c6bcebb5f1a622aaa890ba21fe0e18d9",
+    "actual": "b1322bdbe98014a24d5abfd71862ca86c6bcebb5f1a622aaa890ba21fe0e18d9",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-desktop-section-1.png",
+    "expected": "b710db85b9e11fa733727cee9bbe300fd6820f03c51e779fe1b5b726ae036e6f",
+    "actual": "b710db85b9e11fa733727cee9bbe300fd6820f03c51e779fe1b5b726ae036e6f",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-desktop-section-2.png",
+    "expected": "88614c05bfebf0c60be70f89888c0b6a1fe57e325c3b21df6822314f405da78b",
+    "actual": "88614c05bfebf0c60be70f89888c0b6a1fe57e325c3b21df6822314f405da78b",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-desktop.json",
+    "expected": "ff6e76c5da574ab2473737308e63f10570d1b5a14c6ca5ddc9daffaf32c1a6ae",
+    "actual": "ff6e76c5da574ab2473737308e63f10570d1b5a14c6ca5ddc9daffaf32c1a6ae",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-desktop.png",
+    "expected": "a174db5f4e8b9a282a1959dbb7bce81ffa4dbda54e192f669947f0c72c80745d",
+    "actual": "a174db5f4e8b9a282a1959dbb7bce81ffa4dbda54e192f669947f0c72c80745d",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-mobile-section-0.png",
+    "expected": "7a2f561b4012d030a1796d301cadb5058c121468f8efb348e0767b621c67a098",
+    "actual": "7a2f561b4012d030a1796d301cadb5058c121468f8efb348e0767b621c67a098",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-mobile-section-1.png",
+    "expected": "5e4add11e375984bf3d06ba7b75429e2b54af048ebfed026e2fbfcaec17b3c7e",
+    "actual": "5e4add11e375984bf3d06ba7b75429e2b54af048ebfed026e2fbfcaec17b3c7e",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-mobile-section-2.png",
+    "expected": "54b6927a7e18c948b11dbbf8be2db1ace46feb1930e556acddc334bfb2be3804",
+    "actual": "54b6927a7e18c948b11dbbf8be2db1ace46feb1930e556acddc334bfb2be3804",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-mobile.json",
+    "expected": "877f29386bcd56132ada696544c55565a6822a3a06699603edf8a757bf48c5cc",
+    "actual": "877f29386bcd56132ada696544c55565a6822a3a06699603edf8a757bf48c5cc",
+    "match": true
+  },
+  {
+    "path": "browser-evidence/jr-ready-mobile.png",
+    "expected": "0b5d00893a54f427134a11db093cef9e1075f41c492d203953394ee99d187a6f",
+    "actual": "0b5d00893a54f427134a11db093cef9e1075f41c492d203953394ee99d187a6f",
+    "match": true
+  }
+]

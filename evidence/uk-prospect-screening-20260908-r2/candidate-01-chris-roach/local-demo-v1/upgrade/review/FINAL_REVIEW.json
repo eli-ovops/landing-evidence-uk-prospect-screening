@@ -1,0 +1,144 @@
+{
+  "reviewer": {
+    "taskId": "/root/independent_review",
+    "name": "Independent Chris Roach Upgrade Reviewer",
+    "identityEvidence": "Separate collaboration task /root/independent_review appointed by production task /root; reviewer authored review records only, not site code."
+  },
+  "inputHash": "ac4a951f790596c8f9fbaca94961f96f17ddd717489c5dc579f9b3e864e7ef87",
+  "resultSha256": "27e75d531ee3c3c0e0ef17f416182223a6512cb2880af568e669b5110a7753a7",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "8bce34e4e94074524004f20ed22c802c9b81f17eb1b3699f632d31bf6bd26335"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "6d1a536686342ece0c4e1d51d4e535d4fa8794c77b81be281f8acdede3c40eed"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "3f290299c49b54e29642ef518a1b7997414cad165185fe6468a187e1e8483883"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "2d14a662504f1a317f83647c06ec98fd7b94df65475ba54a2c5589f924d8fc61"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "5ec45cdc8109cdef9bba8efd22c338830ada519cd59f804737180f0dbcaeede8"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "eb7611507dda63e565f98599daffae431a8c629590914958fa0873bac952a7b3"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "e6a4cacff65b8866aafe27a7f2dd864048f05edbb92e4105339b02c67d94fe6a"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "b887b1ab19456c92e7948126559a2861ad56949c9a0af660b46610008f5c56ac"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "5afdfe37bd81428511a6227324b36b8762643f306b3564d159030a65b4f06b1e"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "276d9853b79fe0f09b2a69ea5d83ba61d676c0b012cf50c1b6c8669c888dc294"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "f61ce256d5df1270109f3f54bc5f0b50290a7f7af16c6ca4ff3e3bdc5cc19d18"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "39a0478b2e3f10054423a01a2222dea234a823f7996787fceb9041bddebceb62"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "de198da06ab59b118a75b5279b8910cd9f67af08a5bc0b81b470a6aadf067eb6"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "b185152487e57b70ffcbf21379e8410eefb6fd1be094ae8e722287e5e576a3a3"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "8b4dfb4d05eb0f3894c0cdd32a9d529431b455a6c94d6340aa56a6ad70ec8b5a"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "3e3ddbfb6c714fbb1f71b30392d7b1d36fe93ad90a415683c6fb30cd170bc294"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "1f196537976c634e3bbe59ba65d89958ca1e9b6caea889ac9c8665ba133fb777"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "bcc07ed6bcb64e27e1a3485cd218d4dc8786cc71b91468f874e3701814a02337"
+    }
+  ],
+  "finalPass": true,
+  "clientShowable": "PASS",
+  "rubric": {
+    "品牌辨识度": 8.5,
+    "素材真实性": 9.5,
+    "客户了解度 / 资产整合": 9.5,
+    "首屏张力": 8.5,
+    "排版层级": 9,
+    "节奏 / 留白": 9,
+    "商业说服": 9,
+    "移动端": 9.5,
+    "原创 / 去模板感": 8.5,
+    "老板购买欲 / Current Offer 价值感": 9
+  },
+  "rubricAverage": 9.0,
+  "viewportFindings": {
+    "desktop": "1440x900 actual top/full/portfolio/care/contact and review regions inspected. Final full rechecked. True service names now lead each source-sized image; balanced three-part portfolio and distinct geometry/protection frame; original hero/top hashes unchanged from personally inspected iteration.",
+    "mobile": "390x844 full and portfolio/care sections inspected after same-version fixes. True service headings full-width; latter two source photos compact with adjacent short scope and contact links; original-image links retain detail access. Total height 4596 vs iteration-1 5363, with no omitted useful content. First screen retains identity/photo/CTA. Contact and review text legible."
+  },
+  "businessFindings": [
+    "Five-second business recognition PASS: explicit painting/decorating + Ruislip, actual wallcovering, service nouns and single contact action.",
+    "Commercial upgrade PASS: source-indexed portfolio, actual preparation photograph with customer care quote, separate attributed customer-experience summaries, and practical enquiry guidance improve decisions over the mixed Which gallery. No implied link between gallery photo and reviewer story.",
+    "Bottom 40% PASS: genuine care/process imagery, specific reassurance, customer reports, then local coverage/van/contact; no consecutive large empty decorative blocks.",
+    "Would-I-reply PASS as an assessment of a finished, useful portfolio showing recognisable work and direct action. Customer willingness to purchase remains UNKNOWN, not inferred from score.",
+    "35 baseline items and six distinct displayed sources reconcile; 7 direct,12 paraphrase/general guidance,6 location,1 time-sensitive,9 exclusions. Existing phone/landline/email/map/Which action paths remain."
+  ],
+  "assetFindings": [
+    "A4 cleaner kitchen source and A3 actual laser/protected-furniture scene personally inspected. All selected originals had been personally inspected across pre-code/final rounds.",
+    "Final six files preserve original bytes and source hashes; original resolution respected in portfolio. Laser/protection visible in desktop/mobile care.",
+    "No invented before-after, new-kitchen fitting, client addresses or project/photo-review links. Established1986 remains profile claim, not incorporation date.",
+    "B provenance supports local concept only; customer authorization/ownership/final transfer UNKNOWN."
+  ],
+  "internalTextGate": "PASS — visible text/alt/aria/meta and dialog captions reviewed; no governance/tool/rights leakage; footer allowed concept identity only.",
+  "remainingP0P1": 0,
+  "remainingDefects": [],
+  "firstPassIndependentResult": "Iteration1 below target ~8.6–8.7; service-name hierarchy, mobile portfolio rhythm and gallery-caption source corrected.",
+  "timeAnomalyReview": {
+    "status": "COMPLETED",
+    "duration": "Observed current upgrade window approximately05:23Z to05:39Z (~16minutes); exact authorization start UNKNOWN.",
+    "assessment": "Short window triggers scrutiny, not automatic failure. Previous full research, original asset/source registers and a validated static baseline reused. Reviewer inspected new source photos and fresh customer claims, rejected first layout as below target, required concrete same-version corrections, reinspected both current viewports and verified every evidence/site hash. No automated score substituted for these checks."
+  },
+  "limitations": [
+    "Rubric measures this bounded static portfolio quality, not customer demand, sales probability or independently proven ROI.",
+    "Not a unique global design or studio photography: brand/originality/hero remain8.5. Do not describe all ten categories as9 or above.",
+    "No deployment, sending, account login or final source transfer authorized."
+  ],
+  "supplementaryEvidence": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/upgrade/evidence/interactions.json",
+      "sha256": "49c36236271b14a93c1a841fc1c9d1ba3df4b29bdb88d7d785ffc5cb4dd9bfab"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/upgrade/evidence/viewer-1440.png",
+      "sha256": "e20c640d81312d7a4ccd7a2a9fb952d69f580efc2a733dd55e48caf8743c4989"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/upgrade/evidence/viewer-390.png",
+      "sha256": "04dab3134dadf4cb4cf2c1169bde2ee31e2f1143a139bddfa9ba70158ee75f08"
+    }
+  ],
+  "interactionFindings": "Current iteration Owner real-browser evidence: 1440/390 service anchors and four images open/decode/Escape/focus restoration PASS; no-JS original JPEG fallback PASS. Reviewer inspected gallery.js and actual viewer rendering; current supplemental hashes retained separately from exact mechanical evidence array."
+}

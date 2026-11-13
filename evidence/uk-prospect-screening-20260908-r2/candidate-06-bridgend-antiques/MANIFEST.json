@@ -1,0 +1,150 @@
+{
+  "root": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2",
+  "files": [
+    {
+      "path": "candidate-06-bridgend-antiques/SELF_QA.md",
+      "sha256": "3c6a7e320fd6cfe961f1a3abb7e78a3c04cc0bd6cd81c825895b2fbdc341e2f2",
+      "bytes": 628
+    },
+    {
+      "path": "candidate-06-bridgend-antiques/CANDIDATE.md",
+      "sha256": "b4eb851f2cbb91a9898bafd1bbfa4d6738506c0933363065a2b5bceae38e2853",
+      "bytes": 9411
+    },
+    {
+      "path": "candidate-06-bridgend-antiques/QUERY_RECEIPT.md",
+      "sha256": "225b32bdfea17bc74ecb9dca8cf6112a73f4096c1d11bdac17f9e0515136dae5",
+      "bytes": 1830
+    },
+    {
+      "path": "browser-evidence/bridgend-alternate-atlas-desktop.json",
+      "sha256": "d838392c4e45b27b3d5a49a2fdf9ba849b90ad4f5f41cd12c655ef96d9a511e5",
+      "bytes": 19926
+    },
+    {
+      "path": "browser-evidence/bridgend-alternate-atlas-desktop.png",
+      "sha256": "e8088258c185253b7ebbb705a47027c9e4969e351080bab7a3d445317bd79411",
+      "bytes": 576988
+    },
+    {
+      "path": "browser-evidence/bridgend-alternate-atlas-mobile.json",
+      "sha256": "640c7c08351239610829f1c66f0b7626a9582745b0d65f97645f1fc9ba879d96",
+      "bytes": 19044
+    },
+    {
+      "path": "browser-evidence/bridgend-alternate-atlas-mobile.png",
+      "sha256": "36b2a82edce5577fc22b1f05d49116c8a5d24176bbde79d6b7f0dbe7785011b4",
+      "bytes": 128264
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-desktop-scroll-0.png",
+      "sha256": "ef7614631ff602ba9babb274af15de81c820a35d9c707fec18bb9e3578a1073e",
+      "bytes": 472518
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-desktop-scroll-1.png",
+      "sha256": "cff527b5bffdb33b64659bd5b686e68afde59e08e61c91afe6e5a168a26a195d",
+      "bytes": 180416
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-desktop.json",
+      "sha256": "532c2cf8d2cd24926fdaa06059df3485da0a928c0915955e69f7c9faf11604f6",
+      "bytes": 19927
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-desktop.png",
+      "sha256": "3234c6ca522df3efc7149340cd9edb33f1d0095d7c35f742e8e107678d7b6062",
+      "bytes": 576736
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-mobile-scroll-0.png",
+      "sha256": "1ad7216ccfddf9ec2fff4c30be19cc9ca5294352703d91c9eee01495f0803e42",
+      "bytes": 105498
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-mobile-scroll-1.png",
+      "sha256": "b05b549dc1a339a8b3213a582734cb8f5fc6fc88cd8cb226fea9c3380455873a",
+      "bytes": 190326
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-mobile.json",
+      "sha256": "701ae9cd71131abdc5d4c413d9d00faa0c4c9e41aeccb29f8111d26197cbf1d6",
+      "bytes": 19045
+    },
+    {
+      "path": "browser-evidence/bridgend-atlas-mobile.png",
+      "sha256": "fb857494b10188d01aafc227bbd85cce0ab5ea0d536b6a4f85ed9d511af01bb9",
+      "bytes": 128261
+    },
+    {
+      "path": "browser-evidence/bridgend-contact-desktop-scroll-0.png",
+      "sha256": "a1e8e868da73ad895dc97a13c4df886f202d2574d0c696da2cb94a0c53b8a24f",
+      "bytes": 115542
+    },
+    {
+      "path": "browser-evidence/bridgend-contact-desktop.json",
+      "sha256": "aa0ba858f884a9a75b79564d7cc6efe7b30c7261a2cd0301ce5eecc922176070",
+      "bytes": 7822
+    },
+    {
+      "path": "browser-evidence/bridgend-contact-desktop.png",
+      "sha256": "6cc6595c5599100c9834b2cb97e61ad0efe71b90aa53d79fcfeddb1832fb556a",
+      "bytes": 179447
+    },
+    {
+      "path": "browser-evidence/bridgend-contact-mobile-scroll-0.png",
+      "sha256": "556517c75b3f92d03b4a8666efa71fea61ccb8ed04e2ce5b72468ec87d9b079c",
+      "bytes": 76120
+    },
+    {
+      "path": "browser-evidence/bridgend-contact-mobile.json",
+      "sha256": "b9de54b746363a7cdbe2be0d8071fa286765d8c0519d4191cce08cc284af34e3",
+      "bytes": 7217
+    },
+    {
+      "path": "browser-evidence/bridgend-contact-mobile.png",
+      "sha256": "8a9af66c591bbe8156568b457147ce01b5bc38481b001079438aa3b34c7e5e3d",
+      "bytes": 95916
+    },
+    {
+      "path": "browser-evidence/bridgend-yell-desktop.json",
+      "sha256": "cd4c91a1476aa3f6ab0ef7b67c0194bc93ef461db01679af556dea413ca1c961",
+      "bytes": 1377
+    },
+    {
+      "path": "browser-evidence/bridgend-yell-desktop.png",
+      "sha256": "db43b5b3c5834391796d314b63e60c5d5622403f6fb7e9c33b04c7efe18afff2",
+      "bytes": 71575
+    },
+    {
+      "path": "browser-evidence/bridgend-yell-mobile.json",
+      "sha256": "459dbf1777b49fc0c44374dbbe48b54d985960e3d5c3f5b62c4fcb14a8e6d4b1",
+      "bytes": 1369
+    },
+    {
+      "path": "browser-evidence/bridgend-yell-mobile.png",
+      "sha256": "2f0d9bdb131c193b4e5b67f8447c6a50f264f06c34fac9e080bfa1fb7a837674",
+      "bytes": 57749
+    },
+    {
+      "path": "browser-evidence/bridgend-youtube-desktop.json",
+      "sha256": "db4bd7e9fc70ad1113f6a04970eb91a7ecb42dc82cb0ebcdf4e4ef380a44a7f8",
+      "bytes": 6130
+    },
+    {
+      "path": "browser-evidence/bridgend-youtube-desktop.png",
+      "sha256": "337a483ca74dfc2b454cf673384040e4dc61b001162499da885cff8ba61780b4",
+      "bytes": 154217
+    },
+    {
+      "path": "browser-evidence/bridgend-youtube-mobile.json",
+      "sha256": "c7d711b9bac806c0c46bc31aea179a93bf4363709f7c256f48ffe06a389e1cdf",
+      "bytes": 2033
+    },
+    {
+      "path": "browser-evidence/bridgend-youtube-mobile.png",
+      "sha256": "ece71cea13c4d28ff161a1f4a4b63450d7c899eb853713b34295332dda4cfb48",
+      "bytes": 71765
+    }
+  ]
+}

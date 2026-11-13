@@ -1,0 +1,56 @@
+{
+  "retrieved": "2026-09-08T03:37:06.131Z",
+  "requested": "https://www.andrewdexter.com/Gardenmaintenance.html",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.andrewdexter.com/Gardenmaintenance.html",
+  "title": "Andrew Dexter Property Maintenance",
+  "width": 980,
+  "height": 2121,
+  "reviewDates": [],
+  "body": "Home\tPainting & Decorating\nServices\tHandyman\nServices\tGarden Maintenance\nServices\tContact\n(including Terms & Conditions\nand Privacy Notice)\n\n\n\n\nEmail: [REDACTED_EMAIL]\n\nMobile: 07971 973067\n\n\t\nAndrew Dexter Property Maintenance Services\nGarden Maintenance Services\n\n\nI offer one off and regular garden maintenance services in the Hertford and Ware area. Please contact me to discuss your requirements.\n\nLawn mowing\nLawn maintenanance, including the application of fertilizer, etc.\nHedge cutting\nWeeding and maintenance of garden beds\nPlanting up of new beds, shrubs and small trees\nPruning of shrubs and small trees\nFence painting\n\nPatio cleaning\n\n\nAndrew Dexter Property Maintenance Services is fully licensed by the Environment Agency for the transportation and disposal of waste items. Waste Carrier Licence number: CBDU115334",
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://www.andrewdexter.com/Home.html"
+    },
+    {
+      "text": "Painting & Decorating\nServices",
+      "url": "https://www.andrewdexter.com/Paintingdecorating.html"
+    },
+    {
+      "text": "Handyman\nServices",
+      "url": "https://www.andrewdexter.com/Handyman.html"
+    },
+    {
+      "text": "Garden Maintenance\nServices",
+      "url": "https://www.andrewdexter.com/Gardenmaintenance.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.andrewdexter.com/Contact.html"
+    },
+    {
+      "text": "[REDACTED_EMAIL]",
+      "url": "mailto:[REDACTED_EMAIL]"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Logo",
+      "url": "https://www.andrewdexter.com/AD%20PMS%20logo%20Oct%2023.png",
+      "loaded": true
+    },
+    {
+      "alt": "Which logo",
+      "url": "https://www.andrewdexter.com/WTT%20Hertfordshire%20dual%20logo%2010.jpg",
+      "loaded": true
+    }
+  ]
+}

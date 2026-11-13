@@ -1,0 +1,58 @@
+{
+  "retrieved": "2026-09-08T02:49:07.283Z",
+  "requested": "http://www.jr-renovations.co.uk/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "http://www.jr-renovations.co.uk/",
+  "title": "JR Renovations",
+  "width": 1024,
+  "height": 2217,
+  "reviewDates": [],
+  "body": " \nWelcome to our new website.\n\nSince 2001 we have been designing and crafting high quality house renovations in London and the South East.\n\nPlease visit our Gallery section to see the quality of our work and then read some of the testimonials from our many satisfied customers.\n\nPlease contact us for advice and a free quotation.\n\nRegards,\n\nOur services\nGallery\nTestimonials\nContact",
+  "links": [
+    {
+      "text": "Our services",
+      "url": "http://www.jr-renovations.co.uk/services.html"
+    },
+    {
+      "text": "Gallery",
+      "url": "http://www.jr-renovations.co.uk/gallery.html"
+    },
+    {
+      "text": "Testimonials",
+      "url": "http://www.jr-renovations.co.uk/testimonial.html"
+    },
+    {
+      "text": "Contact",
+      "url": "http://www.jr-renovations.co.uk/contact.html"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "http://www.jr-renovations.co.uk/images/logo_web.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "http://www.jr-renovations.co.uk/images/TT_W_icon.svg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "http://www.jr-renovations.co.uk/index_17_1539362854.JPG",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "http://www.jr-renovations.co.uk/images/roman_sig.gif",
+      "loaded": true
+    }
+  ]
+}

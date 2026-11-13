@@ -1,0 +1,317 @@
+[
+  {
+    "id": "facebook-15",
+    "category": "image",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "hero",
+    "selector": "#hero .facebook-15",
+    "reason": "Full-resolution artwork framing, preserve artist signature; framing example not artwork authorship"
+  },
+  {
+    "id": "facebook-16",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Second angle of same hero artwork, not repeat visual"
+  },
+  {
+    "id": "facebook-17",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Printed person portraits at lower frame; cleaner shirt8 used"
+  },
+  {
+    "id": "facebook-18",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Private birthday dedication and identifiable people"
+  },
+  {
+    "id": "facebook-19",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Private interior with same shirt; not evidence of customer showroom"
+  },
+  {
+    "id": "facebook-0",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Blurred cover rendition, no usable detail"
+  },
+  {
+    "id": "facebook-1",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Cover collage duplicates selected work"
+  },
+  {
+    "id": "facebook-6",
+    "category": "image",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "objects",
+    "selector": "#objects .facebook-6",
+    "reason": "Real display box; label as example, no assumed contents/material guarantee"
+  },
+  {
+    "id": "facebook-7",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Duplicate of17 and other shirt type, not needed"
+  },
+  {
+    "id": "facebook-8",
+    "category": "image",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "shirts",
+    "selector": "#shirts .facebook-8",
+    "reason": "Signed shirt framing; no sports affiliation claim; no private inscription visible"
+  },
+  {
+    "id": "facebook-9",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Duplicate of hero artwork"
+  },
+  {
+    "id": "facebook-10",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Duplicate of hero artwork"
+  },
+  {
+    "id": "facebook-11",
+    "category": "image",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "closing",
+    "selector": "#closing .facebook-11",
+    "reason": "Framed illustrated animal artwork; workshop context, no people"
+  },
+  {
+    "id": "facebook-12",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Personal photographs and private commemorative information"
+  },
+  {
+    "id": "facebook-13",
+    "category": "image",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "artwork",
+    "selector": "#artwork .facebook-13",
+    "reason": "Framed film poster; underlying poster rights separate, local concept only"
+  },
+  {
+    "id": "facebook-14",
+    "category": "image",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Private birthday dedication and identifiable people"
+  },
+  {
+    "id": "logo",
+    "category": "image",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "header",
+    "selector": "#header .logo",
+    "reason": "Official business mark unchanged"
+  },
+  {
+    "id": "identity",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "FACT/PARAPHRASE USE",
+    "section": "hero",
+    "selector": "#hero h1",
+    "reason": "Bespoke framing in Billericay"
+  },
+  {
+    "id": "art-services",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "FACT/PARAPHRASE USE",
+    "section": "artwork",
+    "selector": "#artwork",
+    "reason": "Art prints photos posters canvas and mount enquiries"
+  },
+  {
+    "id": "sport-services",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "FACT/PARAPHRASE USE",
+    "section": "shirts",
+    "selector": "#shirts",
+    "reason": "Shirts and medals"
+  },
+  {
+    "id": "box-services",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "FACT/PARAPHRASE USE",
+    "section": "objects",
+    "selector": "#objects",
+    "reason": "Box framing / three dimensional memorabilia"
+  },
+  {
+    "id": "phone",
+    "category": "fact",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "contact",
+    "selector": "#phone",
+    "reason": "07881 275088"
+  },
+  {
+    "id": "email",
+    "category": "fact",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "contact",
+    "selector": "#email",
+    "reason": "[REDACTED_EMAIL]"
+  },
+  {
+    "id": "address",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "LOCATION/VISIT USE",
+    "section": "contact",
+    "selector": "#address",
+    "reason": "1 Beverley Rise Billericay CM11 2HU"
+  },
+  {
+    "id": "facebook",
+    "category": "fact",
+    "source": "S2",
+    "disposition": "DIRECT USE",
+    "section": "closing",
+    "selector": "#facebook",
+    "reason": "Official gallery"
+  },
+  {
+    "id": "reviews",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "FACT/PARAPHRASE USE",
+    "section": "proof",
+    "selector": "#reviews",
+    "reason": "Customer accounts of artwork and sentimental shirt reframing"
+  },
+  {
+    "id": "hours",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "TIME-SENSITIVE VERIFY/REPHRASE",
+    "section": "contact",
+    "selector": "#visit-advice",
+    "reason": "Directory Mon-Sat10-17 not assumed current"
+  },
+  {
+    "id": "old-email",
+    "category": "fact",
+    "source": "S3",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Malformed old hotmail address excluded"
+  },
+  {
+    "id": "map",
+    "category": "fact",
+    "source": "S3",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Directory GPS1,1 invalid; address-based map link instead"
+  },
+  {
+    "id": "qualifications",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "No verified credentials/material specifications"
+  },
+  {
+    "id": "team",
+    "category": "fact",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "No confirmed team portrait"
+  },
+  {
+    "id": "delivery",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "One review reports delivery not a blanket policy"
+  },
+  {
+    "id": "instagram",
+    "category": "fact",
+    "source": "S2",
+    "disposition": "EXCLUDE",
+    "section": "none",
+    "selector": "",
+    "reason": "Handle not verified; official FB retained"
+  },
+  {
+    "id": "process-tip",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "FACT/PARAPHRASE USE",
+    "section": "prepare",
+    "selector": "#prepare",
+    "reason": "Prepare photo and sizes appropriate to object; editorial suggestion not existing business promise"
+  },
+  {
+    "id": "other-services",
+    "category": "fact",
+    "source": "S1",
+    "disposition": "FACT/PARAPHRASE USE",
+    "section": "artwork",
+    "selector": "#related",
+    "reason": "Certificate embroidery and mount cutting related enquiries"
+  }
+]

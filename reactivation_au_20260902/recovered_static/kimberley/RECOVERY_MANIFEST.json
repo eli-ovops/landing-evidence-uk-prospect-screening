@@ -1,0 +1,141 @@
+{
+  "retrieved_at_utc": "2026-09-02T12:47:57.509750+00:00",
+  "homepage": "https://kimberleycleaning.netlify.app/",
+  "origin": "https://kimberleycleaning.netlify.app",
+  "recovery_scope": "current deployed HTML and browser-requested same-origin static responses only; cross-origin responses are recorded but not downloaded",
+  "online_result": {
+    "status": 200,
+    "metrics": {
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "documentElementScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "title": "Kimberley Cleaning | Residential, Commercial & Vehicle Cleaning in Broome"
+    }
+  },
+  "resources": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=utf-8",
+      "retrieved_at_utc": "2026-09-02T12:47:52.510697+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K6z9mXg.woff2",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "font",
+      "content_type": "font/woff2",
+      "retrieved_at_utc": "2026-09-02T12:47:52.870831+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "font",
+      "content_type": "font/woff2",
+      "retrieved_at_utc": "2026-09-02T12:47:52.825302+00:00"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "document",
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:47:52.250825+00:00",
+      "local_path": "index.html",
+      "bytes": 6483,
+      "sha256": "dc3ac38b2912c5b87489265d4f54617355ab6463aed04d291d9259e17d8ac6d0"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/assets/commercial-cleaning-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:52.907085+00:00",
+      "local_path": "assets/commercial-cleaning-v1.png",
+      "bytes": 1947185,
+      "sha256": "aea8337731b55eb7ac339a8e01aed853292658ebdd37d8d272f2fca187d2605d"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/assets/community-entry-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:52.375612+00:00",
+      "local_path": "assets/community-entry-v1.png",
+      "bytes": 2350283,
+      "sha256": "88b0416808618960ac6492b104827dfe2eb624d83fa00e8096aea0480005d298"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/assets/hero-cleaning-remote-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:52.907699+00:00",
+      "local_path": "assets/hero-cleaning-remote-v1.png",
+      "bytes": 1989778,
+      "sha256": "6406edb5a6efdbffdeffa998dd7afc5c3379e00fe1718efc22f7b4193bfd8753"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/assets/residential-cleaning-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:52.565157+00:00",
+      "local_path": "assets/residential-cleaning-v1.png",
+      "bytes": 1947645,
+      "sha256": "213b04f560c4c8c2427b0debf464a75bb44e77f09f1b21499c98b732bc06b883"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/assets/vehicle-interior-detail-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:52.758602+00:00",
+      "local_path": "assets/vehicle-interior-detail-v1.png",
+      "bytes": 2220335,
+      "sha256": "a7e1e56377292b0e15f51b75294dc84a9556ab42350625681129973759e20d23"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/overrides.css",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:47:52.373928+00:00",
+      "local_path": "overrides.css",
+      "bytes": 770,
+      "sha256": "81361f16f6adf39e1e117e80132a49e66a618dca28c4a60097db22e9f735f788"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/script.js",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/javascript; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:47:52.376228+00:00",
+      "local_path": "script.js",
+      "bytes": 277,
+      "sha256": "090736b7c0803277eb8c5c153b7c28ac23cb62e4312c32d799947da7dd286f8b"
+    },
+    {
+      "url": "https://kimberleycleaning.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:47:52.371525+00:00",
+      "local_path": "styles.css",
+      "bytes": 6238,
+      "sha256": "f345fffe8f108b4c9a35e494ad05929abaeaedcc7e621bcd56f9b462448c1744"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import fs from 'node:fs';import {fileURLToPath} from 'node:url';import {runtime} from '../../../../tools/demo-workflow/core.mjs';
+const root=fileURLToPath(new URL('.',import.meta.url));const b=await runtime().lib.chromium.launch({channel:'chrome',headless:true});
+try{const c=await b.newContext({viewport:{width:1440,height:900},acceptDownloads:false});const p=await c.newPage();await p.goto('https://trustedtraders.which.co.uk/businesses/chris-roach-ltd/',{waitUntil:'domcontentloaded'});await p.waitForTimeout(2000);const imgs=await p.evaluate(()=>[...document.images].filter(i=>i.currentSrc.includes('uploads/image')).map(i=>({src:i.currentSrc,href:i.closest('a')?.getAttribute('href'),html:i.outerHTML})));fs.writeFileSync(root+'source/gallery-links.json',JSON.stringify(imgs,null,2));console.log(imgs);
+}finally{await b.close()}

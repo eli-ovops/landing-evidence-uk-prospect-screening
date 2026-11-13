@@ -1,0 +1,7 @@
+# Remaining acceptance — concrete material, no new implementation permission requested
+
+1. A customer-controlled test arrangement or existing verifiable enquiry receipt evidence linking the exact Yell merchant flow to the recipient. Required cases: required-field validation, rejection/failure, success, recipient receipt, reply path. No real unsolicited test enquiry, captcha solving or terms acceptance has been performed. Keep existing Yell alive; obtain merchant confirmation of its account/plan and continued access.
+2. Customer-confirmed full current business-content set or authorized read access to relevant Facebook albums/posts and the exact mentioned Instagram account. Reconcile all valid details, gallery actions, rules/FAQ and any booking/shop/update capabilities discovered. Current public grid is visible but detail/history completeness cannot be established.
+3. For actual handover, confirmation that six existing official public image/logo files may be used and transferred, plus named deployment/account owner. Optional static hosting plan is documented; domain choice and any paid setup require specific agreement.
+
+Do not broaden this into asking the user to design pages, fill the contract, repeat implementation approval, or send marketing messages. Local code/content repairs are already done. The remaining blocker is source/receiver/rights authority and test evidence, not an arbitrary review score.

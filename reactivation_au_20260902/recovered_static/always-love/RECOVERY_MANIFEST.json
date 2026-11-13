@@ -1,0 +1,351 @@
+{
+  "retrieved_at_utc": "2026-09-02T12:48:05.899076+00:00",
+  "homepage": "https://mudgeecelebrant.netlify.app/",
+  "origin": "https://mudgeecelebrant.netlify.app",
+  "recovery_scope": "current deployed HTML and browser-requested same-origin static responses only; cross-origin responses are recorded but not downloaded",
+  "online_result": {
+    "status": 200,
+    "metrics": {
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "documentElementScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "title": "Always Love Celebrant Services \u00b7 Mudgee"
+    }
+  },
+  "resources": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600&family=Prata&display=swap",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=utf-8",
+      "retrieved_at_utc": "2026-09-02T12:47:58.595130+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/manrope/v20/xn7gYHE41ni1AdIRggexSvfedN4.woff2",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "font",
+      "content_type": "font/woff2",
+      "retrieved_at_utc": "2026-09-02T12:47:59.027255+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWPCm7bLnwI.woff2",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "font",
+      "content_type": "font/woff2",
+      "retrieved_at_utc": "2026-09-02T12:47:59.027532+00:00"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "document",
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:47:58.242704+00:00",
+      "local_path": "index.html",
+      "bytes": 37993,
+      "sha256": "0528d8b2a104fa7a9615d2a5e1576b38743ee4834a937ecd80d3b490324c5040"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/#ceremonies",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:11.441749+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 37993,
+      "sha256": "0528d8b2a104fa7a9615d2a5e1576b38743ee4834a937ecd80d3b490324c5040",
+      "local_path": "index.html"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/#main",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:09.601446+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 37993,
+      "sha256": "0528d8b2a104fa7a9615d2a5e1576b38743ee4834a937ecd80d3b490324c5040",
+      "local_path": "index.html"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/#stories",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:13.345859+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 37993,
+      "sha256": "0528d8b2a104fa7a9615d2a5e1576b38743ee4834a937ecd80d3b490324c5040",
+      "local_path": "index.html"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/#top",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:10.719619+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 37993,
+      "sha256": "0528d8b2a104fa7a9615d2a5e1576b38743ee4834a937ecd80d3b490324c5040",
+      "local_path": "index.html"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/#victoria",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:12.656619+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 37993,
+      "sha256": "0528d8b2a104fa7a9615d2a5e1576b38743ee4834a937ecd80d3b490324c5040",
+      "local_path": "index.html"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/ceremony.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:01.362454+00:00",
+      "local_path": "assets/images/ceremony.jpg",
+      "bytes": 218073,
+      "sha256": "1e435536623be0dbb13fa120347c593cdace8cbaeae743c193271befd8aa09a6"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/country-wedding.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:47:58.773545+00:00",
+      "local_path": "assets/images/country-wedding.jpg",
+      "bytes": 96579,
+      "sha256": "54be58cf8bba46c68355813992fe5b3f1b29f05b1af0676bea7f9aabe968d2a0"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/elegant-couple.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:15.409623+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 163091,
+      "sha256": "60b3701697536904ae2d2150f98e405ee7e48871365105469a1897b225ce0111",
+      "local_path": "assets/images/elegant-couple.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/engagement-celebration.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:01.360631+00:00",
+      "local_path": "assets/images/engagement-celebration.jpg",
+      "bytes": 125581,
+      "sha256": "5e227822a794cdbbd340fb4f41e14e35e44db9be09922012d3f9560fb65023b9"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/engagement-couple.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:47:58.835098+00:00",
+      "local_path": "assets/images/engagement-couple.jpg",
+      "bytes": 189288,
+      "sha256": "c0312d1fde395a4505f74ddeae65985e526f2938ec7466a09ae509290ba7530f"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/furbabies.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:19.415065+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 87141,
+      "sha256": "c3591bba7bfd0a8624933d7ad901776c24c3d4587fa39f166040944348341ac2",
+      "local_path": "assets/images/furbabies.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/garden-chandelier.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:01.146798+00:00",
+      "local_path": "assets/images/garden-chandelier.jpg",
+      "bytes": 144256,
+      "sha256": "c9c61e9c42ad2d0a4211738d6c5b8a82a086879b3f4fd7bfef5a2e2f7aed856d"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/hero-landscape.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:47:58.383866+00:00",
+      "local_path": "assets/images/hero-landscape.jpg",
+      "bytes": 264543,
+      "sha256": "095dc53ed8f80caae0543e7fcebf1344c8614823e82b30e1c5ba792eccf4068f"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/inclusive-wedding.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:20.880459+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 181724,
+      "sha256": "38d76ca599ad956eb845d9c73750cfa8de734995b0d554bdccc9cc7465058b3d",
+      "local_path": "assets/images/inclusive-wedding.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/logo-nav.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:58.745314+00:00",
+      "local_path": "assets/images/logo-nav.png",
+      "bytes": 14237,
+      "sha256": "1f520c0ec1a62200e5b52447929ecd1037d3dcc9f6f06dac61177bf3d70cc422"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/logo-white.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:48:01.487579+00:00",
+      "local_path": "assets/images/logo-white.png",
+      "bytes": 32186,
+      "sha256": "30d66babd3af5455dc665fbed4f384eb0b7562a9034c685790b3b2c7262c3afb"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/memorial.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:21.917035+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 115005,
+      "sha256": "5bf8942b0516237fe75d130a49a0239c060cd3e62d630e28fe28e422ff3efea4",
+      "local_path": "assets/images/memorial.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/nature-wedding.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:17.287158+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 200847,
+      "sha256": "27c7c18ddac1e0412edf76ab8061b31259a5be0b459cd4355918379ffebe6a4c",
+      "local_path": "assets/images/nature-wedding.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/parklands.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:01.324609+00:00",
+      "local_path": "assets/images/parklands.jpg",
+      "bytes": 141343,
+      "sha256": "673471321cd51f3a6976f4b8e373a8b0f0693c34746b0106e77e3030cae7e205"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/surprise-wedding.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:14.526583+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 145112,
+      "sha256": "7d86486c5dba0df2b4b304cadb761e815a31440da0f21823250863c82a829a3a",
+      "local_path": "assets/images/surprise-wedding.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/victoria-portrait.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:00.783620+00:00",
+      "local_path": "assets/images/victoria-portrait.jpg",
+      "bytes": 172134,
+      "sha256": "b0b41a3ded2d2d42affbef3861e70552933eafe08813c40bc629b2b222d05a6b"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/victoria-wedding.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:18.549560+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 144455,
+      "sha256": "8f40d0de91b3cfe98e0d1dc8514402f4135b7b4e55382a5a50d9b598fa592569",
+      "local_path": "assets/images/victoria-wedding.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/vow-renewal.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:47:58.975469+00:00",
+      "local_path": "assets/images/vow-renewal.jpg",
+      "bytes": 136509,
+      "sha256": "0b2475b7621a92f352bf858b5b9886545daee053d136fe14f788858809113304"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/wedding-lovely.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:01.361872+00:00",
+      "local_path": "assets/images/wedding-lovely.jpg",
+      "bytes": 314992,
+      "sha256": "b5ec333ac1d0bcbfa584608614a55c9f540528ca977f77d1d0618a3c6fe68169"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/wedding-party.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:47:58.974428+00:00",
+      "local_path": "assets/images/wedding-party.jpg",
+      "bytes": 173274,
+      "sha256": "c281438b767e07384ff55cfbb66151e023b0b7eff83d83204f373f539213f4d8"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/winery-wedding.jpg",
+      "same_origin": true,
+      "retrieved_at_utc": "2026-09-02T12:53:16.482067+00:00",
+      "recovery_method": "HTML/CSS reference recovery",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 138950,
+      "sha256": "b5ea8798c65b4f1c253d81b375f0cb4b674cd756186b870d90d3ad704c92b3dc",
+      "local_path": "assets/images/winery-wedding.jpg"
+    },
+    {
+      "url": "https://mudgeecelebrant.netlify.app/assets/images/wisteria-garden.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:01.118144+00:00",
+      "local_path": "assets/images/wisteria-garden.jpg",
+      "bytes": 208851,
+      "sha256": "e8cd98e773a06bd6217eaaa4e3cc2037e1973aa78ab992585b4e44519ba4b110"
+    }
+  ],
+  "recovered_at_utc": "2026-09-02T12:53:22.870633+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "desktop": {
+    "heroViewer": "opened actual native dialog",
+    "escapeClose": "PASS",
+    "focusReturn": "#hero"
+  },
+  "mobile": {
+    "viewport": "390x844",
+    "objectViewerNaturalWidth": 315,
+    "objectViewerRenderedWidth": 315,
+    "overflow": false,
+    "closeButton": "PASS",
+    "focusReturn": "#objects"
+  },
+  "copyPageLink": {
+    "buttonClick": "PASS",
+    "status": "Link copied. Ready to share.",
+    "clipboardToolRead": "EMPTY / INCONCLUSIVE"
+  },
+  "external": {
+    "yell": "actual form rendered; reCAPTCHA and terms; no data filled or submitted",
+    "facebookPhotos": "photo grid opens, login overlay; individual detail previously redirects login; full history coverage BLOCKED"
+  },
+  "noJavascriptFallback": "image links are direct original files; code inspection only, no disabled-JS browser run"
+}

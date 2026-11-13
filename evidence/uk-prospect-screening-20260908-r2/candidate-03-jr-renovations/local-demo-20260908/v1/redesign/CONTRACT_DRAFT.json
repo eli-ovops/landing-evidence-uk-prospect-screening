@@ -1,0 +1,1248 @@
+{
+  "schemaVersion": 1,
+  "client": "JR Renovations",
+  "owner": "01a07f53-6016-7802-986e-80e23e1259ab",
+  "activeVersion": "v1",
+  "currentEvidence": "User rejected previous design; new full direction rebuild pending independent Pre-code. Old PASS invalid.",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/site",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "sha256": "cc51694769c93f63ee41be14f83617fe1762bd35718883f53d044dee5d824b15"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/ASSET_LEDGER.json",
+      "sha256": "2f39a79448bc75c740977afc63e4bd5b5b81e4f5106ffff531d8c2d4483e8eab"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "grade": "A",
+      "url": "http://www.jr-renovations.co.uk/",
+      "retrievedDate": "2026-09-08",
+      "platform": "JR official website",
+      "attribution": "JR Renovations / Roman Chojnacki"
+    },
+    {
+      "id": "S2",
+      "grade": "A",
+      "url": "http://www.jr-renovations.co.uk/services.html",
+      "retrievedDate": "2026-09-08",
+      "platform": "JR official website",
+      "attribution": "JR published service list"
+    },
+    {
+      "id": "S3",
+      "grade": "B",
+      "url": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+      "retrievedDate": "2026-09-08",
+      "platform": "Which Trusted Traders",
+      "attribution": "JR merchant-managed My work; BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED, reviews separately attributed to public reviewer"
+    },
+    {
+      "id": "S4",
+      "grade": "A",
+      "url": "http://www.jr-renovations.co.uk/gallery.html",
+      "retrievedDate": "2026-09-08",
+      "platform": "JR official website",
+      "attribution": "JR published gallery; original direct links"
+    },
+    {
+      "id": "S5",
+      "grade": "A",
+      "url": "http://www.jr-renovations.co.uk/contact.html",
+      "retrievedDate": "2026-09-08",
+      "platform": "JR official website",
+      "attribution": "JR official named business contact and complaints"
+    }
+  ],
+  "assets": [
+    {
+      "id": "A01",
+      "path": "assets/asset-01.jpg",
+      "originalPath": "assets/asset-01.jpg",
+      "sha256": "e9b5ffdb78482bb2546f2f32eb76c4eac11f89a1e1fe264e4214c2d96489b6e2",
+      "originalSha256": "e9b5ffdb78482bb2546f2f32eb76c4eac11f89a1e1fe264e4214c2d96489b6e2",
+      "sourceId": "S3",
+      "role": "Historical derivative excluded from redesigned render; original bytes retained",
+      "focus": "Green tiled bathroom; full portrait, no fabricated details",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A02",
+      "path": "assets/asset-02.jpg",
+      "originalPath": "assets/asset-02.jpg",
+      "sha256": "735c2731bb119658b787abeed97bed1f6105b1a3884cbccf9064bce30ebfe3ac",
+      "originalSha256": "735c2731bb119658b787abeed97bed1f6105b1a3884cbccf9064bce30ebfe3ac",
+      "sourceId": "S3",
+      "role": "Historical derivative excluded from redesigned render; original bytes retained",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A03",
+      "path": "assets/asset-03.jpg",
+      "originalPath": "assets/asset-03.jpg",
+      "sha256": "38986f696b435037cff42220bd8e01d2d950757c8279155aa16fafbeddeb3ba5",
+      "originalSha256": "38986f696b435037cff42220bd8e01d2d950757c8279155aa16fafbeddeb3ba5",
+      "sourceId": "S3",
+      "role": "Historical derivative excluded from redesigned render; original bytes retained",
+      "focus": "Kitchen fitting: preserve cabinets and floor",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A04",
+      "path": "assets/asset-04.jpg",
+      "originalPath": "assets/asset-04.jpg",
+      "sha256": "1e0586a8ffd74e087f19d6eb6287d8fd1d6ba62e1f10a41fbed35a708039e7eb",
+      "originalSha256": "1e0586a8ffd74e087f19d6eb6287d8fd1d6ba62e1f10a41fbed35a708039e7eb",
+      "sourceId": "S3",
+      "role": "Excluded alternate work preserved for provenance",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A05",
+      "path": "assets/asset-05.jpg",
+      "originalPath": "assets/asset-05.jpg",
+      "sha256": "3a990d87c4360b772dfdcfb6e8d70f8abcdd332e22eb09cc8a6078c62ce943a7",
+      "originalSha256": "3a990d87c4360b772dfdcfb6e8d70f8abcdd332e22eb09cc8a6078c62ce943a7",
+      "sourceId": "S3",
+      "role": "Excluded alternate work preserved for provenance",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A06",
+      "path": "assets/asset-06.jpg",
+      "originalPath": "assets/asset-06.jpg",
+      "sha256": "38fb506f1d6e3dd284cba01d8fb8d8599e75ea5a1c54f9fa59f1e3a34c5c0e54",
+      "originalSha256": "38fb506f1d6e3dd284cba01d8fb8d8599e75ea5a1c54f9fa59f1e3a34c5c0e54",
+      "sourceId": "S3",
+      "role": "Historical derivative excluded from redesigned render; original bytes retained",
+      "focus": "Interior refurbishment: full fireplace and floor",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A07",
+      "path": "assets/asset-07.jpg",
+      "originalPath": "assets/asset-07.jpg",
+      "sha256": "e8e75675d7382b495ca2f85f3e9603396999b45d95d645d053404bd80e88b55e",
+      "originalSha256": "e8e75675d7382b495ca2f85f3e9603396999b45d95d645d053404bd80e88b55e",
+      "sourceId": "S3",
+      "role": "Excluded alternate work preserved for provenance",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A08",
+      "path": "assets/asset-08.jpg",
+      "originalPath": "assets/asset-08.jpg",
+      "sha256": "4c0952c644181207cab699253b550ed84c1d3b2e2c0ea042506cc81eb7692315",
+      "originalSha256": "4c0952c644181207cab699253b550ed84c1d3b2e2c0ea042506cc81eb7692315",
+      "sourceId": "S3",
+      "role": "Excluded alternate work preserved for provenance",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A09",
+      "path": "assets/asset-09.jpg",
+      "originalPath": "assets/asset-09.jpg",
+      "sha256": "31332e4c3a4efbebf02ecd593c47c08467c38b77ee419d8a8f2d28cddb426539",
+      "originalSha256": "31332e4c3a4efbebf02ecd593c47c08467c38b77ee419d8a8f2d28cddb426539",
+      "sourceId": "S3",
+      "role": "Historical derivative excluded from redesigned render; original bytes retained",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A10",
+      "path": "assets/asset-10.jpg",
+      "originalPath": "assets/asset-10.jpg",
+      "sha256": "d81fcb8971c201a4cc72a2456525118e946b8d7a0363c5a37d3181b02f6af6cf",
+      "originalSha256": "d81fcb8971c201a4cc72a2456525118e946b8d7a0363c5a37d3181b02f6af6cf",
+      "sourceId": "S3",
+      "role": "Historical derivative excluded from redesigned render; original bytes retained",
+      "focus": "Kitchen dining room: preserve doors/table",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A11",
+      "path": "assets/asset-11.jpg",
+      "originalPath": "assets/asset-11.jpg",
+      "sha256": "83dd2e6d749b4fc2c272d46f55be32f25654d1c1233129471d17fa6350087d53",
+      "originalSha256": "83dd2e6d749b4fc2c272d46f55be32f25654d1c1233129471d17fa6350087d53",
+      "sourceId": "S3",
+      "role": "Excluded alternate work preserved for provenance",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A12",
+      "path": "assets/asset-12.jpg",
+      "originalPath": "assets/asset-12.jpg",
+      "sha256": "81370948e9df3bef563e022ad3de5f561cd3332760b82a5967401a8e005ed97c",
+      "originalSha256": "81370948e9df3bef563e022ad3de5f561cd3332760b82a5967401a8e005ed97c",
+      "sourceId": "S3",
+      "role": "Historical derivative excluded from redesigned render; original bytes retained",
+      "focus": "Distinct geometric tiling detail; full tall image",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A13",
+      "path": "assets/asset-13.png",
+      "originalPath": "assets/asset-13.png",
+      "sha256": "9c802885fd29a241687b15c7195d4754a328811f61ab455d8e2e5e3bb734cadc",
+      "originalSha256": "9c802885fd29a241687b15c7195d4754a328811f61ab455d8e2e5e3bb734cadc",
+      "sourceId": "S3",
+      "role": "Excluded alternate work preserved for provenance",
+      "focus": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A14",
+      "path": "assets/asset-14.jpg",
+      "originalPath": "assets/asset-14.jpg",
+      "sha256": "cc26ae809c92eeeec2886726cd1e2f3a4221e85616bab9bdcef5add4ac17ea83",
+      "originalSha256": "cc26ae809c92eeeec2886726cd1e2f3a4221e85616bab9bdcef5add4ac17ea83",
+      "sourceId": "S4",
+      "role": "header",
+      "focus": "Unmodified official logo at natural size",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A15",
+      "path": "assets/asset-15.jpg",
+      "originalPath": "assets/asset-15.jpg",
+      "sha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+      "originalSha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+      "sourceId": "S4",
+      "role": "process",
+      "focus": "Intact official before/after composite; never imply current review project",
+      "authenticity": "REAL",
+      "rights": "Concept scope A/B permission under current user project rule; copyright and final source transfer UNKNOWN",
+      "permissionEvidence": "Current PROJECT_CORE.md A/B local independent concept scope; ASSET_LEDGER.json attribution"
+    },
+    {
+      "id": "A02O",
+      "path": "assets/room-A02.jpg",
+      "originalPath": "assets/room-A02.jpg",
+      "sha256": "504f627a738273b7300384411006794deffbfa011148204f2bd23ce285fb933f",
+      "originalSha256": "504f627a738273b7300384411006794deffbfa011148204f2bd23ce285fb933f",
+      "sourceId": "S3",
+      "role": "services",
+      "focus": "Same-scene real high-resolution original, source comparison checked; show principal room structure",
+      "authenticity": "REAL",
+      "rights": "B-grade local Concept scope only; copyright and transfer UNKNOWN",
+      "permissionEvidence": "Current project A/B concept-use permission; redesign/ORIGINALS.json and inventory"
+    },
+    {
+      "id": "A03O",
+      "path": "assets/room-A03.jpg",
+      "originalPath": "assets/room-A03.jpg",
+      "sha256": "e1a3b0f9165a95a391a8b278bee514396c76690941c06aac73de851216972ea8",
+      "originalSha256": "e1a3b0f9165a95a391a8b278bee514396c76690941c06aac73de851216972ea8",
+      "sourceId": "S3",
+      "role": "services",
+      "focus": "Same-scene real high-resolution original, source comparison checked; show principal room structure",
+      "authenticity": "REAL",
+      "rights": "B-grade local Concept scope only; copyright and transfer UNKNOWN",
+      "permissionEvidence": "Current project A/B concept-use permission; redesign/ORIGINALS.json and inventory"
+    },
+    {
+      "id": "A09O",
+      "path": "assets/room-A09.jpg",
+      "originalPath": "assets/room-A09.jpg",
+      "sha256": "0b40495a35c401a3a780747600e1d35657085dd375cad1ba0acc0e8f50dbb744",
+      "originalSha256": "0b40495a35c401a3a780747600e1d35657085dd375cad1ba0acc0e8f50dbb744",
+      "sourceId": "S3",
+      "role": "services",
+      "focus": "Same-scene real high-resolution original, source comparison checked; show principal room structure",
+      "authenticity": "REAL",
+      "rights": "B-grade local Concept scope only; copyright and transfer UNKNOWN",
+      "permissionEvidence": "Current project A/B concept-use permission; redesign/ORIGINALS.json and inventory"
+    },
+    {
+      "id": "A10O",
+      "path": "assets/room-A10.jpg",
+      "originalPath": "assets/room-A10.jpg",
+      "sha256": "cec2c72ba9182c2744a4bf2a79a6661797233e77b81b9b9b2bf301c8de547d81",
+      "originalSha256": "cec2c72ba9182c2744a4bf2a79a6661797233e77b81b9b9b2bf301c8de547d81",
+      "sourceId": "S3",
+      "role": "hero",
+      "focus": "Same-scene real high-resolution original, source comparison checked; show principal room structure",
+      "authenticity": "REAL",
+      "rights": "B-grade local Concept scope only; copyright and transfer UNKNOWN",
+      "permissionEvidence": "Current project A/B concept-use permission; redesign/ORIGINALS.json and inventory"
+    },
+    {
+      "id": "A12O",
+      "path": "assets/room-A12.jpg",
+      "originalPath": "assets/room-A12.jpg",
+      "sha256": "779bc0621d676844bd0a3d1bd9c66f12ed125cecf5db0232f4426118bf0c5260",
+      "originalSha256": "779bc0621d676844bd0a3d1bd9c66f12ed125cecf5db0232f4426118bf0c5260",
+      "sourceId": "S3",
+      "role": "contact",
+      "focus": "Same-scene real high-resolution original, source comparison checked; show principal room structure",
+      "authenticity": "REAL",
+      "rights": "B-grade local Concept scope only; copyright and transfer UNKNOWN",
+      "permissionEvidence": "Current project A/B concept-use permission; redesign/ORIGINALS.json and inventory"
+    }
+  ],
+  "items": [
+    {
+      "id": "IA01",
+      "category": "image",
+      "assetId": "A01",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "hero",
+      "selector": "none",
+      "reason": "User rejected old visual direction; same-scene high-resolution source replaces selected derivative, or visual is redundant",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA02",
+      "category": "image",
+      "assetId": "A02",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "User rejected old visual direction; same-scene high-resolution source replaces selected derivative, or visual is redundant",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA03",
+      "category": "image",
+      "assetId": "A03",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "services",
+      "selector": "none",
+      "reason": "User rejected old visual direction; same-scene high-resolution source replaces selected derivative, or visual is redundant",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA04",
+      "category": "image",
+      "assetId": "A04",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA05",
+      "category": "image",
+      "assetId": "A05",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA06",
+      "category": "image",
+      "assetId": "A06",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "services",
+      "selector": "none",
+      "reason": "User rejected old visual direction; same-scene high-resolution source replaces selected derivative, or visual is redundant",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA07",
+      "category": "image",
+      "assetId": "A07",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA08",
+      "category": "image",
+      "assetId": "A08",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA09",
+      "category": "image",
+      "assetId": "A09",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "User rejected old visual direction; same-scene high-resolution source replaces selected derivative, or visual is redundant",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA10",
+      "category": "image",
+      "assetId": "A10",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "closing",
+      "selector": "none",
+      "reason": "User rejected old visual direction; same-scene high-resolution source replaces selected derivative, or visual is redundant",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA11",
+      "category": "image",
+      "assetId": "A11",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA12",
+      "category": "image",
+      "assetId": "A12",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "detail",
+      "selector": "none",
+      "reason": "User rejected old visual direction; same-scene high-resolution source replaces selected derivative, or visual is redundant",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA13",
+      "category": "image",
+      "assetId": "A13",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S3",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "applicability": "YES",
+      "disposition": "EXCLUDE",
+      "section": "none",
+      "selector": "none",
+      "reason": "Alternate historical work repeats an already represented room/service; kept in ledger, not needed in selected single-page slice",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA14",
+      "category": "image",
+      "assetId": "A14",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S4",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "header",
+      "selector": "#brand-logo",
+      "reason": "Unmodified official logo at natural size",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA15",
+      "category": "image",
+      "assetId": "A15",
+      "factState": "SOURCE CLAIM",
+      "sourceId": "S4",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "process",
+      "selector": "#before-after",
+      "reason": "Intact official before/after composite; never imply current review project",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "F01",
+      "category": "fact",
+      "sourceId": "S1",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#about",
+      "selector": "#about",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Roman Chojnacki"
+    },
+    {
+      "id": "F02",
+      "category": "fact",
+      "sourceId": "S2",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#services",
+      "selector": "#services",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Kitchen fitting"
+    },
+    {
+      "id": "F03",
+      "category": "fact",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#project-fit",
+      "selector": "#project-fit",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "whole project"
+    },
+    {
+      "id": "F04",
+      "category": "fact",
+      "sourceId": "S4",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#gallery-link",
+      "selector": "#gallery-link",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "View the original gallery"
+    },
+    {
+      "id": "F05",
+      "category": "fact",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#review-link",
+      "selector": "#review-link",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Read reviews on Which?"
+    },
+    {
+      "id": "F06",
+      "category": "fact",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#reviews",
+      "selector": "#reviews",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "27 August 2026"
+    },
+    {
+      "id": "F07",
+      "category": "fact",
+      "sourceId": "S5",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#contact",
+      "selector": "#contact",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Charlton"
+    },
+    {
+      "id": "F08",
+      "category": "fact",
+      "sourceId": "S5",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#email",
+      "selector": "#email",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "[REDACTED_EMAIL]"
+    },
+    {
+      "id": "F09",
+      "category": "fact",
+      "sourceId": "S5",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "section": "#original-contact",
+      "selector": "#original-contact",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Business details & complaints"
+    },
+    {
+      "id": "F10",
+      "category": "fact",
+      "sourceId": "S4",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "#brand-logo",
+      "selector": "#brand-logo",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "A14"
+    },
+    {
+      "id": "F11",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Public account, capacity and hours unknown, no unsupported customer-facing claims",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F12",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Official portrait/signature unnecessary for room-work proof; name and contact retained",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "F13",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "reason": "Internal investment rationale only; not a customer business claim and no need-for-leads assertion",
+      "mappingStatus": "OWNER_CONFIRMED"
+    },
+    {
+      "id": "C1",
+      "category": "path",
+      "sourceId": "S5",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "#phone",
+      "href": "tel:+447704668583",
+      "promise": "Call Roman",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "C2",
+      "category": "path",
+      "sourceId": "S5",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "#landline",
+      "href": "tel:+442083052969",
+      "promise": "Call landline",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "C3",
+      "category": "path",
+      "sourceId": "S5",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "#email",
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Email Roman",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "C4",
+      "category": "path",
+      "sourceId": "S3",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "reviews",
+      "selector": "#review-link",
+      "href": "https://trustedtraders.which.co.uk/businesses/jr-renovations/",
+      "promise": "Read independent reviews",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "C5",
+      "category": "path",
+      "sourceId": "S4",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "#gallery-link",
+      "href": "http://www.jr-renovations.co.uk/gallery.html",
+      "promise": "View original gallery",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "C6",
+      "category": "path",
+      "sourceId": "S5",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "contact",
+      "selector": "#original-contact",
+      "href": "http://www.jr-renovations.co.uk/contact.html",
+      "promise": "Business details and complaints",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "C7",
+      "category": "path",
+      "sourceId": "S1",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "footer",
+      "selector": "#original-site",
+      "href": "http://www.jr-renovations.co.uk/",
+      "promise": "Read original JR website content",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "C8",
+      "category": "path",
+      "sourceId": "S1",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "LOCATION/VISIT USE",
+      "section": "footer",
+      "selector": "#testimonial-link",
+      "href": "http://www.jr-renovations.co.uk/testimonial.html",
+      "promise": "Read original JR website content",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA02O",
+      "category": "image",
+      "assetId": "A02O",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "services",
+      "selector": "#bath-work",
+      "reason": "New direction actual work at original resolution",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA03O",
+      "category": "image",
+      "assetId": "A03O",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "services",
+      "selector": "#kitchen-work",
+      "reason": "New direction actual work at original resolution",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA09O",
+      "category": "image",
+      "assetId": "A09O",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "services",
+      "selector": "#interior-work",
+      "reason": "New direction actual work at original resolution",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA10O",
+      "category": "image",
+      "assetId": "A10O",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "hero",
+      "selector": "#hero-room",
+      "reason": "New direction actual work at original resolution",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    },
+    {
+      "id": "IA12O",
+      "category": "image",
+      "assetId": "A12O",
+      "sourceId": "S3",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "UNCONFIRMED",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "section": "contact",
+      "selector": "#closing-work",
+      "reason": "New direction actual work at original resolution",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ]
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero-cta"
+  },
+  "sections": [
+    "#hero",
+    "#services",
+    "#work",
+    "#reviews",
+    "#contact"
+  ],
+  "coverageReview": "UNKNOWN \u2014 new design awaiting Pre-code and implementation",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "text": "| F01 | JR Renovations, Roman Chojnacki, operating since 2001 per site | http://www.jr-renovations.co.uk/ | FACT/PARAPHRASE USE: #about; attribute business experience, no invented team |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "text": "| F02 | Kitchen fitting, bathroom fitting, internal/external refurbishment, plumbing, carpentry, plastering, tiling, decorating, fencing/decking | http://www.jr-renovations.co.uk/services.html | FACT/PARAPHRASE USE: #services; 3 grouped service paths; full additional services in details |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "text": "| F03 | Complete renovation preference; standalone painting/plastering may not be taken | https://trustedtraders.which.co.uk/businesses/jr-renovations/ | FACT/PARAPHRASE USE: #project-fit; ask Roman about smaller work, no categorical refusal |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "text": "| F04 | Existing gallery has 12 clickable before/after project photos | http://www.jr-renovations.co.uk/gallery.html | DIRECT USE: #before-after, full-gallery link; no claim existing site lacks proof |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "text": "| F05 | Which business has 52 reviews and 5.0; current review 27 August 2026 | https://trustedtraders.which.co.uk/businesses/jr-renovations/ | TIME-SENSITIVE VERIFY/REPHRASE: link independent reviews without volatile rating/count on page |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 14,
+      "text": "| F06 | Recent review describes kitchen/utility/loo, detailed quote and discussed changes | https://trustedtraders.which.co.uk/businesses/jr-renovations/ | FACT/PARAPHRASE USE: #reviews; short expressly paraphrased summary, date, no link to old photos as same project |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 15,
+      "text": "| F07 | London/South East; Charlton SE7 7NN, 29A Delafield Road | http://www.jr-renovations.co.uk/contact.html | LOCATION/VISIT USE: #contact; base only, not walk-in showroom; official contact page link preserves full address |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 16,
+      "text": "| F08 | [REDACTED_EMAIL], 07704 668583, 0208 3052969 | http://www.jr-renovations.co.uk/contact.html | LOCATION/VISIT USE: #email, #phone, #landline; native mail/tel, no form submission |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 17,
+      "text": "| F09 | Existing written complaints procedure on contact page | http://www.jr-renovations.co.uk/contact.html | DIRECT USE via #original-contact link; do not silently rewrite legal process |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 18,
+      "text": "| F10 | Official logo black serif JR with blue underline | http://www.jr-renovations.co.uk/images/logo_web.jpg | DIRECT USE: #brand-logo, retain pixels; blue informs accent |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 19,
+      "text": "| F11 | Official social account not attributable in bounded research, hours and capacity unverified | ../../website-value-research/SOURCES.md | EXCLUDE: no invented accounts, hours, instant availability or response-time promise |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 20,
+      "text": "| F12 | Roman portrait/signature exists; no evidence of separate likeness clearance | http://www.jr-renovations.co.uk/contact.html | EXCLUDE: name/contact retained; portrait/signature unnecessary to room-work proof |"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 21,
+      "text": "| F13 | Strong Which and referral evidence; incremental value conditional | ../../website-value-research/WEBSITE_VALUE_REPORT.md | FACT/PARAPHRASE USE internally: purchase thesis; no fabricated need for more leads |"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 9,
+      "excerpt": "| F01 | JR Renovations, Roman Chojnacki, operating since 2001 per site | http://www.jr-renovations.co.uk/ | FACT/PARAPHRASE USE: #about; attribute business experience, no invented team |",
+      "excerptSha256": "557685db0ebc2f6a70d7b66bb6453ec0468100bec4c200ba28ab6f9bad4bf84b",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F01"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 10,
+      "excerpt": "| F02 | Kitchen fitting, bathroom fitting, internal/external refurbishment, plumbing, carpentry, plastering, tiling, decorating, fencing/decking | http://www.jr-renovations.co.uk/services.html | FACT/PARAPHRASE USE: #services; 3 grouped service paths; full additional services in details |",
+      "excerptSha256": "54f94ca3c65d5317cde99dafc133ed379aa10867bf17bc0b7ac8b29e466ba9a7",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F02"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 11,
+      "excerpt": "| F03 | Complete renovation preference; standalone painting/plastering may not be taken | https://trustedtraders.which.co.uk/businesses/jr-renovations/ | FACT/PARAPHRASE USE: #project-fit; ask Roman about smaller work, no categorical refusal |",
+      "excerptSha256": "3f434e0e5e66e574b82c2b58a9e1676b50812633aba63eac35e64b43cda328c9",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F03"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 12,
+      "excerpt": "| F04 | Existing gallery has 12 clickable before/after project photos | http://www.jr-renovations.co.uk/gallery.html | DIRECT USE: #before-after, full-gallery link; no claim existing site lacks proof |",
+      "excerptSha256": "f7f2ef0c562cdd4dea15d4c586fd8ee7a784586794871b41cd162489f120c3bb",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F04"
+      ],
+      "sourceIds": [
+        "S4"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 13,
+      "excerpt": "| F05 | Which business has 52 reviews and 5.0; current review 27 August 2026 | https://trustedtraders.which.co.uk/businesses/jr-renovations/ | TIME-SENSITIVE VERIFY/REPHRASE: link independent reviews without volatile rating/count on page |",
+      "excerptSha256": "7bd068530cdb651cde9aac13e47b2377336f54a54ea2545fbbe6f014e85a99cc",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F05"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 14,
+      "excerpt": "| F06 | Recent review describes kitchen/utility/loo, detailed quote and discussed changes | https://trustedtraders.which.co.uk/businesses/jr-renovations/ | FACT/PARAPHRASE USE: #reviews; short expressly paraphrased summary, date, no link to old photos as same project |",
+      "excerptSha256": "73dc3f2b14b4127e68495cec1b24e80302fcdfc644c32e8ebc1a0a219bb5fd12",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F06"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 15,
+      "excerpt": "| F07 | London/South East; Charlton SE7 7NN, 29A Delafield Road | http://www.jr-renovations.co.uk/contact.html | LOCATION/VISIT USE: #contact; base only, not walk-in showroom; official contact page link preserves full address |",
+      "excerptSha256": "260623d1d961fade1d93f37528c916aaffdf9823235edf9790ff2a83ded110b9",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F07"
+      ],
+      "sourceIds": [
+        "S5"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 16,
+      "excerpt": "| F08 | [REDACTED_EMAIL], 07704 668583, 0208 3052969 | http://www.jr-renovations.co.uk/contact.html | LOCATION/VISIT USE: #email, #phone, #landline; native mail/tel, no form submission |",
+      "excerptSha256": "41f2530b3400910c92364b2b48441697d3fd8911f61846235164b5c3d8a866e8",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F08"
+      ],
+      "sourceIds": [
+        "S5"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 17,
+      "excerpt": "| F09 | Existing written complaints procedure on contact page | http://www.jr-renovations.co.uk/contact.html | DIRECT USE via #original-contact link; do not silently rewrite legal process |",
+      "excerptSha256": "93ecd57f186774a956be341ea0bf1aa2db2358d10a34985cfdaa5186b165e145",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F09"
+      ],
+      "sourceIds": [
+        "S5"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 18,
+      "excerpt": "| F10 | Official logo black serif JR with blue underline | http://www.jr-renovations.co.uk/images/logo_web.jpg | DIRECT USE: #brand-logo, retain pixels; blue informs accent |",
+      "excerptSha256": "7db5cfa8a21a4a9749571455d9fd84d7911f18338cbce6c5675e56c0b8f7ceae",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "F10"
+      ],
+      "sourceIds": [
+        "S4"
+      ],
+      "reason": "Mapped specific source fact to retained customer path"
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 19,
+      "excerpt": "| F11 | Official social account not attributable in bounded research, hours and capacity unverified | ../../website-value-research/SOURCES.md | EXCLUDE: no invented accounts, hours, instant availability or response-time promise |",
+      "excerptSha256": "c31ef7ca51f65aecfc26c646c619bdfc9f2a105bd7f32df43035510ae516694d",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Public account, capacity and hours unknown, no unsupported customer-facing claims"
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 20,
+      "excerpt": "| F12 | Roman portrait/signature exists; no evidence of separate likeness clearance | http://www.jr-renovations.co.uk/contact.html | EXCLUDE: name/contact retained; portrait/signature unnecessary to room-work proof |",
+      "excerptSha256": "ab1658b048cdf34e46204fd1337adffdc62819d282e304937f2eee6f9b4fcf10",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Official portrait/signature unnecessary for room-work proof; name and contact retained"
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/CUSTOMER_PUBLIC_INTELLIGENCE.md",
+      "line": 21,
+      "excerpt": "| F13 | Strong Which and referral evidence; incremental value conditional | ../../website-value-research/WEBSITE_VALUE_REPORT.md | FACT/PARAPHRASE USE internally: purchase thesis; no fabricated need for more leads |",
+      "excerptSha256": "277ea04a84a0013684bdf89b7558b936ec3857845f5c9a95b42a9a1a3fb01fba",
+      "disposition": "EXCLUDE",
+      "itemIds": [],
+      "sourceIds": [],
+      "reason": "Internal investment rationale only; not a customer business claim and no need-for-leads assertion"
+    }
+  ]
+}

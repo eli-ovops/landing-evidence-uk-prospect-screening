@@ -1,0 +1,106 @@
+{
+  "retrieved_at_utc": "2026-09-02T12:47:51.681850+00:00",
+  "homepage": "https://curtistreess.netlify.app/",
+  "origin": "https://curtistreess.netlify.app",
+  "recovery_scope": "current deployed HTML and browser-requested same-origin static responses only; cross-origin responses are recorded but not downloaded",
+  "online_result": {
+    "status": 200,
+    "metrics": {
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "documentElementScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "title": "Concept Preview | Curtis Tree Lopping Specialists"
+    }
+  },
+  "resources": [
+    {
+      "url": "https://curtistreess.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "document",
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:47:46.398991+00:00",
+      "local_path": "index.html",
+      "bytes": 5903,
+      "sha256": "51641fc0dc48947ef1944acf86eefeb02ffcaa3d10bd0a9e663c9a2ba7d25637"
+    },
+    {
+      "url": "https://curtistreess.netlify.app/assets/contact-canopy-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:47.095776+00:00",
+      "local_path": "assets/contact-canopy-concept-v1.png",
+      "bytes": 2965595,
+      "sha256": "aa24cbe8b44aedeb905bcda2cca62872bae940281afaa52139cf01a52b01462a"
+    },
+    {
+      "url": "https://curtistreess.netlify.app/assets/equipment-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:47.095145+00:00",
+      "local_path": "assets/equipment-concept-v1.png",
+      "bytes": 3277780,
+      "sha256": "f2c1ee6cb4ed856ba85254dd59517f60f535a2ba2a2c68977252a66a43200c20"
+    },
+    {
+      "url": "https://curtistreess.netlify.app/assets/hero-arborist-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:46.634594+00:00",
+      "local_path": "assets/hero-arborist-concept-v1.png",
+      "bytes": 2700967,
+      "sha256": "b9fc45308d0498d7ad78811726ab196d6d9a07fca677d78df57aeb7698e2297c"
+    },
+    {
+      "url": "https://curtistreess.netlify.app/assets/stump-grinding-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:46.975043+00:00",
+      "local_path": "assets/stump-grinding-concept-v1.png",
+      "bytes": 2930385,
+      "sha256": "c36cc426c3732f8da7926faeea6b581af2a25137b660210fef53ac4ed5c4d699"
+    },
+    {
+      "url": "https://curtistreess.netlify.app/assets/tree-pruning-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:46.974264+00:00",
+      "local_path": "assets/tree-pruning-concept-v1.png",
+      "bytes": 2898763,
+      "sha256": "551ab9fb89333a25ef0e0f7ed4130e596847eef8904d899d6c88976cc6e29908"
+    },
+    {
+      "url": "https://curtistreess.netlify.app/assets/tree-removal-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:47:46.721755+00:00",
+      "local_path": "assets/tree-removal-concept-v1.png",
+      "bytes": 3652917,
+      "sha256": "81d1d3948ee4ea547081f14e774e9967f54a1db771e9e245b746fc938b4eff32"
+    },
+    {
+      "url": "https://curtistreess.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:47:46.520898+00:00",
+      "local_path": "styles.css",
+      "bytes": 7271,
+      "sha256": "47eebb62e9175fbf531436b7743efd8ffc4326ff90bce7b25d5adddb9047fa18"
+    }
+  ]
+}

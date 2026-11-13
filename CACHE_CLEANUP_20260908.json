@@ -1,0 +1,4253 @@
+{
+  "deleted": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/.DS_Store",
+      "kind": "finder",
+      "bytes": 20484
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/demos_20260902/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-01-chris-roach/local-demo-v1/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_sms_handyman/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-mobile-390x844/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-mobile-390x844/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-mobile-390x844/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 6724949
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-mobile-390x844/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 1337
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-desktop-1440x900/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-desktop-1440x900/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-desktop-1440x900/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 6730926
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cairns-desktop-1440x900/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 1337
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-mobile-390x844/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-mobile-390x844/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-mobile-390x844/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 10591451
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-mobile-390x844/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-mobile-390x844/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-mobile-390x844/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-mobile-390x844/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 398870
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-mobile-390x844/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-desktop-1440x900/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-desktop-1440x900/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-desktop-1440x900/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 398786
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-oasis-desktop-1440x900/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-desktop-1440x900/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-desktop-1440x900/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-desktop-1440x900/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 1523567
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-desktop-1440x900/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-desktop-1440x900/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-desktop-1440x900/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-desktop-1440x900/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 3580108
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-desktop-1440x900/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-desktop-1440x900/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-desktop-1440x900/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-desktop-1440x900/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 62876791
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-desktop-1440x900/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 742
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-mobile-390x844/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-mobile-390x844/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-mobile-390x844/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 62877103
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-cherry-walk-mobile-390x844/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 742
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-curtis-mobile-390x844/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-curtis-mobile-390x844/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-curtis-mobile-390x844/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 18483192
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-curtis-mobile-390x844/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-mobile-390x844/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-mobile-390x844/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-mobile-390x844/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 1529921
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-bright-mobile-390x844/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 18483248
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 144
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-mobile-390x844/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-mobile-390x844/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-mobile-390x844/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 3579832
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-always-love-mobile-390x844/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-desktop-1440x900/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-desktop-1440x900/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-desktop-1440x900/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 10591371
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/reactivation_au_20260902/evidence/chrome-profile-kimberley-desktop-1440x900/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_karen_brown_a_timeless_love/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_pawcasso_dog_and_cat_grooming/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_pure_k_beauty/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_flowers_by_kodie/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_mileys_mutts/demo_20260902/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lizzieland_face_painting/.DS_Store",
+      "kind": "finder",
+      "bytes": 8196
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_romiley_paws_dog_groomers/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_tranquil_touch_relaxation_therapy/demo_v9_20260823/qa/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_puggles_bath_and_groom/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bva_metal_fabrications/demo/output/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_landscaping_greentree/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile-mobile/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile-mobile/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile-mobile/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 2830492
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile-mobile/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 12569
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile-mobile/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile-mobile/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 476
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 3476901
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 11249
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_forfar_removals/research_20260829T112109Z/evidence/chrome-profile/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 476
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/docs/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/packages/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_rc_contractors/packages/rc-contractors-r3b-20260907/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_the_corner_cafe_walmer/demo_20260902/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-nafas/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-nafas/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-nafas/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 2471724
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-nafas/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 19337
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-beauty/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-beauty/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-beauty/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 5619462
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-beauty/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 1062345
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-facial/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-facial/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-facial/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 3053699
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/malaysia/chrome-profile-facial/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 8359
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 3602814
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 718
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390-retry/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390-retry/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390-retry/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 11050
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390-retry/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 8819334
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 93915
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-1440/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-1440/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-1440/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 6445318
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-1440/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 72264
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-retry/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-retry/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-retry/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 11050
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-retry/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 6319843
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-multifolds-390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 72692
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 14629
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-1440/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-1440/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-1440/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 3602814
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-qingjie-1440/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 718
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390-retry/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390-retry/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390-retry/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 9437732
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iluminen-390-retry/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 1060737
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 22960
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-monday390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-monday390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-monday390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 50959
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-monday390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 3716
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-final/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-final/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-final/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 11050
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-1440-final/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 11050
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-iriswave-390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-1440/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-1440/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-1440/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 22960
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-everydayskin-1440/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 51924
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 4005
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-1440/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-1440/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-1440/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 55501
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_b/singapore/chrome-profile-morethanbloom-1440/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 105768
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-squadron-390/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-squadron-390/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-squadron-390/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 372377
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-squadron-390/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 7121
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-plumbd-1440/GPUPersistentCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 16488
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-plumbd-1440/Default/GPUCache",
+      "kind": "inactive-browser-cache",
+      "bytes": 557424
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-plumbd-1440/Default/Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 11050
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/target_country_evaluation_2026-08-22/subtasks/group_a/new_zealand/chrome-profile-plumbd-1440/Default/Code Cache",
+      "kind": "inactive-browser-cache",
+      "bytes": 466
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_nothing_but_nails/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_fluffandtuff_dog_groomers/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_shelleys_poochie_parlour/demo_20260901/.DS_Store",
+      "kind": "finder",
+      "bytes": 8196
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_shelleys_poochie_parlour/demo_20260901/packages/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_swift_response_property_maintenance/demo_20260902/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/tools/__pycache__/backup.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4269
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/tools/__pycache__/import_source.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7476
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/app/__pycache__/security.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4149
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/app/__pycache__/db.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6973
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/app/__pycache__/storefront.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19749
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/app/__pycache__/auth.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8075
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/app/__pycache__/admin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 24628
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/app/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6346
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/sansio/__pycache__/blueprints.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 31217
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/sansio/__pycache__/scaffold.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 30257
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/sansio/__pycache__/app.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 33719
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/typing.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4163
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/helpers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 25576
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/globals.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1898
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/views.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7039
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/config.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16242
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/blueprints.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5033
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/logging.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3303
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/testing.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13614
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/signals.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1255
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/sessions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16401
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/cli.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 43553
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/wrappers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10086
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/debughelpers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9165
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/app.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 62456
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/templating.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9936
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2566
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/ctx.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20455
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 274
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/json/__pycache__/provider.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9293
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/json/__pycache__/tag.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13988
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/flask/json/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6726
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/markupsafe/__pycache__/_native.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 652
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/markupsafe/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 21025
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/nativetypes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7056
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/loaders.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 32312
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/async_utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5011
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/sandbox.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 18134
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/filters.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 72306
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/lexer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 32102
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/visitor.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5390
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/runtime.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 48921
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/optimizer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2726
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/idtracking.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19157
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 34835
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/_identifier.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2171
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/bccache.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19362
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/debug.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6603
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/environment.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 76672
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/nodes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 58256
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7752
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/constants.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1593
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/meta.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5507
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/tests.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9087
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/ext.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 41914
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1690
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/defaults.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1643
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/parser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 61217
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/jinja2/__pycache__/compiler.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 103929
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/adjustments.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14213
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/utilities.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8496
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/server.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15885
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/channel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 18425
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/compat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 969
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/rfc7230.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2070
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/runner.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8236
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/receiver.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5302
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/proxy_headers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10451
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/task.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 21746
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/trigger.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6255
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/buffers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13094
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2049
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/wasyncore.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 23558
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 288
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/waitress/__pycache__/parser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12012
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/middleware/__pycache__/http_proxy.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9448
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/middleware/__pycache__/profiler.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7238
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/middleware/__pycache__/proxy_fix.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7235
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/middleware/__pycache__/shared_data.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12770
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/middleware/__pycache__/dispatcher.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3352
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/middleware/__pycache__/lint.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 17794
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/middleware/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 234
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/wrappers/__pycache__/response.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 34832
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/wrappers/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 354
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/wrappers/__pycache__/request.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 26163
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/sansio/__pycache__/multipart.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14356
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/sansio/__pycache__/utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8279
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/sansio/__pycache__/response.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 31764
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/sansio/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 230
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/sansio/__pycache__/request.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 21982
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/sansio/__pycache__/http.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5676
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/csp.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6223
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/headers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 30494
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/file_storage.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8861
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/range.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10080
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/accept.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15954
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/etag.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5447
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/auth.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14587
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/mixins.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16437
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2454
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/cache_control.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12260
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/datastructures/__pycache__/structures.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 58998
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/testapp.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8900
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/_reloader.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20903
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/local.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 28501
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/security.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8727
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/urls.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8301
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/_internal.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9793
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 27727
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/serving.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 46079
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/test.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 59849
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 34054
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/wsgi.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 26002
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/formparser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 17058
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/user_agent.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2190
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 377
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/http.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 51018
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/routing/__pycache__/converters.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10954
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/routing/__pycache__/matcher.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8272
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/routing/__pycache__/rules.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 39118
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/routing/__pycache__/map.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 39183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/routing/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7950
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/routing/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4707
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/debug/__pycache__/repr.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13811
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/debug/__pycache__/tbtools.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 17045
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/debug/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 23574
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/werkzeug/debug/__pycache__/console.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11669
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/_winconsole.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11976
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/globals.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2999
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/shell_completion.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 28484
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/core.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 149775
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/testing.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 36791
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/_termui_impl.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 36400
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/_compat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 22806
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 26733
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/decorators.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 25381
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/_utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1462
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 17253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/formatting.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14232
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/types.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 59144
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/termui.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 39961
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/_textwrap.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7439
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4656
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/click/__pycache__/parser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20527
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageText.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20153
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/JpegPresets.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8160
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/_typing.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1658
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/BmpImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 18063
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/CurImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4217
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/WalImageFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4214
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/WebPImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13121
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/EpsImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16158
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/XpmImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6159
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/TiffImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 102404
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/DdsImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 24401
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PdfParser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 53526
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PixarImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1998
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/FpxImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7933
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/GimpPaletteFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2782
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/XbmImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4141
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageDraw2.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9828
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageFilter.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 23659
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13147
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageShow.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14304
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/MspImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5990
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageTk.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9409
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImagePath.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 381
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ExifTags.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11629
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/MicImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3748
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageChops.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11271
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/GdImageFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3580
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/_tkinter_finder.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 792
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 35943
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/FliImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7192
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/JpegImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 33550
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageFont.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 69297
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageWin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11909
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/features.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13532
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageGrab.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8530
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/Image.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 181007
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ContainerIO.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7051
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/AvifImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12050
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/MpoImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8900
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/BlpImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 24061
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/SpiderImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12479
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/MpegImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3660
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/GifImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 45653
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/report.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 359
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageDraw.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 38598
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PsdImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11282
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PpmImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14166
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/_util.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1612
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/IcnsImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16814
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/_version.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 297
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/Hdf5StubImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2628
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/FtexImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5387
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/QoiImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11390
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/McIdasImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2258
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/_deprecate.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2608
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/TarIO.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2074
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/BufrStubImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2622
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/DcxImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2965
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageStat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7590
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/GbrImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3807
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/FitsImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6249
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageOps.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 30451
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PdfImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9783
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PalmImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9184
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/IcoImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15347
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageQt.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8056
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/BdfFontFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4351
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageColor.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12520
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageMath.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14419
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/_binary.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3468
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImtImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2580
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageTransform.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5414
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/SgiImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8026
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageEnhance.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5433
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PaletteFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1965
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/GimpGradientFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5562
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/IptcImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8318
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageCms.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 42508
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageMorph.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13029
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/XVThumbImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2679
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/TgaImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9108
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/TiffTags.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 18933
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PcdImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2504
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/Jpeg2KImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 18764
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImagePalette.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12406
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PngImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 63797
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2081
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PcfFontFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10198
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 425
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PSDraw.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7981
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/PcxImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7600
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageSequence.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3453
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/SunImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3452
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/GribStubImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2710
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/ImageMode.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2615
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/WmfImagePlugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6346
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/PIL/__pycache__/FontFile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5663
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/session.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 18948
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/download.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8521
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2297
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/xmlrpc.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2991
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/cache.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7088
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/auth.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 22141
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/lazy_wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11649
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 296
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/temp_dir.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12063
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/_jaraco_text.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4569
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/glibc.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2458
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/logging.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13930
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/packaging.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2699
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/unpacking.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13537
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/setuptools_build.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4589
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/urls.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2116
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/filetypes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1203
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/deprecation.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4230
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/compat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2946
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/appdirs.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2449
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/misc.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 33265
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/filesystem.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7368
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5942
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/compatibility_tags.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6389
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/hashes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7642
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/egg_link.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3245
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/datetime.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 723
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/direct_url_helpers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3575
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/entrypoints.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4032
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/_log.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1905
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/virtualenv.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4505
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 234
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/subprocess.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8678
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__/retry.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2147
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/target_python.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4995
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/link.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 27025
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/candidate.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1646
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6594
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/installation_report.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2319
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/selection_prefs.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1893
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/search_scope.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5029
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/format_control.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4265
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/scheme.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1065
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/index.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1736
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 308
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__/direct_url.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10886
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/main.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 712
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/build_env.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14813
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/pyproject.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5160
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/self_outdated_check.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10445
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/cache.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12709
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 36887
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/configuration.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 17673
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/wheel_builder.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13657
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 829
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/req_command.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12283
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/main.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2342
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/cmdoptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 30443
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/autocompletion.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8648
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/main_parser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4948
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/base_command.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10550
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/status_codes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 417
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/progress_bars.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3894
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/index_command.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7223
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/command_context.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1816
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/spinners.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7875
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 320
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__/parser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15082
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/install/__pycache__/wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 34145
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/install/__pycache__/editable_legacy.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1840
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/install/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 308
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/__pycache__/check.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7146
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/__pycache__/freeze.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10290
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/__pycache__/prepare.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 25814
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 239
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/wheel_legacy.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3888
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/metadata_legacy.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3053
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1719
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/metadata.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1899
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/wheel_editable.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2058
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/build_tracker.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7709
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/metadata_editable.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1953
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 245
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__/constructors.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 21297
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__/req_install.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 38512
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__/req_set.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5525
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__/req_uninstall.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 32136
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3487
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__/req_file.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 24280
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__pycache__/resolver.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 22621
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 246
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/__pycache__/base.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1227
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 239
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/resolver.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12356
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/reporter.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5082
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/base.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8191
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/requirements.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15398
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/candidates.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 29450
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/provider.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10565
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/factory.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 32528
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/found_candidates.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6835
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 250
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__/versioncontrol.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 29039
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__/subversion.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12566
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__/bazaar.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5094
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 573
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__/mercurial.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7647
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__/git.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19059
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/locations/__pycache__/base.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3823
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/locations/__pycache__/_distutils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6833
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/locations/__pycache__/_sysconfig.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8070
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/locations/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16482
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/index/__pycache__/sources.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12566
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/index/__pycache__/collector.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 21659
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/index/__pycache__/package_finder.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 41407
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/index/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 274
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/search.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7560
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/check.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2634
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/list.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15799
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/show.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10979
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/download.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7545
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/freeze.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4427
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/debug.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10110
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/hash.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3010
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/help.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1715
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/cache.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9970
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8907
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/configuration.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13205
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/install.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 29134
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/completion.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5235
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/uninstall.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4751
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/index.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6713
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4044
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__/inspect.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4022
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/__pycache__/base.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 35240
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/__pycache__/pkg_resources.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16126
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5909
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/__pycache__/_json.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3009
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__pycache__/_compat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4533
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__pycache__/_envs.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11121
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__pycache__/_dists.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12921
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 400
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__/base.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2935
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__/installed.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1742
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__/wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2323
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 983
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__/sdist.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8469
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/__pycache__/_spdx.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 47407
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4163
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/markers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11417
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/requirements.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4453
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/_musllinux.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4597
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6678
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/tags.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 23048
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/metadata.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 27255
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/_tokenizer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7958
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/_manylinux.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9754
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/_elffile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5066
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/version.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20529
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/specifiers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 39085
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 601
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/_structures.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3284
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__/_parser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14028
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__/_windows.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15809
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__/_macos.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19031
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__/_api.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16817
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__/_openssl.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2249
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__/_ssl_constants.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1143
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1388
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack/__pycache__/fallback.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 41533
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2068
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack/__pycache__/ext.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8336
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1782
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/filters/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 37955
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__pycache__/_mapping.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 68307
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__pycache__/python.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 43011
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14665
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/pangomarkup.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3002
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/html.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 41070
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/groff.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7337
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/img.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 28592
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/svg.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/bbcode.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4266
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/latex.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20169
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/terminal.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5863
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/irc.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6099
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/terminal256.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15162
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/_mapping.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4259
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6946
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/other.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6921
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__/rtf.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13817
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/formatter.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4764
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/scanner.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4800
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/regexopt.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4121
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/lexer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 38405
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/plugin.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2652
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/style.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6737
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/token.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8233
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/unistring.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 33016
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/modeline.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1603
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/util.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14113
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/cmdline.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 26628
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/filter.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3265
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/sphinxext.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12142
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3532
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 778
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__/console.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2672
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__pycache__/_mapping.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3692
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2708
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/markers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7697
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/compat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 45569
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/resources.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 17355
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/wheel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 52588
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/scripts.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19796
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/metadata.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 41603
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/util.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 88078
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/locators.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 59904
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/index.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 24359
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/version.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 30387
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1312
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/manifest.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15119
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__/database.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 65624
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distro/__pycache__/distro.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 53835
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distro/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1003
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/distro/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 335
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/controller.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16267
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/serialize.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5304
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/filewrapper.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4390
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/_cmd.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2689
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/cache.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3830
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/adapter.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6507
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/wrapper.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1717
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/heuristics.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6740
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 945
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/file_cache.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7787
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 478
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/redis_cache.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2776
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/codec.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5019
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/core.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16164
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/idnadata.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 99519
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/compat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 933
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/package_data.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 260
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/uts46data.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 158889
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/intranges.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2676
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 929
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/__pycache__/typing_extensions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 139494
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4592
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/api.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7235
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/__version__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 628
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/adapters.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 28475
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/compat.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1721
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/_internal_utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2068
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/status_codes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6067
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/utils.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 36410
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/hooks.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1095
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/sessions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 27890
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/cookies.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 25242
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/help.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4272
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/models.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 35472
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7642
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/auth.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13965
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/packages.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1310
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/certs.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 722
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5297
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__/structures.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5667
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/tomli/__pycache__/_types.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 410
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/tomli/__pycache__/_re.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4083
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/tomli/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 382
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/tomli/__pycache__/_parser.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 29396
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/certifi/__pycache__/core.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3254
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/certifi/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 361
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/certifi/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 688
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/__pycache__/_impl.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 18090
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 791
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/_in_process.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15358
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1120
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_emoji_replace.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1773
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/highlighter.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9932
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/theme.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6371
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/color.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 26596
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/segment.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 28581
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/containers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9254
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/rule.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6612
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/constrain.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2302
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_windows.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2534
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_emoji_codes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 206020
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/layout.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20202
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_ratio.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6614
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/file_proxy.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3615
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/ansi.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9125
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/cells.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5604
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/logging.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14108
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_loop.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1914
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/pretty.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 40655
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/abc.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1652
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/scope.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_log_render.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4191
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/style.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 33520
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_palettes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5204
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/terminal_theme.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3392
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_cell_widths.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7916
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/bar.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4316
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/errors.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1889
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/progress.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 75778
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_fileno.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 899
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/prompt.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16049
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/text.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 61254
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/live_render.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4933
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/filesize.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3091
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/default_styles.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10482
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_spinners.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13223
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/region.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 611
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/palette.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5341
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/screen.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2523
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/measure.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6422
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_extension.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 581
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/tree.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11837
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/status.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6105
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/repr.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6657
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_inspect.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12066
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/control.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10985
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_stack.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1009
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/emoji.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4256
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/themes.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 358
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/align.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12435
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/live.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19052
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_wrap.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3370
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/table.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 43927
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/panel.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 12814
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/syntax.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 40228
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/protocol.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1836
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_windows_renderer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3607
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/markup.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 9611
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/jupyter.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5252
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/spinner.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6134
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_timer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 909
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_pick.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 765
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/progress_bar.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10421
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/pager.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1855
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_export_format.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2393
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/json.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6079
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/styled.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_null_file.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3673
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/traceback.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 32936
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7059
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/diagnose.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1532
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/columns.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8628
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/box.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11882
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10336
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/padding.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6977
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/color_triplet.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1745
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/console.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 114589
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__/_win32_console.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 28855
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/wait.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4447
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/queue.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1396
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/ssltransport.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10797
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/ssl_match_hostname.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5095
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/response.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3036
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/proxy.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1596
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/timeout.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11183
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/connection.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4791
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1190
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/request.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4227
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/ssl_.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15408
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/url.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15829
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__/retry.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 21766
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/poolmanager.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20473
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10446
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/connectionpool.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 36582
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/filepost.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 4056
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/response.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 33987
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/_version.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 262
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/exceptions.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13537
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/connection.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 20447
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/_collections.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 16408
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3449
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__/request.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7338
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__/securetransport.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 35545
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__/pyopenssl.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 24492
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__/ntlmpool.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 5758
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__/appengine.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11608
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__/socks.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7555
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__/_appengine_environ.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1892
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 242
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/bindings.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 17471
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/low_level.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14807
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 259
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/__pycache__/six.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 41299
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 243
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/weakref_finalize.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 7380
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 253
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/makefile.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1869
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 161304
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/compat/__pycache__/collections_abc.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 464
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/compat/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 244
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__/reporters.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2698
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__/resolvers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 25924
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__/providers.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 6895
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__/structs.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10544
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 678
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/api.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13347
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/android.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 10740
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/windows.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 13717
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/macos.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8867
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/version.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 640
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 19890
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1991
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__/unix.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 14733
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/__pycache__/__pip-runner__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2247
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 729
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/pip/__pycache__/__main__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 883
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/blinker/__pycache__/base.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 22004
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/blinker/__pycache__/_utilities.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2761
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/blinker/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 534
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/serializer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 15447
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/url_safe.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3569
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/exc.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 3979
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/encoding.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 2719
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/timed.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 8768
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/__init__.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1665
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/signer.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 11324
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_bridgend_antiques/replacement/.venv/lib/python3.12/site-packages/itsdangerous/__pycache__/_json.cpython-312.pyc",
+      "kind": "python-bytecode",
+      "bytes": 1219
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_lilux_developments/demo_20260902/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_aj_ostridge_transport/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_lavella_hair_limited/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/client_uk_hedley/.DS_Store",
+      "kind": "finder",
+      "bytes": 6148
+    }
+  ],
+  "skipped": [],
+  "df_before": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 167003840 1833177148     9% 2164003 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+  "df_after": "Filesystem   1024-blocks      Used  Available Capacity iused       ifree %iused  Mounted on\n/dev/disk7s1  2000478168 166711096 1833469888     9% 2160260 [REDACTED_PHONE]    0%   /Volumes/EXTERNAL\n",
+  "remaining_deleted_paths": 0
+}

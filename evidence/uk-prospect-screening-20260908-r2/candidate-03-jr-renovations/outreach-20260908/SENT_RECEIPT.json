@@ -1,0 +1,17 @@
+{
+  "status": "SENT",
+  "message_id": "1a07fd0eed76cd02",
+  "thread_id": "1a07fccd6aacce1b",
+  "label_ids": [
+    "SENT"
+  ],
+  "recipient": "[REDACTED_EMAIL]",
+  "sender": "[REDACTED_EMAIL]",
+  "subject": "Your twelve projects — a website concept for JR Renovations",
+  "sent_existing_draft": "r-6722002211610607521",
+  "user_instruction": "User explicitly instructed 发送 after being informed of outstanding consent evidence. Sent the prepared draft, without asserting recipient consent.",
+  "recipient_consent_evidence": "NOT VERIFIED",
+  "delivery_or_read_status": "NOT VERIFIED",
+  "website_and_image_hyperlinks": "Both preserved from verified draft",
+  "recorded_at": "2026-09-08T07:00:18.029136+00:00"
+}

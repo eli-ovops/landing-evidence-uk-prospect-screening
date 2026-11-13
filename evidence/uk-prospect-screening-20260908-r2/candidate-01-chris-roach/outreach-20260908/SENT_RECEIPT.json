@@ -1,0 +1,12 @@
+{
+  "status": "SENT",
+  "messageId": "1a07fbcb5f6a4ae4",
+  "threadId": "1a07fbae9561f2ab",
+  "to": "[REDACTED_EMAIL]",
+  "from": "[REDACTED_EMAIL]",
+  "url": "https://raspy-sunset-2c5d.uumit-200ut-agents.workers.dev/",
+  "websiteTextLink": true,
+  "linkedInlineScreenshot": true,
+  "delivery": "UNKNOWN",
+  "reply": "UNKNOWN"
+}

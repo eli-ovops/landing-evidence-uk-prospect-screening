@@ -1,0 +1,8 @@
+{
+  "archive": "LOCAL_PREVIEW_PACKAGE.zip",
+  "sha256": "2faaeb7dce133c4bee79ee0e651e45a128bee5c555e7b83c9fab94907299848f",
+  "fileCount": 20,
+  "rootIndex": true,
+  "manifestMatch": true,
+  "sourceTransfer": "BLOCKED"
+}

@@ -1,0 +1,22 @@
+{
+  "p0": 0,
+  "files": [
+    {
+      "file": "evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/redesign/rejected-site/index.html",
+      "findings": []
+    },
+    {
+      "file": "evidence/uk-prospect-screening-20260908-r2/candidate-03-jr-renovations/local-demo-20260908/v1/redesign/rejected-site/style.css",
+      "findings": []
+    }
+  ],
+  "notCovered": [
+    "default-category aesthetic (the vibe, not just token names — beige+brass craft, AI purple-glow)",
+    "div-based fake screenshots / fake dashboards",
+    "identical / generic card grids (icon + title + text × N)",
+    "zero imagery on an image-implied brief (food / hotel / fashion / travel)",
+    "glassmorphism / AI-purple-glow used as decoration",
+    "layout-family repetition (§5) and whether the soul is actually distinct",
+    "whether the engine RENDERS real pixels (needs the Playwright runtime pass, not a grep)"
+  ]
+}

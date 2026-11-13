@@ -1,0 +1,302 @@
+[
+  {
+    "path": "assets/asset-01.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-02.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-03.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-04.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-05.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-06.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-07.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-08.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-09.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-10.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-11.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-12.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-13.png",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-14.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/asset-15.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-01.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-02.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-03.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-04.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-05.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-06.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-07.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-08.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-09.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-10.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-11.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/legacy-12.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/original-TT_W_icon.svg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/original-index_17_1539362854.JPG",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/original-portrait.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/original-roman_sig.gif",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/room-A02.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/room-A03.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/room-A09.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/room-A10.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "assets/room-A12.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "contact.html",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "gallery.html",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "gallery.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "images/TT_W_icon.svg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "images/logo_web.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "images/portrait.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "images/roman_sig.gif",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "index.html",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "index_17_1539362854.JPG",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/1_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/2_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/3_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/4_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/5_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/6_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/7_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/8_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/9_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/bath1_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/bath2_before.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "lightbox/images/big/wood_floor.jpg",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "services.html",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "style.css",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "path": "testimonial.html",
+    "status": 200,
+    "matches": true
+  }
+]

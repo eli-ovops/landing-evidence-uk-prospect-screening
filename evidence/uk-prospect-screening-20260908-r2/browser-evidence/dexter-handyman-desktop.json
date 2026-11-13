@@ -1,0 +1,56 @@
+{
+  "retrieved": "2026-09-08T03:37:02.035Z",
+  "requested": "https://www.andrewdexter.com/Handyman.html",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.andrewdexter.com/Handyman.html",
+  "title": "Andrew Dexter Property Maintenance",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "Home\tPainting & Decorating\nServices\tHandyman\nServices\tGarden Maintenance\nServices\tContact\n(including Terms & Conditions\nand Privacy Notice)\n\n\n\n\nEmail: [REDACTED_EMAIL]\n\nMobile: 07971 973067\n\t\nAndrew Dexter Property Maintenance Services\nHandyman Services\n\n\nI offer a wide and comprehensive range of domestic handyman services. Please contact me to discuss your requirements.\n\nPutting up of pictures, mirrors, towel rails and bathroom fittings, etc.\nMaking up of flat packed furniture\nBuilding and installation of bespoke fitted wardrobes, including sliding door solutions\nBuilding and installation of bespoke shelving and storage solutions\nAdjustment of doors\nFitting of door furniture and locks\nFitting of curtain poles and blinds\nFitting fo new skirting boards and daido rails\nReplaecment of kitchen cupboard doors and worktops (excluding plumbing work)\nWall tiling\nResealing of sinks, baths and showers\nInstallation of loft ladders\nPainting of sheds, fences and garden buildings\nRefelting of shed roofs\n\n\nAndrew Dexter Property Maintenance Services is fully licensed by the Environment Agency for the transportation and disposal of waste items. Waste Carrier Licence number: CBDU115334",
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://www.andrewdexter.com/Home.html"
+    },
+    {
+      "text": "Painting & Decorating\nServices",
+      "url": "https://www.andrewdexter.com/Paintingdecorating.html"
+    },
+    {
+      "text": "Handyman\nServices",
+      "url": "https://www.andrewdexter.com/Handyman.html"
+    },
+    {
+      "text": "Garden Maintenance\nServices",
+      "url": "https://www.andrewdexter.com/Gardenmaintenance.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.andrewdexter.com/Contact.html"
+    },
+    {
+      "text": "[REDACTED_EMAIL]",
+      "url": "mailto:[REDACTED_EMAIL]"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Logo",
+      "url": "https://www.andrewdexter.com/AD%20PMS%20logo%20Oct%2023.png",
+      "loaded": true
+    },
+    {
+      "alt": "Which logo",
+      "url": "https://www.andrewdexter.com/WTT%20Hertfordshire%20dual%20logo%2010.jpg",
+      "loaded": true
+    }
+  ]
+}

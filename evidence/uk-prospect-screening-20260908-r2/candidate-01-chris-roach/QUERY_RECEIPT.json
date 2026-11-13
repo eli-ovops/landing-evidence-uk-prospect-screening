@@ -1,0 +1,37 @@
+[
+  {
+    "query": "\"Chris Roach Limited\" Ruislip",
+    "date": "2026-09-08",
+    "search_url": "https://www.google.com/search?q=%22Chris%20Roach%20Limited%22%20Ruislip",
+    "method": "web search tool",
+    "result": "No attributable official social or owned domain returned; directories only where identity matched."
+  },
+  {
+    "query": "site:facebook.com \"Chris Roach\" \"decorating\"",
+    "date": "2026-09-08",
+    "search_url": "https://www.google.com/search?q=site%3Afacebook.com%20%22Chris%20Roach%22%20%22decorating%22",
+    "method": "web search tool",
+    "result": "No attributable official social or owned domain returned; directories only where identity matched."
+  },
+  {
+    "query": "site:facebook.com \"Chris Roach Limited\"",
+    "date": "2026-09-08",
+    "search_url": "https://www.google.com/search?q=site%3Afacebook.com%20%22Chris%20Roach%20Limited%22",
+    "method": "web search tool",
+    "result": "No attributable official social or owned domain returned; directories only where identity matched."
+  },
+  {
+    "query": "site:instagram.com \"Chris Roach\" decorator",
+    "date": "2026-09-08",
+    "search_url": "https://www.google.com/search?q=site%3Ainstagram.com%20%22Chris%20Roach%22%20decorator",
+    "method": "web search tool",
+    "result": "No attributable official social or owned domain returned; directories only where identity matched."
+  },
+  {
+    "query": "\"[REDACTED_EMAIL]\" website",
+    "date": "2026-09-08",
+    "search_url": "https://www.google.com/search?q=%22chrisroachlimited%40gmail.com%22%20website",
+    "method": "web search tool",
+    "result": "No attributable official social or owned domain returned; directories only where identity matched."
+  }
+]

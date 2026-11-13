@@ -1,0 +1,103 @@
+{
+  "retrieved_at_utc": "2026-09-02T14:43:00.576Z",
+  "homepage": "https://amaconcreting.netlify.app/",
+  "origin": "https://amaconcreting.netlify.app",
+  "recovery_scope": "current deployed HTML and referenced same-origin static responses only; cross-origin URLs recorded but not downloaded",
+  "resources": [
+    {
+      "url": "https://amaconcreting.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "local_path": "index.html",
+      "bytes": 8689,
+      "sha256": "abe6b9fb8f522d196e6acf2dfa83f3bc6dbc04798ce2c7d4ae9e5adb1261b8fd",
+      "retrieved_at_utc": "2026-09-02T14:42:56.348Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "local_path": "styles.css",
+      "bytes": 8768,
+      "sha256": "b609a6d269152889c0559db53cf9d2224aaa3b87d96eb6d60bc8913eda83b12b",
+      "retrieved_at_utc": "2026-09-02T14:42:56.490Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/assets/ama-concreting-logo-original.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/ama-concreting-logo-original.png",
+      "bytes": 28766,
+      "sha256": "6677f137d5cc98128d9e01d6a61c34c598ca42ea1348e48c314ed21dfa6797a1",
+      "retrieved_at_utc": "2026-09-02T14:42:56.831Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/assets/hero-driveway-concept-v4.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/hero-driveway-concept-v4.png",
+      "bytes": 3343245,
+      "sha256": "f8334654005044a8e02e7bb3347237ea1f107809550168620b533dbf88e9ffaa",
+      "retrieved_at_utc": "2026-09-02T14:42:57.737Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/assets/pathway-concept-v3.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/pathway-concept-v3.png",
+      "bytes": 4014978,
+      "sha256": "8d08efb60ecd62439e25a3ef8861293d2024d20b3e32f74e8750b89c6439c948",
+      "retrieved_at_utc": "2026-09-02T14:42:58.306Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/assets/concrete-finish-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/concrete-finish-concept-v2.png",
+      "bytes": 1187713,
+      "sha256": "a32aada9d27384fa79fcec8e59b46486ae428daf6fe91178ef89854337555e8d",
+      "retrieved_at_utc": "2026-09-02T14:42:58.672Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/assets/driveway-wide-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/driveway-wide-concept-v1.png",
+      "bytes": 3829722,
+      "sha256": "0ac6f588f522c251b4d12cc1fa83cb5f8b5e17a047862e05224a8a415cdc187a",
+      "retrieved_at_utc": "2026-09-02T14:42:59.222Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/assets/finish-forecourt-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/finish-forecourt-concept-v1.png",
+      "bytes": 4112417,
+      "sha256": "5852294b216fc50f02a1c5edf76e1ed9bbd0ecfdeb3432d5dfeb6dc460d82d02",
+      "retrieved_at_utc": "2026-09-02T14:43:00.050Z"
+    },
+    {
+      "url": "https://amaconcreting.netlify.app/assets/pathway-side-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/pathway-side-concept-v1.png",
+      "bytes": 3121823,
+      "sha256": "a3a6266ed32bc5f4302ec5a6977d78d8d9fd4cfe586c741b457e71d34d421c38",
+      "retrieved_at_utc": "2026-09-02T14:43:00.576Z"
+    },
+    {
+      "url": "https://www.trustindex.io/reviews/amaconcreting.com.au-1",
+      "same_origin": false,
+      "disposition": "recorded-not-downloaded"
+    }
+  ]
+}

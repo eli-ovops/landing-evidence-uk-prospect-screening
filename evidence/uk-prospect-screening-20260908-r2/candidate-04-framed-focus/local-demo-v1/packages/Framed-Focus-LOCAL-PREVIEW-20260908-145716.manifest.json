@@ -1,0 +1,79 @@
+{
+  "package": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-04-framed-focus/local-demo-v1/packages/Framed-Focus-LOCAL-PREVIEW-20260908-145716.zip",
+  "type": "LOCAL_PREVIEW_PACKAGE",
+  "contentLock": "PASS - every archived file byte-identical to reviewed current manifest",
+  "archiveIntegrity": "PASS",
+  "entry": "index.html",
+  "fileCount": 13,
+  "bytes": 509461,
+  "sha256": "29bdb3cd9c191fb032b4da8a5e91a7144213d50e7fbea806f208fc4b25329706",
+  "fullReplacement": "BLOCKED; see current STATUS.md",
+  "productionOrSourceTransfer": "NOT AUTHORIZED / NOT VERIFIED",
+  "files": [
+    {
+      "path": "assets/facebook-11.jpg",
+      "sha256": "0340ba99f1903dfaf86f8a5d7b47f42d3aadb55cf2e018ad3e188f929e87e139",
+      "bytes": 17590
+    },
+    {
+      "path": "assets/facebook-13.jpg",
+      "sha256": "64a1a218aa8fdbe9d9d68ac1257403ffaec3140a3b5ee9e9084c3731bc9b979c",
+      "bytes": 21093
+    },
+    {
+      "path": "assets/facebook-15.jpg",
+      "sha256": "893088b8ff79e80a2b9454af60c058b573c2f92d9d50aa914148a07e794d7765",
+      "bytes": 123074
+    },
+    {
+      "path": "assets/facebook-6.jpg",
+      "sha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847",
+      "bytes": 22911
+    },
+    {
+      "path": "assets/facebook-8.jpg",
+      "sha256": "be3cce96c27ac7849a9fc979dc873ed0a7cae8877f2871982299a6ccd4cc8a7f",
+      "bytes": 21071
+    },
+    {
+      "path": "assets/logo.jpg",
+      "sha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6",
+      "bytes": 21378
+    },
+    {
+      "path": "assets/yell-01.jpg",
+      "sha256": "7b67e81836fd4ade41af3f58c17a678d29f1492d91125e9119b8d6e937b61b73",
+      "bytes": 62301
+    },
+    {
+      "path": "assets/yell-48.jpg",
+      "sha256": "1ffc2320980840f97121921c5c7a3ed9c4f53eac1faccb3fa0ed53ec473bd991",
+      "bytes": 73345
+    },
+    {
+      "path": "assets/yell-50.jpg",
+      "sha256": "4cb9d311c24bf6dea4ea341f43783b488fb644a71210199a7e4ab78c45a68a30",
+      "bytes": 67616
+    },
+    {
+      "path": "assets/yell-56.jpg",
+      "sha256": "8ea7f386ea3e4ecbcda8d923276c551453798aa21b1ca78c33fc024cf579509e",
+      "bytes": 79557
+    },
+    {
+      "path": "gallery.js",
+      "sha256": "15353f03d2b25da42e39305c75d9605136ca57f2d83ca5bd592ab3834b62bdc6",
+      "bytes": 1518
+    },
+    {
+      "path": "index.html",
+      "sha256": "146827c17550656babd1d37e9f55043e821aaabc464003029d7fab20a1f99c50",
+      "bytes": 14877
+    },
+    {
+      "path": "styles.css",
+      "sha256": "d9e0d68653df2213392f165d07bb89dd3e028259daf02132b3d5b6e51850915d",
+      "bytes": 15989
+    }
+  ]
+}

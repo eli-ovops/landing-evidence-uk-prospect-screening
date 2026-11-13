@@ -1,0 +1,120 @@
+{
+  "retrieved": "2026-09-08T03:10:00.668Z",
+  "requested": "https://smithjoinery.co.uk/gallery",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://smithjoinery.co.uk/gallery",
+  "title": "",
+  "width": 400,
+  "height": 866,
+  "reviewDates": [],
+  "body": "OUR PORTFOLIO\nSELECT A PROJECT TO VIEW OUR WORK\nBUILDINGS & EXTENSIONS\nKITCHENS & BATHROOMS\nJOINERY\nCARPENTRY\n07581068046\[REDACTED_EMAIL]\n\n26 Dalmahoy Crescent, Kirkcaldy, Fife, KY2 6SZ\n\n© Smith Joinery 2022\n\nComplaints policy\nPrivacy Policy",
+  "links": [
+    {
+      "text": "Home ",
+      "url": "https://smithjoinery.co.uk/homepage"
+    },
+    {
+      "text": "Services ",
+      "url": "https://smithjoinery.co.uk/services"
+    },
+    {
+      "text": "Gallery ",
+      "url": "https://smithjoinery.co.uk/gallery"
+    },
+    {
+      "text": "Testimonials ",
+      "url": "https://smithjoinery.co.uk/testimonials"
+    },
+    {
+      "text": "Contact ",
+      "url": "https://smithjoinery.co.uk/contact"
+    },
+    {
+      "text": "BUILDINGS & EXTENSIONS",
+      "url": "https://smithjoinery.co.uk/buildingsandextensions"
+    },
+    {
+      "text": "KITCHENS & BATHROOMS",
+      "url": "https://smithjoinery.co.uk/kitchensandbathrooms"
+    },
+    {
+      "text": "JOINERY",
+      "url": "https://smithjoinery.co.uk/joinery"
+    },
+    {
+      "text": "CARPENTRY",
+      "url": "https://smithjoinery.co.uk/carpentry"
+    },
+    {
+      "text": "Home ",
+      "url": "https://smithjoinery.co.uk/homepage"
+    },
+    {
+      "text": "Services ",
+      "url": "https://smithjoinery.co.uk/services"
+    },
+    {
+      "text": "Gallery ",
+      "url": "https://smithjoinery.co.uk/gallery"
+    },
+    {
+      "text": "Testimonials ",
+      "url": "https://smithjoinery.co.uk/testimonials"
+    },
+    {
+      "text": "Contact ",
+      "url": "https://smithjoinery.co.uk/contact"
+    },
+    {
+      "text": "07581068046",
+      "url": "tel:07581068046"
+    },
+    {
+      "text": "Complaints policy",
+      "url": "https://smithjoinery.co.uk/complaints-policy"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://smithjoinery.co.uk/privacy-policy"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Brand Logo",
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_768/u_https://assets.cdn.filesafe.space/HA06mh4o6yW3oweliReP/media/6904c990edf42032ba90062e.png",
+      "loaded": true
+    },
+    {
+      "alt": "Brand Logo",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "social media icon",
+      "url": "https://stcdn.leadconnectorhq.com/funnel/icons/light-gray/facebook-light-gray.svg",
+      "loaded": true
+    },
+    {
+      "alt": "social media icon",
+      "url": "https://stcdn.leadconnectorhq.com/funnel/icons/light-gray/instagram-light-gray.svg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    }
+  ]
+}

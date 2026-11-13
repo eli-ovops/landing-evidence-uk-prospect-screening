@@ -1,0 +1,27 @@
+{
+  "retrieved": "2026-09-08T05:04:23.638Z",
+  "status": 403,
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "url": "https://www.pimlicoplumbers.com/services/plumbing/damp-and-leak-detection/bathroom-leaks/",
+  "title": "请稍候…",
+  "text": "www.pimlicoplumbers.com\n正在进行安全验证\n\n本网站使用安全服务防护恶意自动程序。在验证您不是自动程序期间，将显示此页面。\n\nRay ID: a37b696f2a0bf9e6\n由 Cloudflare 提供的性能和安全服务\n隐私",
+  "images": [
+    {
+      "src": "https://www.pimlicoplumbers.com/favicon.ico",
+      "alt": "www.pimlicoplumbers.com 图标"
+    }
+  ],
+  "links": [
+    {
+      "text": "Cloudflare",
+      "href": "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m"
+    },
+    {
+      "text": "隐私",
+      "href": "https://www.cloudflare.com/zh-cn/privacypolicy/"
+    }
+  ]
+}

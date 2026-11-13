@@ -1,0 +1,100 @@
+# Ephemeral L0 spike contract. Contains no credentials or real business data.
+schema_version: "1.0"
+status: "verified-l0-spike-removed"
+site_id: "demo-infrastructure-v0-1-spike"
+project: "Seabreeze Coffee fictional demo"
+confirmed_by: "workspace-owner"
+confirmed_at: "2026-08-14"
+no_secret_values: true
+
+server:
+  reference: "cloudflare-pages-free-direct-upload"
+  owner: "workspace-owner"
+
+environments:
+  preview:
+    enabled: false
+    public_url: "https://seabreeze-fictional-spike-20260814.pages.dev/"
+    admin_path: null
+  production:
+    enabled: false
+    public_url: null
+    admin_path: null
+
+repository:
+  repo_url: null
+  approved_branch: null
+  production_branch: null
+  commit_sha_required: false
+
+architecture: "static"
+
+toolchain:
+  node: "not-required-for-static-artifact"
+  pnpm_major: null
+  package_manager: null
+  lockfile: null
+  payload_version: null
+
+runtime:
+  app_port_reference: null
+  health_port_reference: null
+
+deployment:
+  mechanism: "local"
+  call_carrier: "wrangler@4.123.0 direct upload"
+  forced_command_reference: null
+  allowed_modes:
+    - "l0-fictional-spike-preview"
+  guide_reference: "Cloudflare Pages Direct Upload official documentation"
+  production_approval_required: true
+  authorization_reference: "user message authorizing this single spike deploy and removal"
+  deploy_owner: "current execution thread"
+  validate_required: "not-applicable"
+  status_required: true
+  eli_preview_exception: false
+
+storage:
+  code_reference: "./public"
+  releases_reference: "Cloudflare ephemeral deployment"
+  database_reference: null
+  media_reference: null
+
+database:
+  type: "other"
+  credential_secret_ref: null
+  business_data_in_file: false
+
+media:
+  credential_secret_ref: null
+  managed_separately_from_code: true
+
+roles:
+  owner: "workspace-owner"
+  developer: "current execution thread"
+  server_owner: "Cloudflare managed service / workspace-owner account"
+
+migration:
+  required: false
+  required_for_localization: false
+  procedure_reference: null
+  production_approval_required: true
+
+backup:
+  procedure_reference: "not-applicable-ephemeral-fictional-spike"
+  database_and_media_separate: true
+  restore_rehearsal_required: false
+
+release_retention:
+  policy_reference: "delete entire test project after verification"
+  previous_accepted_release_required: false
+
+health_checks:
+  public_page: "PASS before removal; post-removal URL returns Cloudflare 530 and no demo content"
+  application: "static response only"
+  admin: null
+  api: null
+
+rollback:
+  procedure_reference: "completed: Cloudflare Pages test project deleted"
+  explicit_authorization_required: true

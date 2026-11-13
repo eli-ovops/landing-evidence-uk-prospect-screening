@@ -1,0 +1,231 @@
+{
+  "reviewer": {
+    "taskId": "/root/sealproof_reviewer",
+    "independent": true
+  },
+  "scope": "Local five-page visual and commercial presentation polish; same ten-category rubric",
+  "independentVisualAcceptance": "PASS",
+  "visualTarget9": "PASS",
+  "average": 9.0,
+  "scores": {
+    "brand": 9,
+    "assetAuthenticity": 8.5,
+    "customerUnderstanding": 9,
+    "hero": 9.5,
+    "typography": 9,
+    "rhythm": 9.5,
+    "persuasion": 9,
+    "mobile": 9,
+    "originality": 8.5,
+    "offerValue": 9
+  },
+  "fullSiteReplacement": "BLOCKED",
+  "productionEmailDelivery": "NOT CONFIGURED / NOT VERIFIED",
+  "remainingLocalP0P1": 0,
+  "inputHash": "a70152580946d4f0766584470b29a1cfaf62460d28f3a3ea6a43c8e43d482b56",
+  "evidenceHash": "f96b632962e1f39cd6dfeaab6105c40aa74f9b0e4b99f29c98d8edd20a677add",
+  "inputManifest": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/backend/app.py",
+      "sha256": "297e95c2a3b8264414d40f5e7a0512c2d73cd87557c65aa95a1767971faf934d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/about/index.html",
+      "sha256": "1f618ddd85e12110b9371f97ce5053fff55dacdb46418ba6ea03a220aa690521"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/brand-complete.png",
+      "sha256": "c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/brand-original.png",
+      "sha256": "37876e3d564d71b377741b4bb48384beea4d17ac9fa6502f3932f667d5e6db88"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/brand-stable.png",
+      "sha256": "e6c45e4e9b9786b461eaa9e40913fb61b37d93c8066f9cba6f483e63e07283fd"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/fonts/BarlowSemiCondensed-Bold.ttf",
+      "sha256": "5bd6757e459a110da81b44532f0f43058e2dab2401688abca84f2fdbde193cbb"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/fonts/OFL.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/grain.svg",
+      "sha256": "200756a38737e12ea8874e1d559f8d7ce7814560778e7b87d66f439a33cb9d47"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/shower-concept.png",
+      "sha256": "3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/tap-concept.png",
+      "sha256": "a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/tools-concept.png",
+      "sha256": "2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y1.jpg",
+      "sha256": "3f7b71519bafcf4a0ca02879d52947eae91681abc83107556282f52e62bd9469"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y11.png",
+      "sha256": "4921baaa441be5f2ecbab7e7d7cfafd95f7db4a654c262bf80872b547e8f75bf"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y12.png",
+      "sha256": "a3b0efa5f853e93f361dd978b23e96499b292287a7e5c2855c248d4b475265ec"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y13.png",
+      "sha256": "79016ee9661cf7897f3e8c1d09ebcaa918b39f3e5a44621c02f0162bc0451f6a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y15.png",
+      "sha256": "c7225deefc7932ecc0cc1bdfef8da1d70390a357df8f7dacf81bc83058d4e674"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y18.jpg",
+      "sha256": "d0dc16d2201672d1b9ab59f1c60bad2b01c2d6a66b70940f059ef52e1d9f8706"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y20.jpg",
+      "sha256": "4464f4e3fb2109e41880027b5322e289d81735a151500d03db85a70dd5e6ca3a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y7.jpg",
+      "sha256": "73d227367d6048cac4eeec2cabf024a0f7453d6d3c8a2cb6ae920cce70858f91"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/assets/y9.jpg",
+      "sha256": "11dedf4fb[REDACTED_PHONE]db94f0ff4bbf9ac080396140affe68a96a2f1b5c42e6"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/contact/index.html",
+      "sha256": "925a8032000ec112ca95084a09c45f033822cf8af471f00ae272418b48faa81d"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/index.html",
+      "sha256": "e49d9860a6ed57a37539403cd03cb46aa1ff789b145c2d705d53463a8ee125eb"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/services/index.html",
+      "sha256": "46e44554c1b2deb18e2fa2475654006f69edd0a868bf47a9140de63506185221"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/site.js",
+      "sha256": "bc60e913ff4f950bf61128d39d2e5ba6e2ffc36eb447b1a9ffe6d549ec76343f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/styles.css",
+      "sha256": "c80d82425ae11e27f65c7fc15e2ffbf520e5e26615b8a8ddd44896067edcb37a"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site/testimonials/index.html",
+      "sha256": "6d2436fe810e89dc516ce69189c3156bb087c2dd6e9c5bc6387b0a1c8da5150b"
+    }
+  ],
+  "evidenceManifest": [
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/INPUT_MANIFEST.json",
+      "sha256": "fa890d5f79f42d121d2ff83bdf408af17fdcc4759e3531abd1b3eda3d7925003"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/font-source/BarlowSemiCondensed-Bold.ttf",
+      "sha256": "5bd6757e459a110da81b44532f0f43058e2dab2401688abca84f2fdbde193cbb"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/font-source/DESCRIPTION.en_us.html",
+      "sha256": "defc876ff03aea5fa7380134579ab6775edab50dece3c145f074a5c7e81e8d27"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/font-source/OFL.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/font-source/manifest.json",
+      "sha256": "34d22eb743366a0b98d4b2b9865209204b6f1df921a992ac598df4aa50986fed"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/desktop-about.png",
+      "sha256": "1490e15602598bb49674fe5b1f7b7e51dd8f93add7f7982018e5855e31a276dc"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/desktop-contact.png",
+      "sha256": "2cd7e550573b4a6b6a1ecf002f4689f262e0bd42268ab45a422a018dc9c78631"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/desktop-form-not-connected.png",
+      "sha256": "82cb019beed58419f4c3b05ac88498223a27e193a96403cda54b3639e644ee82"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/desktop-home.png",
+      "sha256": "3461ccb09ae0e71e6a40fcafc197b2ef21bce3e3bb4b5f5b5676436ba8b83dba"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/desktop-services.png",
+      "sha256": "90e14d58290d7b3e6afa31329387842f310827d835b243056e62b48fba8e4040"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/desktop-testimonials.png",
+      "sha256": "1d91a111b0429659a64e37990809edbdf4b2b6a3effec662aabe0d2650ddae74"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/mobile-about.png",
+      "sha256": "dc2c38598b45f38f74e140db40ab5b5f23bc761ca95dadc6fd60d0442f9b570c"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/mobile-contact.png",
+      "sha256": "cb93a2a66a72d0c279d39e2d4e3328e6437990700dfdf8e65323a10d5a41634e"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/mobile-form-not-connected.png",
+      "sha256": "b04e3b36302a70e45e53d28d368678e7bccd838bb1f9192d82f8019e49da78f2"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/mobile-home.png",
+      "sha256": "3ce4f29550998324a9dc77aa2571e355ffa09092a9813937e9d4c65343fd39b4"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/mobile-menu.png",
+      "sha256": "ed0572c492df8427abc7c0abd71467c0a61248f669af3fabf5f50912f0dc14a7"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/mobile-services.png",
+      "sha256": "bf65f97aab24a4cf0f7d40d2a6e2b4c7baa2e20f66604f434d3c6de745752df5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/mobile-testimonials.png",
+      "sha256": "3e6eb5aacaf4de813f8170c93482e28ab2578d4cb9838ed4d3aecb73be15ffc5"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/no-js-hero.png",
+      "sha256": "f74ddbb67bb6f485be70afaae3bd32883b22c65fa0ac5391701df1fdb369eebd"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/preflight.json",
+      "sha256": "aabfde79b6d3bd44ef1ca6bf47a1ec94409902b5db5dfb3cb94a6bcd16728405"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/reduced-motion-hero.png",
+      "sha256": "f74ddbb67bb6f485be70afaae3bd32883b22c65fa0ac5391701df1fdb369eebd"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/海外落地页/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/polish-9-20260908/qa/results.json",
+      "sha256": "323911dfcefebebee23be9773a51ab2970b300c767302084b3eb7f3a44551d8e"
+    }
+  ],
+  "qualification": "Score concerns visual/commercial presentation, not production readiness, inbox delivery, user acceptance or purchase probability.",
+  "findings": [],
+  "limits": [
+    "Gallery attribution remains B level; no new copyright/photographer confirmation, so authenticity remains8.5.",
+    "Originality8.5: distinct practical typographic system and fact-driven composition, not exclusive bespoke art.",
+    "Formal receiving service and real business receipt remain absent.",
+    "Source captions remain small secondary text; current visual score is not a comprehensive accessibility certification."
+  ]
+}

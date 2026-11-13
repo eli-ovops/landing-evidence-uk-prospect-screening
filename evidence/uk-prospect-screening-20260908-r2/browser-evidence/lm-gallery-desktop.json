@@ -1,0 +1,116 @@
+{
+  "retrieved": "2026-09-08T03:44:04.154Z",
+  "requested": "https://www.plastering-advice.com/plasteringservices",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.plastering-advice.com/plasteringservices",
+  "title": "LM Plastering Gallery | Newcastle upon Tyne, UK",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "LM Plastering North East\nPlastering Services\n \nNorth East Of England\nEst:2008\n\nHome\n\nGallery\n\nContact\n\nDid you know there is also decorative plaster?\n\nHow we help our customers go from house to home\n\nWhat is decorative plaster?\nCall Today\n\n©2017 By L.M. Plastering. No unauthorised copying of content (text or images) is permitted without owners consent.",
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://www.plastering-advice.com/"
+    },
+    {
+      "text": "Gallery",
+      "url": "https://www.plastering-advice.com/plasteringservices"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.plastering-advice.com/contact-localplasterer-jesmond-gosforth-northeast-homeimprovements"
+    },
+    {
+      "text": "Did you know there is also decorative plaster?",
+      "url": "http://www.bespokefeaturewalls.com/"
+    },
+    {
+      "text": "What is decorative plaster?",
+      "url": "https://www.bespokefeaturewalls.com/whatisvenetianplaster-wheremarbleplasterismade-samplesofvenetianplaster-whatcanbedonewithmarble"
+    },
+    {
+      "text": "Call Today",
+      "url": "tel:+447845272592"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_41bc77e347654c24a882e024223838fc~mv2.jpeg/v1/fill/w_701,h_438,al_c,lg_1,q_90,enc_avif,quality_auto/f43c36_41bc77e347654c24a882e024223838fc~mv2.jpeg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_1df277f58ed2458eb27eddeaddaf785d~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_1df277f58ed2458eb27eddeaddaf785d~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_48b6ae952f2e467da7d1628d7ba6c504~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_48b6ae952f2e467da7d1628d7ba6c504~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_3a4be02b823c48c69cdfb0621d5e6617~mv2.jpg/v1/fill/w_287,h_287,q_75,enc_avif,quality_auto/f43c36_3a4be02b823c48c69cdfb0621d5e6617~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_d05fbbfe6d354bc4a7f19272785e869e~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_d05fbbfe6d354bc4a7f19272785e869e~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_abfd9dfac2c345a0bb2aee7af295b581~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_abfd9dfac2c345a0bb2aee7af295b581~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_c607bd6073ae4ee692c25b68add913ad~mv2.jpg/v1/fill/w_287,h_287,q_75,enc_avif,quality_auto/f43c36_c607bd6073ae4ee692c25b68add913ad~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_181dab0fe33043e49b26daead500f423~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_181dab0fe33043e49b26daead500f423~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_da8657d6a6ce466c95f2b5fc676a9ca5~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_da8657d6a6ce466c95f2b5fc676a9ca5~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_a8e0d2ddc2d249ce90f08b065f51a927~mv2.jpg/v1/fill/w_287,h_287,q_75,enc_avif,quality_auto/f43c36_a8e0d2ddc2d249ce90f08b065f51a927~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_68683c229808482088844154c7c68247~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_68683c229808482088844154c7c68247~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_92f5e3ab0726450bab1f32bdf455bfe2~mv2.jpg/v1/fill/w_288,h_287,q_75,enc_avif,quality_auto/f43c36_92f5e3ab0726450bab1f32bdf455bfe2~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_6c66f232144c4b5ebd928bcf496c7355~mv2.jpg/v1/fill/w_287,h_287,q_75,enc_avif,quality_auto/f43c36_6c66f232144c4b5ebd928bcf496c7355~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "L.M. Plastering services Logo.",
+      "url": "",
+      "loaded": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "retrieved": "2026-09-08T02:48:39.254Z",
+  "requested": "https://www.jr-renovations.co.uk/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": null,
+  "error": "page.goto: net::ERR_CERT_DATE_INVALID at https://www.jr-renovations.co.uk/\nCall log:\n\u001b[2m  - navigating to \"https://www.jr-renovations.co.uk/\", waiting until \"load\"\u001b[22m\n",
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "chrome-error://chromewebdata/",
+  "title": "隐私设置错误",
+  "width": 390,
+  "height": 844,
+  "reviewDates": [],
+  "body": "您的连接不是私密连接\n\n攻击者可能会试图从 www.jr-renovations.co.uk 窃取您的信息（例如：密码、消息或信用卡信息）。详细了解此警告\n\nNET::ERR_CERT_DATE_INVALID\n返回安全连接\n高级",
+  "links": [
+    {
+      "text": "详细了解此警告",
+      "url": "chrome-error://chromewebdata/#"
+    },
+    {
+      "text": "您访问的部分网页的网址、有限的系统信息以及部分网页内容",
+      "url": "chrome-error://chromewebdata/#"
+    },
+    {
+      "text": "隐私权政策",
+      "url": "chrome-error://chromewebdata/#"
+    },
+    {
+      "text": "开启增强型保护",
+      "url": "chrome-error://chromewebdata/#"
+    },
+    {
+      "text": "继续前往www.jr-renovations.co.uk（不安全）",
+      "url": "chrome-error://chromewebdata/#"
+    }
+  ],
+  "images": []
+}

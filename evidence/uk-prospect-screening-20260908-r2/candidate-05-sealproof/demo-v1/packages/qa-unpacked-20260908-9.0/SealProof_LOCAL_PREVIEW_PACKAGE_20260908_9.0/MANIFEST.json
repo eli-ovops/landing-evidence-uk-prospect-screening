@@ -1,0 +1,125 @@
+{
+  "packageType": "LOCAL_PREVIEW_PACKAGE",
+  "files": [
+    {
+      "path": "ASSET_SOURCES.json",
+      "sha256": "726e9eda7f0607547db50715b4bd6d4b54186fdd8f8e8d655ae54ab175a80d29"
+    },
+    {
+      "path": "README.md",
+      "sha256": "974442f848e7156af1806230c10d75e45903a92381d67268706900a4208fdb29"
+    },
+    {
+      "path": "backend/app.py",
+      "sha256": "297e95c2a3b8264414d40f5e7a0512c2d73cd87557c65aa95a1767971faf934d"
+    },
+    {
+      "path": "site/about/index.html",
+      "sha256": "1f618ddd85e12110b9371f97ce5053fff55dacdb46418ba6ea03a220aa690521"
+    },
+    {
+      "path": "site/assets/brand-complete.png",
+      "sha256": "c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9"
+    },
+    {
+      "path": "site/assets/brand-original.png",
+      "sha256": "37876e3d564d71b377741b4bb48384beea4d17ac9fa6502f3932f667d5e6db88"
+    },
+    {
+      "path": "site/assets/brand-stable.png",
+      "sha256": "e6c45e4e9b9786b461eaa9e40913fb61b37d93c8066f9cba6f483e63e07283fd"
+    },
+    {
+      "path": "site/assets/fonts/BarlowSemiCondensed-Bold.ttf",
+      "sha256": "5bd6757e459a110da81b44532f0f43058e2dab2401688abca84f2fdbde193cbb"
+    },
+    {
+      "path": "site/assets/fonts/OFL.txt",
+      "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f"
+    },
+    {
+      "path": "site/assets/grain.svg",
+      "sha256": "200756a38737e12ea8874e1d559f8d7ce7814560778e7b87d66f439a33cb9d47"
+    },
+    {
+      "path": "site/assets/shower-concept.png",
+      "sha256": "3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c"
+    },
+    {
+      "path": "site/assets/tap-concept.png",
+      "sha256": "a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e"
+    },
+    {
+      "path": "site/assets/tools-concept.png",
+      "sha256": "2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243"
+    },
+    {
+      "path": "site/assets/y1.jpg",
+      "sha256": "3f7b71519bafcf4a0ca02879d52947eae91681abc83107556282f52e62bd9469"
+    },
+    {
+      "path": "site/assets/y11.png",
+      "sha256": "4921baaa441be5f2ecbab7e7d7cfafd95f7db4a654c262bf80872b547e8f75bf"
+    },
+    {
+      "path": "site/assets/y12.png",
+      "sha256": "a3b0efa5f853e93f361dd978b23e96499b292287a7e5c2855c248d4b475265ec"
+    },
+    {
+      "path": "site/assets/y13.png",
+      "sha256": "79016ee9661cf7897f3e8c1d09ebcaa918b39f3e5a44621c02f0162bc0451f6a"
+    },
+    {
+      "path": "site/assets/y15.png",
+      "sha256": "c7225deefc7932ecc0cc1bdfef8da1d70390a357df8f7dacf81bc83058d4e674"
+    },
+    {
+      "path": "site/assets/y18.jpg",
+      "sha256": "d0dc16d2201672d1b9ab59f1c60bad2b01c2d6a66b70940f059ef52e1d9f8706"
+    },
+    {
+      "path": "site/assets/y20.jpg",
+      "sha256": "4464f4e3fb2109e41880027b5322e289d81735a151500d03db85a70dd5e6ca3a"
+    },
+    {
+      "path": "site/assets/y7.jpg",
+      "sha256": "73d227367d6048cac4eeec2cabf024a0f7453d6d3c8a2cb6ae920cce70858f91"
+    },
+    {
+      "path": "site/assets/y9.jpg",
+      "sha256": "11dedf4fb[REDACTED_PHONE]db94f0ff4bbf9ac080396140affe68a96a2f1b5c42e6"
+    },
+    {
+      "path": "site/contact/index.html",
+      "sha256": "925a8032000ec112ca95084a09c45f033822cf8af471f00ae272418b48faa81d"
+    },
+    {
+      "path": "site/index.html",
+      "sha256": "e49d9860a6ed57a37539403cd03cb46aa1ff789b145c2d705d53463a8ee125eb"
+    },
+    {
+      "path": "site/services/index.html",
+      "sha256": "46e44554c1b2deb18e2fa2475654006f69edd0a868bf47a9140de63506185221"
+    },
+    {
+      "path": "site/site.js",
+      "sha256": "bc60e913ff4f950bf61128d39d2e5ba6e2ffc36eb447b1a9ffe6d549ec76343f"
+    },
+    {
+      "path": "site/styles.css",
+      "sha256": "c80d82425ae11e27f65c7fc15e2ffbf520e5e26615b8a8ddd44896067edcb37a"
+    },
+    {
+      "path": "site/testimonials/index.html",
+      "sha256": "6d2436fe810e89dc516ce69189c3156bb087c2dd6e9c5bc6387b0a1c8da5150b"
+    },
+    {
+      "path": "start-preview.py",
+      "sha256": "ce42e98b9d3a0b8118a1d75b71209c18a17f9521b6b14f331986e7c74efce82c"
+    },
+    {
+      "path": "\u542f\u52a8\u9884\u89c8.command",
+      "sha256": "c7a25b9b5fb82fe598461e8027b110cca41d6e7942a41faca7a74b4048e87c65"
+    }
+  ]
+}

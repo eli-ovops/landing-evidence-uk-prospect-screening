@@ -1,0 +1,49 @@
+{
+  "retrieved": "2026-09-06T14:47:13.391Z",
+  "requested": "https://www.johnthehandyman.co.uk/about.html",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 200,
+  "error": null,
+  "browser": "152.0.7977.76",
+  "url": "https://www.johnthehandyman.co.uk/about.html",
+  "title": "About John the Handyman",
+  "width": 390,
+  "height": 844,
+  "body": "HOME\nJOBS\nPRICES\nREVIEWS\nABOUT\nAbout\nContact details:\nJohn the Handyman\nChesterfield Aquatics\nChesterfield Garden Centre\nMansfield Road\nHasland\nCHESTERFIELD\nDerbyshire\nS41 0JL.\n\nPhone,text messages and Whatsapp:\n07941 183619\nI am often driving or up a ladder, so, if I don't answer please leave a message and I will get back to you ASAP.\n\nI am your local Handyman based in Chesterfield Derbyshire. This web page can be viewed around the world, however, I only work in the local Chesterfield area. Please read my reviews and give me a call or message.\n\n07941 183619.",
+  "links": [
+    {
+      "text": "HOME",
+      "url": "https://www.johnthehandyman.co.uk/index.html"
+    },
+    {
+      "text": "JOBS",
+      "url": "https://www.johnthehandyman.co.uk/jobs.html"
+    },
+    {
+      "text": "PRICES",
+      "url": "https://www.johnthehandyman.co.uk/prices.html"
+    },
+    {
+      "text": "REVIEWS",
+      "url": "https://www.johnthehandyman.co.uk/reviews.html"
+    },
+    {
+      "text": "ABOUT",
+      "url": "https://www.johnthehandyman.co.uk/about.html"
+    },
+    {
+      "text": "reviews",
+      "url": "https://www.johnthehandyman.co.uk/reviews.html"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Handyman van header",
+      "url": "https://www.johnthehandyman.co.uk/images/purple_van_header.jpg",
+      "loaded": true
+    }
+  ]
+}

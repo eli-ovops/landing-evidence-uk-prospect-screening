@@ -1,0 +1,38 @@
+[
+  {
+    "file": "candidate-hedley/CANDIDATE.md",
+    "expected": "bbc7603a9cfd71314158f19f6c012fe3fa80525b19b189d16adc47b3cceda657",
+    "actual": "bbc7603a9cfd71314158f19f6c012fe3fa80525b19b189d16adc47b3cceda657",
+    "match": true
+  },
+  {
+    "file": "hedley-current-dates.json",
+    "expected": "b498022b76f7fd2323c165413b0cdad98ac007b02eed9d79b8e93f3c0806f849",
+    "actual": "b498022b76f7fd2323c165413b0cdad98ac007b02eed9d79b8e93f3c0806f849",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/hedley-clear-desktop.png",
+    "expected": "7413b8fb538d835118d753ac3286ead2726b13d7e9e6a4b9e798286c97e96950",
+    "actual": "7413b8fb538d835118d753ac3286ead2726b13d7e9e6a4b9e798286c97e96950",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/hedley-clear-desktop.json",
+    "expected": "7cc7e21ab82f2243743e9b765d0eaca3b942af8a5b85303190870cce9dfc3132",
+    "actual": "7cc7e21ab82f2243743e9b765d0eaca3b942af8a5b85303190870cce9dfc3132",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/hedley-clear-mobile.png",
+    "expected": "f00d485fcf95b8261cc467395060ccd5b9dc2a99461b96b54bae24c31da3572a",
+    "actual": "f00d485fcf95b8261cc467395060ccd5b9dc2a99461b96b54bae24c31da3572a",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/hedley-clear-mobile.json",
+    "expected": "5aed44c5af89325911eaa41ca96f448357ff18b9a0745680b65d862155b0e1ba",
+    "actual": "5aed44c5af89325911eaa41ca96f448357ff18b9a0745680b65d862155b0e1ba",
+    "match": true
+  }
+]

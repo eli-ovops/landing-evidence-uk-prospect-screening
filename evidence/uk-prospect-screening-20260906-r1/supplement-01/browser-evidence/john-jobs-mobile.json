@@ -1,0 +1,45 @@
+{
+  "retrieved": "2026-09-06T14:45:16.337Z",
+  "requested": "https://www.johnthehandyman.co.uk/jobs.html",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 200,
+  "error": null,
+  "browser": "152.0.7977.76",
+  "url": "https://www.johnthehandyman.co.uk/jobs.html",
+  "title": "Handyman Jobs",
+  "width": 390,
+  "height": 844,
+  "body": "HOME\nJOBS\nPRICES\nREVIEWS\nABOUT\nJobs undertaken\nI do the jobs that other tradesmen find too small. I offer free quotations and I am fully insured. I have been working with my hands for over 40 years and have a wealth of experience in many areas of maintenance and construction. I pride myself on turning up on time and providing a neat, courteous, professional service. I do not employ others, as I do all the work myself, ensuring that my high standards are maintained.\n\nI do NOT do gardening or painting/decorating but will happily undertake the following:\n\nOUTSIDE - Fencing repairs, fence posts replaced, shed erection, repairs and re-felting, repairs and replacement of garden gates, small bases (concrete, paving and timber), steps and copings reset, demolition/clearing of garden buildings shed & workshop insulation and lining, guttering and water butts installed, security spikes fitted, outside taps installed, clothes posts and whirlygigs, chainsaw small trees, garden furniture assembly, clear blocked and leaking gutters, garden pond filters/UV's serviced, key safes fitted, small steel fabrication .\n\nINSIDE - Small joinery projects - bespoke items made, floor joist support, floor-board repairs, book shelves created, boxing-in pipework, create desks, storage units, furniture repairs, sticking doors, kitchen unit repairs, handrails fitted, loft hatches and ladders installed, loft flooring, plaster-board holes repaired, replacement door handles and locks, draught excluders, security bolts, curtain poles, tracks, battens, roller blinds, flat-pack furniture assembly, cat flaps fitted, silicone and caulking, mirrors and pictures hung,\nSmall plumbing projects - washing machine install, dishwasher install, some taps and waste traps, toilet seats replaced, shower heads and hoses replaced,\nMinor electrical work allowed - replacing light switches and wall sockets, string pull switches, security light LED upgrade, pond pumps and U/V's replaced, ceiling lights replaced, TV brackets, smoke alarms and more.",
+  "links": [
+    {
+      "text": "HOME",
+      "url": "https://www.johnthehandyman.co.uk/index.html"
+    },
+    {
+      "text": "JOBS",
+      "url": "https://www.johnthehandyman.co.uk/jobs.html"
+    },
+    {
+      "text": "PRICES",
+      "url": "https://www.johnthehandyman.co.uk/prices.html"
+    },
+    {
+      "text": "REVIEWS",
+      "url": "https://www.johnthehandyman.co.uk/reviews.html"
+    },
+    {
+      "text": "ABOUT",
+      "url": "https://www.johnthehandyman.co.uk/about.html"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Handyman van header",
+      "url": "https://www.johnthehandyman.co.uk/images/purple_van_header.jpg",
+      "loaded": true
+    }
+  ]
+}

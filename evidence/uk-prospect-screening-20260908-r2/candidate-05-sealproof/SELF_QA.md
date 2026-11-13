@@ -1,0 +1,1 @@
+Owner-only check: orderedH0→TrackW→email→H0.5→facts→H1–H6→score completed. B74=26+14+17+17. No invented source/credentials/availability/financial claim. Visual evidence reviewed; evidence caveats present. Independent Reviewer decision required. No Demo or outward action. File manifest binds candidate, query and original browser evidence; no prior packages modified.

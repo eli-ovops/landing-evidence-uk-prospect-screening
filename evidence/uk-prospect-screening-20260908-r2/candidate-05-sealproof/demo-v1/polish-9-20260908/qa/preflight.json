@@ -1,0 +1,118 @@
+{
+  "rows": [
+    {
+      "mode": "375",
+      "slug": "",
+      "overflow": false,
+      "heading": "Repairs.\nRenovations.",
+      "heroCTA": 621.875,
+      "emDash": false,
+      "headerHeight": 77,
+      "eyebrows": 2,
+      "sections": 4
+    },
+    {
+      "mode": "375",
+      "slug": "services/",
+      "overflow": false,
+      "heading": "From the quick fix\nto the full refit.",
+      "emDash": false,
+      "headerHeight": 77,
+      "eyebrows": 1,
+      "sections": 8
+    },
+    {
+      "mode": "375",
+      "slug": "testimonials/",
+      "overflow": false,
+      "heading": "Real experiences.\nReasons to call again.",
+      "emDash": false,
+      "headerHeight": 77,
+      "eyebrows": 1,
+      "sections": 2
+    },
+    {
+      "mode": "375",
+      "slug": "about/",
+      "overflow": false,
+      "heading": "A family-run business.\nA practical pair of hands.",
+      "emDash": false,
+      "headerHeight": 77,
+      "eyebrows": 1,
+      "sections": 3
+    },
+    {
+      "mode": "375",
+      "slug": "contact/",
+      "overflow": false,
+      "heading": "Tell us what\nneeds doing.",
+      "emDash": false,
+      "headerHeight": 77,
+      "eyebrows": 1,
+      "sections": 2
+    },
+    {
+      "mode": "reduced-motion",
+      "slug": "",
+      "overflow": false,
+      "heading": "Repairs.\nRenovations.",
+      "heroCTA": 602.96875,
+      "emDash": false,
+      "headerHeight": 77,
+      "eyebrows": 2,
+      "sections": 4
+    },
+    {
+      "mode": "no-js",
+      "slug": "",
+      "overflow": false,
+      "heading": "Repairs.\nRenovations.",
+      "heroCTA": 602.96875,
+      "emDash": false,
+      "headerHeight": 77,
+      "eyebrows": 2,
+      "sections": 4
+    },
+    {
+      "heroInspectKeyboardFocus": true,
+      "heroOriginalResponse": 200
+    }
+  ],
+  "colors": [
+    {
+      "name": "Body",
+      "ratio": 13.714232354211644,
+      "pass": true
+    },
+    {
+      "name": "Secondary",
+      "ratio": 6.534324353789173,
+      "pass": true
+    },
+    {
+      "name": "Blue button",
+      "ratio": 8.18201180867835,
+      "pass": true
+    },
+    {
+      "name": "Blue band body",
+      "ratio": 7.405691252956674,
+      "pass": true
+    },
+    {
+      "name": "Form body",
+      "ratio": 6.040827715075683,
+      "pass": true
+    },
+    {
+      "name": "Form notice",
+      "ratio": 7.626556038921435,
+      "pass": true
+    },
+    {
+      "name": "Footer",
+      "ratio": 10.371482542243625,
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "inputHash": "833f66c4739d4af174333d618c75caf8ba2da314ca193387eb80f98656cd0448",
+  "resultSha256": "7758e8f4813d2da3e96afcb5c57334092676ac36bce9fc224d14bccc90cef259",
+  "reviewer": {
+    "taskId": "/root/jr_review",
+    "name": "JR independent full replacement reviewer",
+    "identityEvidence": "Parent collaboration task /root/jr_review; pre-code and final delegated review, no site ownership or edits"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "8269d681a197a35094a1ddf4e3234404a8f29b8c97f6e01e545695a3b852bd02"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "02fd8404a905ad6f60e11be616528d6e55d97e9024376dd12949519ead5140de"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "73cd91018569bfc011a243e15abd6c23f740f048befb32bcdd8afc0e146cea7e"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "ec0f3e5df681e4136bf58627f19b279a783971d57850222e76930b4ead4a98cd"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "772d49d1ab1daec162c2dc3f7197328dd53d46d7b3f484fe9d7aae21c54d8702"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "96a73294ebe22c9e5592dfc63fc6725397c1a5bdf5d0649fe604ab0f74b7e177"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "447a42043549d4684302c8fdcb39ce1134b84a905bf3677376d1d7b6ebb9738b"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "f932938a3c8cc18e6b1cdaa32e8adefb9ff7426b9bfd35cc340a2d9093266542"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "18f53ebe9626a42d63b6d425b57bad0f5480306e26d25bf7d6421bd6b08ed831"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "1dec2e943345abf3101bf7567f48a5d6026ce2256aa528454d29da6921d595fe"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "046c707fb7a0f9233e0a0de1c715ec365975f84493028e6f3fa536ad3f318f1c"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "11d9a796db7268fd076a330b15367b9838338da1c10d47215ab7c403aa1313b2"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "070dc00d3e3276f2a66440f92f8fd72635f7afa571381eea42b2183fd8307766"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "cc56ddd156150929a9db6651d5999f2a559743662a4156563c2764acc006b432"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "bf8d36a8dedcdc3c7d5bc7fef7c115eef4ed6eaee22be2b556d0adc802d9f7a8"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "b6ef1dec5d41faa5aaef3e632a1185745bf80ecd9c528cb01f1538622233b2b8"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "de3a796a277d062bf3b8ed8a42e923dea2d834cf9bd18aebe8da9eb3255bda98"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "a380445358a812d3ca16dd8d78604e6d1b4775f78cadb139b0590134ad234e0a"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": "Five1440px pages and dialog visually inspected: coherent room-led design, full content and actions retained. PASS.",
+    "mobile": "Five390px pages and dialog visually inspected: readable navigation/content, no horizontal overflow, complete contact and gallery. PASS."
+  },
+  "businessFindings": "Full five-page public-site replacement; see FINAL_REVIEW.md and FULL_REPLACEMENT_MATRIX.md. P0/P1 zero. Local only; no final asset-transfer or deployment claim.",
+  "assetFindings": "Real A/B images retained,12 original gallery assets and deep-link bytes match; no invented project. Whole before-after composites preserved. Final rights require customer reconfirmation.",
+  "replacementReadyFinal": "PASS \u2014 LOCAL",
+  "clientShowable": "PASS \u2014 LOCAL",
+  "finalPass": true,
+  "scores": {
+    "visual": 8.0,
+    "information": 8.2,
+    "mobile": 8.3,
+    "functionality": 8.5,
+    "enquiry": 8.3
+  }
+}

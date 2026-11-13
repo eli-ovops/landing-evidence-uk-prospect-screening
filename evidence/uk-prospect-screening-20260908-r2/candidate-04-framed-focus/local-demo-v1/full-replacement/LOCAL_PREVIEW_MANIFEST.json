@@ -1,0 +1,53 @@
+{
+  "type": "LOCAL_PREVIEW_PACKAGE",
+  "ruleset": "Full Replacement v1.0",
+  "replacementStatus": "BLOCKED",
+  "files": [
+    {
+      "path": "assets/facebook-11.jpg",
+      "bytes": 17590,
+      "sha256": "0340ba99f1903dfaf86f8a5d7b47f42d3aadb55cf2e018ad3e188f929e87e139"
+    },
+    {
+      "path": "assets/facebook-13.jpg",
+      "bytes": 21093,
+      "sha256": "64a1a218aa8fdbe9d9d68ac1257403ffaec3140a3b5ee9e9084c3731bc9b979c"
+    },
+    {
+      "path": "assets/facebook-15.jpg",
+      "bytes": 123074,
+      "sha256": "893088b8ff79e80a2b9454af60c058b573c2f92d9d50aa914148a07e794d7765"
+    },
+    {
+      "path": "assets/facebook-6.jpg",
+      "bytes": 22911,
+      "sha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847"
+    },
+    {
+      "path": "assets/facebook-8.jpg",
+      "bytes": 21071,
+      "sha256": "be3cce96c27ac7849a9fc979dc873ed0a7cae8877f2871982299a6ccd4cc8a7f"
+    },
+    {
+      "path": "assets/logo.jpg",
+      "bytes": 21378,
+      "sha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6"
+    },
+    {
+      "path": "gallery.js",
+      "bytes": 1518,
+      "sha256": "15353f03d2b25da42e39305c75d9605136ca57f2d83ca5bd592ab3834b62bdc6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 14718,
+      "sha256": "a84793b6c1b101d0cdf34652ce338a54b8f492f27d279a76f8f8e66b0e9c5e3d"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 13511,
+      "sha256": "389e7b5d397cf0c803b21aea1558c54af6ed2ff058a79738b02562e8def412bb"
+    }
+  ],
+  "inputHash": "9255a206e829c95c3d907c462d7d9f3fa14be3417cc25bf663eb981fe787c051"
+}

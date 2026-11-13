@@ -1,0 +1,82 @@
+[
+  {
+    "id": "A0",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/1095/profile_thumb_BBB5CAD0-969E-4AAE-8675-AF221B9CE618.jpeg",
+    "file": "photo-0.jpg",
+    "hash": "f8ffbe59db5c722da58a6a7fc240b4e6abaec207f9b47dd7edfee28a4d95d361",
+    "retrieved": "2026-09-08T05:03:28.509Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  },
+  {
+    "id": "A1",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119568/gallery_large_IMG_6999.jpeg",
+    "file": "photo-1.jpg",
+    "hash": "eb6850b60f19431b5c2961e7360329eb7ffd7104cbb9677bfcbb31df459b224a",
+    "retrieved": "2026-09-08T05:03:29.476Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  },
+  {
+    "id": "A2",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/119567/gallery_large_IMG_6997.jpeg",
+    "file": "photo-2.jpg",
+    "hash": "486739f4d512eafd0d1f3714259c8edfdef1e3390d68146668c0c2d9f9f74a36",
+    "retrieved": "2026-09-08T05:03:29.811Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  },
+  {
+    "id": "A3",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/114943/gallery_large_IMG_6303.jpeg",
+    "file": "photo-3.jpg",
+    "hash": "a9f2c781a510db0ea52eec9a171226b4b81a3bb920c21551fd69d1b5a0f1d4cd",
+    "retrieved": "2026-09-08T05:03:30.184Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  },
+  {
+    "id": "A6",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95057/gallery_large_8143549B-EACE-44F9-99FD-4F0CDE8279B3.jpeg",
+    "file": "photo-6.jpg",
+    "hash": "107592a9a76803c8df0e10a889e63139a9b4678827675d85856cea778af0b064",
+    "retrieved": "2026-09-08T05:03:30.550Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  },
+  {
+    "id": "A7",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95060/gallery_large_E2A5DFBB-7C80-4349-990C-3DFCB6EC54B5.jpeg",
+    "file": "photo-7.jpg",
+    "hash": "557258428f5de3dd2fc0f79e57855bd5c064f926b08a5a9dd2106534cbec240c",
+    "retrieved": "2026-09-08T05:03:31.168Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  },
+  {
+    "id": "A9",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82698/gallery_large_ED20BD77-81AB-45A6-A0AE-95805B8C686C.jpeg",
+    "file": "photo-9.jpg",
+    "hash": "a3a8670fee32cacd84291e8a61277d70c3a4599b81c70208efbecef5c6a77b1a",
+    "retrieved": "2026-09-08T05:03:31.520Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  },
+  {
+    "id": "A10",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82696/gallery_large_82E19DD8-0413-44BA-9563-6CBC95447FD9.jpeg",
+    "file": "photo-10.jpg",
+    "hash": "6a006b6f78be101d6f5582165d1521222f6b944ffc43b6d2e85dd11aac09187c",
+    "retrieved": "2026-09-08T05:03:31.885Z",
+    "grade": "B",
+    "attribution": "Business profile My work gallery, distinct from customer reviews; van is profile identity image",
+    "rights": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; final transfer UNKNOWN"
+  }
+]

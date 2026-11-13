@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowsemicondensed/BarlowSemiCondensed-Bold.ttf",
+    "file": "BarlowSemiCondensed-Bold.ttf",
+    "sha256": "5bd6757e459a110da81b44532f0f43058e2dab2401688abca84f2fdbde193cbb",
+    "bytes": 111772
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowsemicondensed/OFL.txt",
+    "file": "OFL.txt",
+    "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+    "bytes": 4377
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowsemicondensed/DESCRIPTION.en_us.html",
+    "file": "DESCRIPTION.en_us.html",
+    "sha256": "defc876ff03aea5fa7380134579ab6775edab50dece3c145f074a5c7e81e8d27",
+    "bytes": 666
+  }
+]

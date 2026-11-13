@@ -1,0 +1,98 @@
+{
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "route": "/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "route": "/services/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "route": "/testimonials/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "route": "/about/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "route": "/contact/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "route": "/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "route": "/services/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "route": "/testimonials/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "route": "/about/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "route": "/contact/",
+      "visibleTextEqual": true,
+      "screenshotEqual": true
+    }
+  ],
+  "status": {
+    "ready": false,
+    "message": "Online enquiries are not connected in this preview. You can still call or email SealProof."
+  }
+}

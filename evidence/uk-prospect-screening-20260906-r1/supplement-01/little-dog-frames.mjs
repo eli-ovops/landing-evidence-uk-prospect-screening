@@ -1,0 +1,4 @@
+import {chromium} from '/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs';
+import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const root=path.dirname(fileURLToPath(import.meta.url));const b=await chromium.launch({channel:'chrome',headless:true});
+try{const p=await b.newPage({viewport:{width:1440,height:900}});await p.goto('https://www.littledogstudio.uk/',{waitUntil:'domcontentloaded',timeout:20000});const result=[];for(const f of p.frames()){try{result.push({url:f.url(),text:(await f.locator('body').innerText({timeout:8000})).slice(0,6500),links:await f.locator('a[href]').evaluateAll(a=>a.map(x=>({text:x.innerText,url:x.href})))})}catch(e){result.push({url:f.url(),error:e.message})}}fs.writeFileSync(path.join(root,'little-dog-public-frame-read.json'),JSON.stringify(result,null,2));console.log(JSON.stringify(result).slice(0,10500));}finally{await b.close();}

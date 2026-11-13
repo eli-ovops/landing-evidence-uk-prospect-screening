@@ -1,0 +1,6 @@
+# JR v1 similarity and fidelity self-check
+This site was written from an empty isolated site directory after independent Pre-code PASS, using only JR assets downloaded in this task. No other customer HTML/CSS/assets were read or copied for implementation. Therefore this is a code-origin check, not a falsely claimed exhaustive visual comparison of all project demos.
+
+Specific combinations: portrait green-tiled bathroom sets Hero proportions; original75x69 JR logo is retained; narrow original fireplace photograph drives the offset service composition; geometric kitchen floor has its own full-aspect treatment; historic bathroom composite stays uncut; complete-project preference precedes phone/email; Roman's identity and current source links remain. Neutral layout primitives are ordinary CSS grid and native details, not a renamed customer page.
+
+Potential residual generality: two-column hero and contact are common patterns. They are chosen to fit JR's actual original aspect ratios; client correlation relies on the pictured work, full-project qualification, Charlton identity and exact source-linked evidence, not on invented uniqueness. Independent reviewer must judge the final composition.

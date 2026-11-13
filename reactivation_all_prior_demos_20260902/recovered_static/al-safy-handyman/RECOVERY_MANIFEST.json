@@ -1,0 +1,68 @@
+{
+  "retrieved_at_utc": "2026-09-02T14:42:55.414Z",
+  "homepage": "https://alsafyhandyman.netlify.app/",
+  "origin": "https://alsafyhandyman.netlify.app",
+  "recovery_scope": "current deployed HTML and referenced same-origin static responses only; cross-origin URLs recorded but not downloaded",
+  "resources": [
+    {
+      "url": "https://alsafyhandyman.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "local_path": "index.html",
+      "bytes": 5054,
+      "sha256": "083cc77c59a0037f4cc515ee2b6d2262f872349804e270e6d06717a3a16d9345",
+      "retrieved_at_utc": "2026-09-02T14:42:47.509Z"
+    },
+    {
+      "url": "https://alsafyhandyman.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "local_path": "styles.css",
+      "bytes": 6023,
+      "sha256": "eb584d8c18da43eadb1ddf439327f7f9bec44d435761ec19a40aad2d4abc2d93",
+      "retrieved_at_utc": "2026-09-02T14:42:47.991Z"
+    },
+    {
+      "url": "https://alsafyhandyman.netlify.app/assets/hero-full-figure-concept.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/hero-full-figure-concept.png",
+      "bytes": 2122698,
+      "sha256": "9ed3f78093fbe8a52b7e639a7c244b47266f1fabbf097eec487ffd8df28d45a5",
+      "retrieved_at_utc": "2026-09-02T14:42:49.888Z"
+    },
+    {
+      "url": "https://alsafyhandyman.netlify.app/assets/interior-living-concept.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/interior-living-concept.png",
+      "bytes": 2080485,
+      "sha256": "454497ef14d459ba659624747ee290bb993b39c86f91324d7ee73ece14418177",
+      "retrieved_at_utc": "2026-09-02T14:42:51.594Z"
+    },
+    {
+      "url": "https://alsafyhandyman.netlify.app/assets/rendering-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/rendering-concept-v2.png",
+      "bytes": 2475564,
+      "sha256": "b038ad63d45525cfd808c5a46129412cd64b77a31421492126e07b6a879ffde8",
+      "retrieved_at_utc": "2026-09-02T14:42:53.325Z"
+    },
+    {
+      "url": "https://alsafyhandyman.netlify.app/assets/metalwork-gates-pergola-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/metalwork-gates-pergola-concept-v2.png",
+      "bytes": 2592389,
+      "sha256": "f91eca5854ffd6c6fb5a580202f9c280a3690ce9a6a7b1d7627d0f9e6368c9bc",
+      "retrieved_at_utc": "2026-09-02T14:42:55.413Z"
+    }
+  ]
+}

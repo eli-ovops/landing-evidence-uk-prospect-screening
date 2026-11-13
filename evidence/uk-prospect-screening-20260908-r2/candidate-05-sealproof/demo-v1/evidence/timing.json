@@ -1,0 +1,8 @@
+{
+  "firstPersistedDemoWorkUtc": "2026-09-08T05:04:12.325061+00:00",
+  "recordedAtUtc": "2026-09-08T05:21:24.885195+00:00",
+  "elapsedMinutes": 17.21,
+  "measurement": "Demo directory birthtime through this QA record; preliminary instruction reads before first persisted work are not included. Final elapsed updated at acceptance.",
+  "timeAnomalyReviewRequired": true,
+  "reason": "Below30 minutes so far; prior completed client investigation reused, but new pre-code decision,3 new generated assets,actual implementation and actual browser/independent review all required. Never wait to fabricate time."
+}

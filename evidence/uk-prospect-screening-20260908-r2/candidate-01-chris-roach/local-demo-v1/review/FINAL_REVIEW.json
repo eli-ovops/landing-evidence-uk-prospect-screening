@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "reviewer": {
+    "taskId": "/root/independent_review",
+    "name": "Independent Chris Roach Demo Reviewer",
+    "identityEvidence": "collaboration task /root/independent_review spawned by /root for independent pre-code and final review; no site code edits; Owner 01a07f53-672a-7770-afcc-243bc0a789db is separate"
+  },
+  "inputHash": "e6fae5d64a04e39fa0c22e3a37b7007f5feac87c5486fdd1f07165168089ae9c",
+  "resultSha256": "2e153f09f6cfd5b2d64ae014d4b7b7ed5410eae60a01bb916aae54f01fe977f6",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "83b774cc3f6eb516f625a4b8c7aa2419b21e07eca09873c49f43a8daad72ab5d"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "8950d0f15467d949f2372c6224b7e28af91668cefac70c67e6316d5f7cec8180"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "82155b7cb16adca41f167752059df504ad75efc853a0bc7546ae5a7c7ef14fb5"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "c1123b5b6c0cbe5bfb39de25337eee7bfa5ad49abee124421b05eb8e672e0f59"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "9e971893c62949bd89a35012d81da34044cd818d7d74a1f6d73bc40fdb1647d3"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "5fdd0be83c8f8c0e76082856969e9e08d299fef0cffad41ecfeddbb648589606"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "1e84b46a12a7373374da524e18fa2a65e43baaead0a85b685ecdef1edf8eb179"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "7d1bebb903c3074d911ffd244bf7a3fdfee71c2e21d18578bd9c61e61fd22504"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "da9a18a228a2e5682b926b4ae42c12e5ec8f716d1648b9013923f796d074ac41"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "6ba598a7b39077fddd55ec7770bf83c27e3adb693baf8936c965729550630721"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "0bd136c5640bc9d5a6c3001ca459928ad64d0ddd020f378d365c8234840fd922"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "41e777d5ff3cc53c0b959ad39dd7c557cdd155b44aa6e5050a193e979a6b6cde"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "4382a519af0004d587317d755e1d154d5b53e7a292a080a4015174c196efbbc9"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "a842f92aa4f8ac8260549a70f0d1ced9f07ad49c8984ea2770593571e0fdeeef"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "de48ff4d3ad8c3593435ab18eb4cbd013ddc1744de68e0deff82810e9fe68752"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "32137b7c8ea73b8a88a792c8b770661df6963b1e979feb0b3e274307ae9417ab"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c0ac18f12cd59b3b3eb5f998535f01b528381dd68a1b8cbcb3cf5f1bb2f4badb"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "9c7d1a40382692968f26c12167c3ae58f4d25b9c6bb1c49e982caf80df1fffd5"
+    }
+  ],
+  "finalPass": true,
+  "clientShowable": "PASS",
+  "viewportFindings": {
+    "desktop": "1440x900 top/full/work/care/proof/contact screenshots visually inspected; current desktop hashes identical to inspected previous run. Clear service-photo association, intact crops, readable contact block, no visible overflow. Source image A10 modestly soft when enlarged but sufficient for room/finish identification.",
+    "mobile": "390x844 top/full/work/care/contact inspected. Source beforethe word join found and fixed in same version; current mobile care/full visually rechecked. CTA and hero photo fit first viewport, clear contact and service labels; no visible overflow."
+  },
+  "businessFindings": [
+    "Five-second recognition PASS: decorated room, explicit decorating identity and Ruislip appear immediately. No main-copy reading needed for domestic decorating category; service nouns resolve any wallpaper/art ambiguity.",
+    "Commercial contrast PASS: service names adjacent to actual work and floor protection adjacent to method reduce cross-section matching compared with mixed Which gallery. Which independent-review link and all direct contacts retained. This is presentation utility, not evidence of leads or purchase probability.",
+    "Bottom 40% PASS: protected-floor image and method add reassurance, source-attributed quote adds proof, van/service areas/email prompt add local relevance and actionable detail. Closing is compact, not giant empty CTA.",
+    "Would-I-reply owner perspective PASS at product-presentation level: actual recognisable work and a usable service portfolio offer a concrete object to discuss. Prior research purchase-demand uncertainty remains; do not claim the owner will buy.",
+    "30 baseline items reconciled (7 direct,7 paraphrase,6 location,1 time-sensitive,9 exclusions); representative services/images,review,method,updates,areas,address and contact all occur in actual DOM."
+  ],
+  "assetFindings": [
+    "All six displayed assets visually compared against originals; original source hash equals site image hash, no retouch/recolour/fabricated detail.",
+    "A6 and A7 are distinct angles apparently of same kitchen, described as care/work rather than before-after or separate projects. Floor protection retained.",
+    "Van remains small (80px), original 184x200; no invented logo. A10 rendered larger on desktop but meaning intact.",
+    "B business-profile attribution supports authorised local concept; copyright ownership/customer authorization/final transfer remain UNKNOWN."
+  ],
+  "rubric": {
+    "品牌辨识度": 8,
+    "素材真实性": 9,
+    "客户了解度 / 资产整合": 8.5,
+    "首屏张力": 8,
+    "排版层级": 8,
+    "节奏 / 留白": 8,
+    "商业说服": 7.5,
+    "移动端": 8.5,
+    "原创 / 去模板感": 7.5,
+    "老板购买欲 / Current Offer 价值感": 7.5
+  },
+  "rubricAverage": 8.05,
+  "internalTextGate": "PASS — HTML visible text/alt/aria/meta inspected; only Independent concept preview identity; no seller pricing, governance, AI or rights notes",
+  "remainingP0P1": 0,
+  "remainingDefects": [],
+  "firstPassIndependentResult": "LOCAL CONTENT FIX REQUIRED — mobile beforethe; fixed and rechecked",
+  "limitations": [
+    "Remote call/email/map/review actions not activated; href and visible promises verified, no sending or submission.",
+    "Client-showable local concept does not grant deployment, sending or source/asset transfer.",
+    "Customer purchase intent and attributable acquisition benefit remain UNKNOWN."
+  ],
+  "timeAnomalyReview": {
+    "status": "COMPLETED",
+    "actualDemoMinutes": "UNKNOWN exact full authorization-to-read duration",
+    "observedProductionWindow": "05:02:52Z to 05:17:20Z ~14.5 minutes; review ~15–16 minutes",
+    "reason": "Prior research reused; independent real reference/source/two-viewport image inspection, source and hash verification, 30-item coverage and a discovered-and-fixed mobile error support quality despite <20-minute window. No waiting to invent compliant elapsed time."
+  }
+}

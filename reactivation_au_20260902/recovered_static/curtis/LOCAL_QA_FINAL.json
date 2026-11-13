@@ -1,0 +1,31 @@
+{
+  "slug": "curtis",
+  "viewports": [
+    {
+      "name": "desktop-1440x900",
+      "dom_text_links_match": true,
+      "online_images": 6,
+      "local_images": 6,
+      "local_images_loaded": true,
+      "local_metrics": {
+        "innerWidth": 1440,
+        "innerHeight": 900,
+        "doc": 1440,
+        "body": 1440
+      }
+    },
+    {
+      "name": "mobile-390x844",
+      "dom_text_links_match": true,
+      "online_images": 6,
+      "local_images": 6,
+      "local_images_loaded": true,
+      "local_metrics": {
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "doc": 390,
+        "body": 390
+      }
+    }
+  ]
+}

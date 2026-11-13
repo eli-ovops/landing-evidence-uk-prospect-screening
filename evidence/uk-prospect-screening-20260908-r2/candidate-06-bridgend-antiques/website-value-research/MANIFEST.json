@@ -1,0 +1,137 @@
+{
+  "created": "2026-09-08T04:51:04.827356+00:00",
+  "sealed_original_files_verified": 29,
+  "sealed_mismatches": [],
+  "files": [
+    {
+      "path": "SOURCES.md",
+      "bytes": 4282,
+      "sha256": "f1d56652bb8736e0323127ea2e3e73f6a9d982dcad511102e69734d8b6feff55"
+    },
+    {
+      "path": "STATUS.md",
+      "bytes": 1797,
+      "sha256": "cc70388438ec587292db28243bd46507f19816ba9262f472af44e98071b2769d"
+    },
+    {
+      "path": "WEBSITE_VALUE_REPORT.md",
+      "bytes": 13239,
+      "sha256": "7059cc998334d207e0374f0a7364f4b8baf45720899f2a07a1aacb0f7ebad898"
+    },
+    {
+      "path": "barometer-desktop.png",
+      "bytes": 1068019,
+      "sha256": "74270e7096dde1794318a8a556db9424e99d84a8190887a1722b7a55c0fcf86c"
+    },
+    {
+      "path": "barometer-mobile.png",
+      "bytes": 610881,
+      "sha256": "a2fae9cb60b2ed7f30672ebbf35d7017fce5569bb505bb722042730afbc8675c"
+    },
+    {
+      "path": "contact-desktop.json",
+      "bytes": 8557,
+      "sha256": "aa8d54f04d9b6a62dff5eaf9288afcd5c4c614737d2bb97943f13d7355a81878"
+    },
+    {
+      "path": "contact-desktop.png",
+      "bytes": 201865,
+      "sha256": "07d52e2643cda5f73bc036abe4bb3cb6b7e8834bbd934398c864729be8dca85f"
+    },
+    {
+      "path": "contact-mobile.json",
+      "bytes": 7952,
+      "sha256": "efa9f6c75d68ad1fd92d1f3aa8a4c488dbefb576bcfab0b2b62f3f49b8e69c77"
+    },
+    {
+      "path": "contact-mobile.png",
+      "bytes": 108224,
+      "sha256": "fd547da788f41b5516e994726ab80555a8d8eeaa99b629d1890c4b564a0b553c"
+    },
+    {
+      "path": "home-desktop.json",
+      "bytes": 20564,
+      "sha256": "76c4277d6c84ad4b6784ab3a6cff054b0814a434af0c825fcce69d1f85454f15"
+    },
+    {
+      "path": "home-desktop.png",
+      "bytes": 1129446,
+      "sha256": "5abdcf718ee81b34947290c2a029de57d975423ac0007b3f359f66ad47746b9f"
+    },
+    {
+      "path": "home-mobile.json",
+      "bytes": 19641,
+      "sha256": "bc67b2540e9f0b9ac982ae8e413922db31fa726353c8a87ec910c0c83f04f1e8"
+    },
+    {
+      "path": "home-mobile.png",
+      "bytes": 686010,
+      "sha256": "7273ad93f9b8bd0f06d476d9d3e376a040e58cfa280846084228ec6e11ad6d03"
+    },
+    {
+      "path": "inspect.cjs",
+      "bytes": 2164,
+      "sha256": "bd70a4bb470e9e432c0863453509b0b8b9e601e0792a91a580cc8805ebcea517"
+    },
+    {
+      "path": "item-desktop.json",
+      "bytes": 12660,
+      "sha256": "8e38c95505c8672fbcfbd882c48d6bd7471f63674ea9a2955c48a21719d6dbca"
+    },
+    {
+      "path": "item-desktop.png",
+      "bytes": 713906,
+      "sha256": "910bb823fc52751c5841afcce88337fc9cc5eac967b8f5dbdee9bd1b439cf1f2"
+    },
+    {
+      "path": "item-mobile.json",
+      "bytes": 12055,
+      "sha256": "34f3b003f56aa692d9f4cf51be3ad68337d2b6ba38f42a047b9f03566ae5fa6d"
+    },
+    {
+      "path": "item-mobile.png",
+      "bytes": 475333,
+      "sha256": "d31ff11ef60ce13da5ffec45ef4a75bae875a740e6aefe300a40318a82fbef52"
+    },
+    {
+      "path": "menu-mobile.png",
+      "bytes": 79640,
+      "sha256": "92b36be31a2e618e6e18b2de0d21a198a4c53d71737d3f0137b807bc562e0c5f"
+    },
+    {
+      "path": "navigation.cjs",
+      "bytes": 1611,
+      "sha256": "b907aad87f8dffff7863fb81fb087bc536a676e2ede010c7cd625bf8b0d5e700"
+    },
+    {
+      "path": "navigation.json",
+      "bytes": 4290,
+      "sha256": "d1a414c2634ca06cc549712cd34611e2457476f4d3f34877cfc8f8c843e345cb"
+    },
+    {
+      "path": "path-check.cjs",
+      "bytes": 796,
+      "sha256": "2ec3c6945d0c55a373d4ce451e07d9d36306463ca54c3f15e3198d67d9715f58"
+    },
+    {
+      "path": "shop-desktop.json",
+      "bytes": 49049,
+      "sha256": "b65fdaffba4fb16b0374ac29a077b3820840329120cbd5b0121d06220b1e5917"
+    },
+    {
+      "path": "shop-desktop.png",
+      "bytes": 589394,
+      "sha256": "5aaea79fa3f9aea023ae626c15fa99d27033aa17c537661f395f7ce249d47e96"
+    },
+    {
+      "path": "video-desktop.json",
+      "bytes": 3289,
+      "sha256": "2e2b9861cb92d1fc3b6505e23cbc6072757a22bd09e8d2b7b0973d03c0b3ae28"
+    },
+    {
+      "path": "video-desktop.png",
+      "bytes": 118738,
+      "sha256": "f166249d4748960e0a3a392e4e7df5b7195757609256f5a63b26f2823443cf7a"
+    }
+  ]
+}

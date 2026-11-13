@@ -1,0 +1,238 @@
+{
+  "retrieved_at_utc": "2026-09-02T12:48:12.899312+00:00",
+  "homepage": "https://magnificent-quokka-00f319.netlify.app/",
+  "origin": "https://magnificent-quokka-00f319.netlify.app",
+  "recovery_scope": "current deployed HTML and browser-requested same-origin static responses only; cross-origin responses are recorded but not downloaded",
+  "online_result": {
+    "status": 200,
+    "metrics": {
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "documentElementScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "title": "Bright Bus Tours | Local Static Demo"
+    }
+  },
+  "resources": [
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "document",
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:48:06.701347+00:00",
+      "local_path": "index.html",
+      "bytes": 13825,
+      "sha256": "0dbebca115f53c0946aa1ab914de3ac2b349922910c18fd4a0e63c8a182322b9"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/banner-hiking-sightseeing.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:07.176417+00:00",
+      "local_path": "assets/banner-hiking-sightseeing.jpg",
+      "bytes": 99822,
+      "sha256": "1deb9a223f138be35ee9e29edc96193d2cee5f351c242ce1c2fd87968310e5dc"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/banner-snow-transfers.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:07.187514+00:00",
+      "local_path": "assets/banner-snow-transfers.jpg",
+      "bytes": 81167,
+      "sha256": "f6da9a074110d0dd4a596fccdf96e2b4008411ee0ff35ca28ba036cf6df3e549"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/bright-and-district-leisure-tours-logo.png",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/png",
+      "retrieved_at_utc": "2026-09-02T12:48:06.938556+00:00",
+      "local_path": "assets/bright-and-district-leisure-tours-logo.png",
+      "bytes": 26341,
+      "sha256": "139c33f6d9adc440c367c002732a6b881f0ac57032912d832a311fe36b68a148"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/bright-mountain-bike-trails.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.737358+00:00",
+      "local_path": "assets/bright-mountain-bike-trails.jpg",
+      "bytes": 64692,
+      "sha256": "7cfe1fa0bf48af55a4d6711452701a1a44fba4da81429d36c2718874133b8e28"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/bus-hire-bright-leisure-tours.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:07.177759+00:00",
+      "local_path": "assets/bus-hire-bright-leisure-tours.jpg",
+      "bytes": 95116,
+      "sha256": "58b1a200d7ad038f37764748dc0a4d8f84c34c0cc5d1850e88cb97fd29e58446"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/cycle-path-cycling-club-bright.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.727325+00:00",
+      "local_path": "assets/cycle-path-cycling-club-bright.jpg",
+      "bytes": 111507,
+      "sha256": "4409df8018794cff163f08a5848a862c795f2d9461a8534f9e9c85a89794593a"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/mystic-park-bright-cycle-path.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.737997+00:00",
+      "local_path": "assets/mystic-park-bright-cycle-path.jpg",
+      "bytes": 75663,
+      "sha256": "d4b78f35a056f6d9cb8213e3ca7525ab4548410ef5f14107f67ded1ee682c1fa"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/mystic-park-bright.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.736685+00:00",
+      "local_path": "assets/mystic-park-bright.jpg",
+      "bytes": 93319,
+      "sha256": "0a40ddda4e100669a5df6385950ec7ec3400c7e25ca1020f66fbd7310a02ed00"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/pub-tours-alpine-hotel-bright.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:08.891465+00:00",
+      "local_path": "assets/pub-tours-alpine-hotel-bright.jpg",
+      "bytes": 82370,
+      "sha256": "629e993c41d43bbe028e9897e1f852f0b17902f444b9bed2ee69ecb0026ff86f"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/pub-tours-the-wandi-pub.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.388008+00:00",
+      "local_path": "assets/pub-tours-the-wandi-pub.jpg",
+      "bytes": 87384,
+      "sha256": "77eb97b01067fc50cc7b2a65b99d0216f98322318d2a2a75e1ff2c8682e7d8ab"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/school-bus-trip-porepunkah-vacation-care.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.634649+00:00",
+      "local_path": "assets/school-bus-trip-porepunkah-vacation-care.jpg",
+      "bytes": 112872,
+      "sha256": "a44663aa4eb3e29edff7e2496d92c45a8e90afa591b0def9e16249d10a55b13d"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/school-snow-bus-trip.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.624343+00:00",
+      "local_path": "assets/school-snow-bus-trip.jpg",
+      "bytes": 95020,
+      "sha256": "288cad2aa93b4b35ce05ab68a00a08d3406d02a90a6f0b30090991d254ee26ed"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/ski-school-dinner-plain.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.500162+00:00",
+      "local_path": "assets/ski-school-dinner-plain.jpg",
+      "bytes": 102378,
+      "sha256": "07a14981af4bcec7caf08afb6583f7b868637e4a20ac8a0f5d1963ec679e0fcb"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/weddings-01.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.347295+00:00",
+      "local_path": "assets/weddings-01.jpg",
+      "bytes": 65018,
+      "sha256": "4d9ab803c415776497a5859da2415706a45093b1359f8640541e14a0cb106b1c"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/weddings-02.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.322839+00:00",
+      "local_path": "assets/weddings-02.jpg",
+      "bytes": 57423,
+      "sha256": "08f2fc32cd0fda7bc1594227032ad6a60d50bf8591473fede3234a69d5754fc1"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/weddings-03.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.558875+00:00",
+      "local_path": "assets/weddings-03.jpg",
+      "bytes": 41709,
+      "sha256": "b2555eff8fb0ad05dd0a33c2fa729c9adca158c67f692278f3842955bb60bc1b"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/winery-tours-01.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.209274+00:00",
+      "local_path": "assets/winery-tours-01.jpg",
+      "bytes": 58062,
+      "sha256": "ba2b55d45bda2c0aee5de6bb6d53f8921fb2e59fc8a471761af13ba7564c7a2b"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/assets/winery-tours-04.jpg",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/jpeg",
+      "retrieved_at_utc": "2026-09-02T12:48:09.152377+00:00",
+      "local_path": "assets/winery-tours-04.jpg",
+      "bytes": 66405,
+      "sha256": "a316292585195d40eecaa89f7b1d6ac7106100a8c9f7b3ff8c9901f5c9c318e5"
+    },
+    {
+      "url": "https://magnificent-quokka-00f319.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:48:07.021402+00:00",
+      "local_path": "styles.css",
+      "bytes": 11260,
+      "sha256": "cc1d71fcef4eca288221ecb1bfe4d8ca436c350170c2594b27858a038e97771a"
+    }
+  ]
+}

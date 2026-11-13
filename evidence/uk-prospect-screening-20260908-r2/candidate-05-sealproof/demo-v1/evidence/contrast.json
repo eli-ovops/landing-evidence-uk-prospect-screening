@@ -1,0 +1,22 @@
+[
+  {
+    "role": "body",
+    "contrast": 13.04
+  },
+  {
+    "role": "muted",
+    "contrast": 5.98
+  },
+  {
+    "role": "button",
+    "contrast": 7.23
+  },
+  {
+    "role": "blue link",
+    "contrast": 6.78
+  },
+  {
+    "role": "proof text",
+    "contrast": 5.66
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "path": "assets/legacy-01.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/1_before.jpg",
+    "sha256": "520de9a80938c01a2bf04cce0e09523b73777f195219d4e8923d8c1914e74b32",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 2,
+    "path": "assets/legacy-02.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/2_before.jpg",
+    "sha256": "f7d520d8f1152ae9ba523be23868bd9d3a8f78f3b43cff21a515604d1348564a",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 3,
+    "path": "assets/legacy-03.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/3_before.jpg",
+    "sha256": "2c38aa283bbca257d3fe91a1947aa02c06917997843d4b01ac0ec597f84f9271",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 4,
+    "path": "assets/legacy-04.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/4_before.jpg",
+    "sha256": "c1ce3636523cbe0aff95058b8437444ec40ef5e387f60055688213fcdb1ac08e",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 5,
+    "path": "assets/legacy-05.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/5_before.jpg",
+    "sha256": "58cd1aa1bffac3eb854d2a207ea536e83bc87e607ee753d0e10041db42666b40",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 6,
+    "path": "assets/legacy-06.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/wood_floor.jpg",
+    "sha256": "36f43c191919469f8940656b32dd7aa48489731c5b951c7bc3c8f48786920315",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 7,
+    "path": "assets/legacy-07.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/6_before.jpg",
+    "sha256": "5ce668912fcf4a9afdfe3f3abab7a016c22cc2e22ec5e9fd82bb9f91c31397fe",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 8,
+    "path": "assets/legacy-08.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/7_before.jpg",
+    "sha256": "f89d5c578d6de41f46eb03a54a68fe6001fbca302fddbf6d369f825952a28615",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 9,
+    "path": "assets/legacy-09.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/8_before.jpg",
+    "sha256": "eff64a4dffb677fc6297692b31608c45060a0d10960565301e680bd5ccafe258",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 10,
+    "path": "assets/legacy-10.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/9_before.jpg",
+    "sha256": "0969ce33c58be98e3f6015c2673216c7f32e0219c08b5ed20bb37f7f4fa6d390",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 11,
+    "path": "assets/legacy-11.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/bath2_before.jpg",
+    "sha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  },
+  {
+    "id": 12,
+    "path": "assets/legacy-12.jpg",
+    "url": "http://www.jr-renovations.co.uk/lightbox/images/big/bath1_before.jpg",
+    "sha256": "bdfb07aa2aad09f37b03869618c75c9c2d82f35fac1bff22db51e1c18b0a95cb",
+    "grade": "A",
+    "rights": "Official public asset; local concept permission only; final customer permission pending"
+  }
+]

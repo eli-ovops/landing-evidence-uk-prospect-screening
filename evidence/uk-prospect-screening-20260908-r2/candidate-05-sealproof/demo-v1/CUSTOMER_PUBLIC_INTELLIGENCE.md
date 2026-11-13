@@ -1,0 +1,36 @@
+# SealProof public intelligence / 2026-09-08
+
+Owner 01a07f53-995b-7342-9792-55f6ccf6c181. Current authority: user's “那你 做demo吧”, local Sealproof demo only. Source capture and full prior report: ../website-value-research/SOURCES.md and WEBSITE_VALUE_REPORT.md. Research-only files remain sealed. This is a user-authorized commercial experiment, not a reversal of prior repair-first recommendation or proof of purchase intent.
+
+Source register: S1 official home https://infosealproof.wixsite.com/sealproof (A, brand and declared business); S2 official services /services (A); S3 official contact /contact (A); S4 official about /about (A); S5 official testimonials /testimonials (A); S6 Yell https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/ (C for independent customer text; paraphrase with attribution, no review images); S7 Firmania https://firmania.co.uk/london/sealproof-property-maintenance-2301241 (C directory corroboration); S8 Nextdoor https://nextdoor.co.uk/pages/sealproof-property-maintenance/ (C directory corroboration); S9 original concept images generated in this authorized task (C with explicit original-generation permission; never customer projects). Retrieval date all 2026-09-08. Web source fetch of Yell succeeded earlier; headless page403 now is tooling/access limitation, not evidence of site downtime. Prior sources/public-open-tool.json is the frozen text capture. Facebook target is source-linked but content inaccessible. No logins.
+
+| Research item | Source | Observation and evidence | Disposition | Planned page location / exclusion reason |
+| --- | --- | --- | --- | --- |
+| R01 brand | S1 | SealProof roof graphic, red Seal, blue Proof, Property Maintenance, Do it right - Do it once; actual DOM-built brand | DIRECT USE | Header; stable browser screenshot, original unchanged. Initial blank brand-original.png is rejected and unused |
+| R02 business | S1 S4 | Home improvements and maintenance; family run South East London source claim | FACT/PARAPHRASE USE | Hero local repairs; omit unsupported quantified experience |
+| R03 seals | S6 | Shower leak and silicone renewal listed; AlisdareH 25 Aug2026 recounts walk-in shower silicone repair | FACT/PARAPHRASE USE | #services seals + #reviews attributed account |
+| R04 plumbing | S1 S6 | Dripping taps, toilets and repairs; ValV-20 24Aug sink/taps, IllaS23Jul shower valve | FACT/PARAPHRASE USE | #services tap and valve repairs |
+| R05 everyday | S1 S2 | Flat pack furniture, home repairs, carpentry and maintenance | FACT/PARAPHRASE USE | #services home maintenance short slice |
+| R06 phone | S1 S7 S8 | 07415 601494 repeated full number; contact page tiny number lacks last digit | LOCATION/VISIT USE | #hero-call and #contact-phone tel:+447415601494 |
+| R07 email | S3 | [REDACTED_EMAIL] full visible and mailto official business contact | LOCATION/VISIT USE | #contact-email mailto:[REDACTED_EMAIL] |
+| R08 region | S3 S4 S6 | London/Kent on official contact; South East London about; list includes Plumstead Woolwich Greenwich Bexleyheath | LOCATION/VISIT USE | Hero and #areas, area enquiry without coverage promise or fake map |
+| R09 address | S3 S7 S8 | 27 vs217 Erindale; Plumstead shared | EXCLUDE | Conflicting residential street number, service business not verified walk-in venue. Use region only |
+| R10 review seal | S6 | AlisdareH25Aug2026 shower seal renewal, careful/neat work; customer report not guaranteed outcome | FACT/PARAPHRASE USE | #review-seal, clearly paraphrased Yell review, public link |
+| R11 review bathroom | S6 | JamesB-85499804Sep2026 bathroom work followed by plumbing vibration repair, used Scott twice | FACT/PARAPHRASE USE | #review-bathroom short attributed summary and link, no invented quote |
+| R12 counts | S6 | Rating count varies public caches; recent reviews are independently usable | EXCLUDE | Do not imply independently audited 5-star guarantee or fixed live count |
+| R13 default testimonials | S5 | Four default paragraph samples with John Smith Brooklyn attribution | EXCLUDE | Template fiction, never use as customer proof |
+| R14 Facebook | S3 | Actual contact icon href http://www.facebook.com/sealproof, visible text seaproof typo; fetch throttled | EXCLUDE | Target identity/content not currently inspectable; direct tel/email and verified Yell retained. No wrong spelling or Wix social footer |
+| R15 other social | S1 S8 | Wix Twitter/Facebook footer targets Wix; Nextdoor presence matched but no current content verified | EXCLUDE | Not useful proof or operative booking path for this slice |
+| R16 gallery and projects | S6 | 58 gallery leads; ownership of observed worktop/radiator thumbnail UNKNOWN, two manufacturer logos not business projects | CONCEPT VISUAL REPLACEMENT | Hero shower detail; service tap detail; closing tool still life. No gallery or invented project captions |
+| R17 team vehicle premises | S1 S6 | No source-attributed client/team/vehicle photo verified; London stock skyline not business-specific | EXCLUDE | No fake Scott/crew/van/storefront portrait; no stock skyline decoration |
+| R18 video | S1 S2 S3 S6 | No usable official video verified from accessible surfaces | EXCLUDE | Static-only slice; no invented workshop video |
+| R19 broad installations | S1 S2 | Kitchen/bathroom fitting, electrics, CCTV, decorating listed, but proof narrower | EXCLUDE | Honest core repair slice, not exhaustive replacement/migration; no unsupported electrical qualification claim |
+| R20 legal and credentials | S1 S6 | HANDYMAN Ltd footer looks template; insurance waste 24h manufacturer claims not independently verified | EXCLUDE | No legal-entity suffix, insurer badge, emergency claim or partnership logo |
+| R21 hours and pricing | S3 S6 | Official no current verified schedule or repair price | EXCLUDE | No availability guarantee, service prices, free-callout or booking slots |
+| R22 enquiry preparation | S1 S3 | Official invitation to discuss requirements; photo/area details are editorial suggestions | FACT/PARAPHRASE USE | #contact-prep suggests describe problem, postcode, relevant photo by email; clearly advice not declared business process |
+| R23 original form | S3 | Contact fields present; no submission attempted or backend tested | LOCATION/VISIT USE | Replace with actual tel/email, explicit labels, no fake form or captured submissions |
+| R24 legacy navigation | S1 S2 S3 S4 S5 | Five routes, desktop works; mobile layout980 wide in390viewport | FACT/PARAPHRASE USE | Local standalone anchors Repairs / Reviews / Contact; not deployed SEO route migration |
+
+Coverage: 24 investigated subjects; each exactly one disposition. 12 direct/fact/location retained items plus R16 concept replacement; 11 specific exclusions. Every suitable retained fact has planned selector in PRE_CODE_DECISION and contract. Source grade C does not authorize images; customer text is concise attributed paraphrase. Generated scenes only illustrate repair categories, never evidence of workmanship. Customer project-photo authenticity stays UNKNOWN.
+
+Contactability PASS: full public business email official S3, identity matched same business domain/page and contact phone. Email deliverability / decision-maker reach / buying intent / growth intent / marketing consent UNKNOWN. No outreach sent.

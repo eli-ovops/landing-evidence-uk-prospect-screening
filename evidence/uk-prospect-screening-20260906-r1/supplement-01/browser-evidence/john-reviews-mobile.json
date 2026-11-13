@@ -1,0 +1,53 @@
+{
+  "retrieved": "2026-09-06T14:45:29.906Z",
+  "requested": "https://www.johnthehandyman.co.uk/reviews.html",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 200,
+  "error": null,
+  "browser": "152.0.7977.76",
+  "url": "https://www.johnthehandyman.co.uk/reviews.html",
+  "title": "Reviews",
+  "width": 390,
+  "height": 844,
+  "body": "HOME\nJOBS\nPRICES\nREVIEWS\nABOUT\nReviews\n\"I was very pleased, John was able to accommodate my few small jobs so quickly. John is prompt, reasonably priced, competent and friendly. I can recommend and will definitely use this tradesperson again.\" Reviewed on 22/12/2025\n\"John is a lovely man. He did an excellent job also great price and service. He managed to come the next day. Made me feel safe. All round I'm thoroughly happy to give this feedback. Very highly recommend John.\" Reviewed on 28/11/2025.\n\"John was Prompt with time and did a very good job with some flat pack furniture whilst being distracted due to us chatting with him. John also tidied up the boxes before leaving. I would definitely recommend this trader to friends in the future.\" Reviewed on 25/11/2025\n\"Excellent service.\" Reviewed on 19/11/2025\n\"John is friendly and did a good job.\" Reviewed on 19/11/2025\n\"John was everything you could ask for. Punctual, hardworking, knowledgeable. Charged a fair price for re-felting my shed and I would recommend him to everybody. He is now on my list of good tradesmen for this type of work.\" Reviewed on 17/11/2025\n\"Superb job, absolutely perfect for me. Can't recommend highly enough.\" Reviewed on 04/11/2025\n\"John fitted a new gate for us. The job was not straightforward but John soon found a solution. We are very happy with the work done and glad to recommend John as a trusted trader.\" Reviewed on 30/10/2025\n\"Great job as ALWAYS would highly recommend!\" Reviewed on 22/10/2025\n\"I had previously contacted 3 handymen but hadn't heard back. John was quick to respond to my enquiry and soon gave me a date and time to do the job. Arrived at the time agreed, got on with the job and was very pleasant. Excellent work and care taken in my home.I would highly recommend and will use his service again\" Reviewed on 06/10/2025\nPlease note these reviews have not been 'Cherry Picked' but they are the last 10, sequential, reviews of 2025.\nClick here to see all my reviews (Over 250) on the Derbyshire Trusted Trader site.\nClick here to see my case study on the Derbyshire Trusted Trader site.",
+  "links": [
+    {
+      "text": "HOME",
+      "url": "https://www.johnthehandyman.co.uk/index.html"
+    },
+    {
+      "text": "JOBS",
+      "url": "https://www.johnthehandyman.co.uk/jobs.html"
+    },
+    {
+      "text": "PRICES",
+      "url": "https://www.johnthehandyman.co.uk/prices.html"
+    },
+    {
+      "text": "REVIEWS",
+      "url": "https://www.johnthehandyman.co.uk/reviews.html"
+    },
+    {
+      "text": "ABOUT",
+      "url": "https://www.johnthehandyman.co.uk/about.html"
+    },
+    {
+      "text": "here",
+      "url": "https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid=25417"
+    },
+    {
+      "text": "here",
+      "url": "https://www.derbyshire.gov.uk/community/trusted-trader/john-murray/trusted-trader-case-study-john-murray.aspx"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Handyman van header",
+      "url": "https://www.johnthehandyman.co.uk/images/purple_van_header.jpg",
+      "loaded": true
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "retrieved": "2026-09-08T05:08:51.127Z",
+  "status": 200,
+  "url": "https://infosealproof.wixsite.com/sealproof",
+  "title": "HOME | sealproof",
+  "text": "Skip to Main Content\nThis website was built on Wix. Create yours today.\nGet Started\nSealProof\nDo it right   -   Do it once\nProperty Maintenance\n\nHOME\n\nSERVICES\n\nTESTIMONIALS\n\nABOUT\n\nCONTACT\n\nWELCOME\n\nWelcome to SealProof where we are committed to quality and pride ourselves on excellent workmanship.\n\nFind us on Yell.com and read our customer reviews.\n\n​\n\nWe specialize in all areas of home improvements and maintenance from full kitchen and bathroom installations. Security systems and CCTV with live remote viewing from any smart device.\n\nRepairs to the home from dripping taps and leaks, Radiator installations, toilet repairs and fitting, Flat pack furniture assembly and much more.\n\n​\n\nyou can easily contact one of the team on the contact details provided and arrange an appointment to discuss your requirements.\n\nCall now for a free quotation or to arrange an appointment\n\n07415 601494\n\n© 2023 by The HANDYMAN Ltd. Proudly created with Wix.com.",
+  "brands": [
+    {
+      "html": "<h1 class=\"font_0 wixui-rich-text__text\" style=\"font-size:114px; line-height:1.1em; text-align:center;\"><span style=\"text-shadow:#c8c8c8 1px 1px 0px, #b4b4b4 0px 2px 0px, #a0a0a0 0px 3px 0px, rgba(140, 140, 140, 0.498039) 0px 4px 0px, #787878 0px 0px 0px, rgba(0, 0, 0, 0.498039) 0px 5px 10px;\" class=\"wixui-rich-text__text\"><span style=\"font-size:114px;\" class=\"wixui-rich-text__text\"><span class=\"color_23 wixui-rich-text__text\">Seal<span style=\"color:rgb(10, 41, 242);\" class=\"wixui-rich-text__text\">Proof</span></span></span></span></h1>",
+      "rect": {
+        "x": 248,
+        "y": 210,
+        "width": 686,
+        "height": 125.40625,
+        "top": 210,
+        "right": 934,
+        "bottom": 335.40625,
+        "left": 248
+      },
+      "style": ""
+    },
+    {
+      "html": "<span style=\"text-shadow:#c8c8c8 1px 1px 0px, #b4b4b4 0px 2px 0px, #a0a0a0 0px 3px 0px, rgba(140, 140, 140, 0.498039) 0px 4px 0px, #787878 0px 0px 0px, rgba(0, 0, 0, 0.498039) 0px 5px 10px;\" class=\"wixui-rich-text__text\"><span style=\"font-size:114px;\" class=\"wixui-rich-text__text\"><span class=\"color_23 wixui-rich-text__text\">Seal<span style=\"color:rgb(10, 41, 242);\" class=\"wixui-rich-text__text\">Proof</span></span></span></span>",
+      "rect": {
+        "x": 328.390625,
+        "y": 206,
+        "width": 525.21875,
+        "height": 132,
+        "top": 206,
+        "right": 853.609375,
+        "bottom": 338,
+        "left": 328.390625
+      },
+      "style": ""
+    },
+    {
+      "html": "<span style=\"font-size:114px;\" class=\"wixui-rich-text__text\"><span class=\"color_23 wixui-rich-text__text\">Seal<span style=\"color:rgb(10, 41, 242);\" class=\"wixui-rich-text__text\">Proof</span></span></span>",
+      "rect": {
+        "x": 328.390625,
+        "y": 206,
+        "width": 525.21875,
+        "height": 132,
+        "top": 206,
+        "right": 853.609375,
+        "bottom": 338,
+        "left": 328.390625
+      },
+      "style": ""
+    },
+    {
+      "html": "<span class=\"color_23 wixui-rich-text__text\">Seal<span style=\"color:rgb(10, 41, 242);\" class=\"wixui-rich-text__text\">Proof</span></span>",
+      "rect": {
+        "x": 328.390625,
+        "y": 206,
+        "width": 525.21875,
+        "height": 132,
+        "top": 206,
+        "right": 853.609375,
+        "bottom": 338,
+        "left": 328.390625
+      },
+      "style": ""
+    }
+  ]
+}

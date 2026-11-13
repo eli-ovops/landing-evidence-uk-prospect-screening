@@ -1,0 +1,26 @@
+{
+  "retrieved": "2026-09-08T03:30:48.337Z",
+  "requested": "https://c.yell.com/t_bigSquare%2Cf_auto/baeed0bc-a4d0-4bd8-a937-75e38c40e297_image_jpeg.jpg",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://c.yell.com/t_bigSquare%2Cf_auto/baeed0bc-a4d0-4bd8-a937-75e38c40e297_image_jpeg.jpg",
+  "title": "baeed0bc-a4d0-4bd8-a937-75e38c40e297_image_jpeg.jpg (200×200)",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "",
+  "links": [],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://c.yell.com/t_bigSquare%2Cf_auto/baeed0bc-a4d0-4bd8-a937-75e38c40e297_image_jpeg.jpg",
+      "loaded": true
+    }
+  ]
+}

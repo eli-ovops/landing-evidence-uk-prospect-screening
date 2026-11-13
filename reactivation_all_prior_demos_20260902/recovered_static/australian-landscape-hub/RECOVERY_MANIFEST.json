@@ -1,0 +1,83 @@
+{
+  "retrieved_at_utc": "2026-09-02T14:43:09.362Z",
+  "homepage": "https://australianlandscapehub.netlify.app/",
+  "origin": "https://australianlandscapehub.netlify.app",
+  "recovery_scope": "current deployed HTML and referenced same-origin static responses only; cross-origin URLs recorded but not downloaded",
+  "resources": [
+    {
+      "url": "https://australianlandscapehub.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "local_path": "index.html",
+      "bytes": 6757,
+      "sha256": "005ac3fd7eb7b652fbe7f2f3f03073ebd19f7c4dcdeddb0d061feec4dc6308fe",
+      "retrieved_at_utc": "2026-09-02T14:43:05.290Z"
+    },
+    {
+      "url": "https://australianlandscapehub.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "local_path": "styles.css",
+      "bytes": 10101,
+      "sha256": "2177310a70357527869f953415677b91e27fbe33744fdddeede128bdad63de13",
+      "retrieved_at_utc": "2026-09-02T14:43:05.415Z"
+    },
+    {
+      "url": "https://australianlandscapehub.netlify.app/assets/hero-garden-concept-v3.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/hero-garden-concept-v3.png",
+      "bytes": 2895301,
+      "sha256": "52039afde0ed59e8b331437340f0e523fff5a7a565e50f46c3a3a57ae9a17c92",
+      "retrieved_at_utc": "2026-09-02T14:43:07.171Z"
+    },
+    {
+      "url": "https://australianlandscapehub.netlify.app/assets/artificial-grass-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/artificial-grass-concept-v2.png",
+      "bytes": 2984938,
+      "sha256": "2f8fad842752dfc5b8aa5a713dfc6eafaf559dbb8138bf7e5f4e63838c5c7ac9",
+      "retrieved_at_utc": "2026-09-02T14:43:07.695Z"
+    },
+    {
+      "url": "https://australianlandscapehub.netlify.app/assets/concreting-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/concreting-concept-v2.png",
+      "bytes": 2934878,
+      "sha256": "a0987e65f804ab07862323f304f8356573d89bb52335a74a9508020d5cca48b0",
+      "retrieved_at_utc": "2026-09-02T14:43:08.135Z"
+    },
+    {
+      "url": "https://australianlandscapehub.netlify.app/assets/retaining-walls-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/retaining-walls-concept-v2.png",
+      "bytes": 3461469,
+      "sha256": "b1a3bcd68eeac9e34c7ccd1493e763bdd4b619992f3a6c85a051f63662809335",
+      "retrieved_at_utc": "2026-09-02T14:43:08.595Z"
+    },
+    {
+      "url": "https://australianlandscapehub.netlify.app/assets/real-grass-decking-concept-v1.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/real-grass-decking-concept-v1.png",
+      "bytes": 3141578,
+      "sha256": "3f58a4da411dad62fa2f3ac91a6c4025724df00e620b1a5236d4f35cfe1fc09f",
+      "retrieved_at_utc": "2026-09-02T14:43:09.361Z"
+    },
+    {
+      "url": "https://www.google.com/maps/search/?api=1&amp;query=30%20Nambour%20Drive%2C%20Sunbury%20VIC%203429",
+      "same_origin": false,
+      "disposition": "recorded-not-downloaded"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "inputHash": "4378f97a6dd6b4bffce512ccbc6ddc13426476bbca2b969b67a2ec803d10735d",
+  "resultSha256": "69566d8b7df33b0354459cb1789a85ebc2c41a896ffa6a61a6a97c5ad818f5c6",
+  "reviewer": {
+    "taskId": "/root/sealproof_reviewer",
+    "name": "SealProof independent reviewer",
+    "identityEvidence": "Parent collaboration NEW_TASK independently assigned /root/sealproof_reviewer; this reviewer authored PRE_CODE_REVIEW.md and FINAL_REVIEW.md/JSON only, not HTML/CSS."
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "1b6019d6fe7d14bc50c8927b611daa5e69566a51fc9d2f228e65a80c3a0dd227"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "9de1df8a4de72edacc6a[REDACTED_PHONE]ce03b616f74850ca929d78ade2ccba29e"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "55814649dee847fa7736d00ae68f9a065f145d45c46b73ccbcfbdeeeb860b36c"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "84ada2313f528da8b2c2f6f3341db1d88cdfea096c743f45a5cd839ac007fea1"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "f0a398f560f6f7fc5dde70d7bcecd067553c55e65d741d46a2ac1bbe870087dd"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "a3a25c66fa2bf261da6164cd64c7c6aa2c4ba3a674b9ae28c6ede43741eef89b"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "6fad2bc5bccd62b5ac44c4a50d24cc741fcf395315df43f1625e51aeb65d50e7"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "52ec13c7eb97d8c3b687cf984670c3fd4c6cd841b8815c0ea45b1dbc156c6b79"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "2a07d7bd56038d26ba5941bb78f9eeeaf639f475b60b172b2b6eabb0cdbae71c"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "954e6a4bc9350f08c9650b90d1bfafcd39f790c04c0a14d1d53fc5713c087b35"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "7357acd48c824a74a09e52618fb4cb66b3909920a12319c3329d63dc3e53d38e"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "2b33ed286b9bedaada887085ea4cb44e6e0416014d3991c439b57c925ad323ad"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "874b7364b9a35fe3798a1e92ea5feba2d6c7b750b74c165d710fb4070960efdd"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "ab46900ca5271725f624250664262556bd10f77d6542c5692a92afa46db46437"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "a8bcb0efd06c0e3c8e60b7b306e86f31a9281d93d79afb0ff2c966b31947bf32"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "e9f7f7a880e55f8550921007bfa98e7b3d9fff6d559de20d8416cca1e963474f"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": "1440x900 top/full and services/contact sections examined. CTA inside first screen, readable hierarchy, three distinct service/proof/contact compositions, no cropped essential subject or blank section.",
+    "mobile": "390x844 top/full and service/proof/contact sections examined. Entire headline/CTA before photo; readable review attribution; long email fits; contact and imagery intact. Additional Owner keyboard/lazy-load checks pass320/390/768/1024/1440."
+  },
+  "businessFindings": {
+    "recognition": "PASS: dedicated shower-tray/seam tool scene indicates shower/home maintenance within five seconds; does not visually promise luxury renovation. Exact seal work gains specificity from services.",
+    "upgrade": "PASS: narrow task taxonomy + two faithful named/date-attributed Yell reports + reachable mobile phone/email, versus980px crop and default testimonials. Economic superiority over Wix repair remains UNKNOWN.",
+    "wouldReply": "PASS as a review judgment: recognizable true brand and useful complete mobile repair enquiry page are worth reviewing as a proposed direction; not a prediction of owner intent or sale.",
+    "bottom40": "PASS: actual repair accounts lead into distinct tools visual, family-run statement, area examples and practical enquiry preparation; neither two consecutive text-only major sections nor slogan-only closing.",
+    "replacement": "PASS for declared limited repair presentation; phone/email and proof retained; conflicting address, inaccessible social content and broad installation services have explicit exclusions. No entire-site migration claim."
+  },
+  "assetFindings": {
+    "A1": "Full roof and SealProof lettering preserved in contain render; original brand is visible, small motto secondary.",
+    "A2": "Original conceptual shower scene; key seam/tool/drain retained at both viewports. No claim of actual completed work.",
+    "A3": "Distinct basin/tap/spanner category illustration; full aspect retained, not used as proof photograph.",
+    "A4": "Distinct tools still life closes enquiry section; tools and cloth remain visible. No Scott equipment claim.",
+    "excluded": "AX1 blank and AX2 clipped brand are absent from DOM. Four displayed hashes unique; no repeated derivative imagery."
+  },
+  "rubric": {
+    "品牌辨识度": 8,
+    "素材真实性": 8.5,
+    "客户了解度 / 资产整合": 8,
+    "首屏张力": 8,
+    "排版层级": 8.5,
+    "节奏 / 留白": 8,
+    "商业说服": 8,
+    "移动端": 8.5,
+    "原创 / 去模板感": 7.5,
+    "老板购买欲 / Current Offer 价值感": 7.5
+  },
+  "rubricAverage": 8.05,
+  "remainingP0P1": 0,
+  "hook": "PASS",
+  "product": "PASS",
+  "bottom40": "PASS",
+  "replacementReady": "PASS",
+  "independentVisualAcceptance": "PASS",
+  "clientShowable": "PASS",
+  "supplementalEvidence": {
+    "evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/evidence/interaction-qa.json": "d9242c778a7f7864c47c86c5f12c4a7bdf307a995732105e9dda158e352fb6da",
+    "evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/evidence/contrast.json": "21803d16b03e127ae843f6bf954f8d9f53e763fa8eb024f739e19fb9f20d88ee",
+    "evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/evidence/timing.json": "f1f36326e2d1fe7968fe2378d07911cae4c0d427d735558d2eaca66e0e2eaa24",
+    "evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/IMPLEMENTATION_QA.md": "f16e2afb29a28b0bb465a48c83f61501bc1228fc1eb6bfc79604407d006bfdb4"
+  },
+  "limitations": [
+    "Client authorization and final asset transfer UNKNOWN; no deployment or contact authorization.",
+    "Public Yell destination access may vary; current browser403 is tool/access limitation. Local correct href and source text independently checked; no external contact performed.",
+    "Prior repair-first economic recommendation is not reversed by visual acceptance."
+  ]
+}

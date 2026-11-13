@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-08T05:39:13.182Z",
+  "owner": "01a07f53-70e7-7fb2-bb6b-5c8df904ccf6",
+  "client": "Framed Focus",
+  "activeVersion": "local-v1",
+  "inputHash": "04b894c6d58e65e74c9583ee9b9bd091683f7849c734fd1eb501dd7bb58cad4a",
+  "mechanical": "PASS",
+  "clientShowable": "AWAITING INDEPENDENT REVIEW",
+  "scheduler": false,
+  "defects": [],
+  "findingSummary": {
+    "contract": [],
+    "page": [],
+    "external": [],
+    "reconciliationByTarget": {}
+  },
+  "runtime": {
+    "node": "v22.16.0",
+    "playwright": "1.62.1",
+    "browser": "152.0.7977.76",
+    "platform": "darwin",
+    "network": "OFFLINE_SNAPSHOT; external requests, fetch/xhr/ping, forms and WebSockets blocked"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "72a99e796fc1d112fa906bfd5049c55bd4e3ceb30cc938add8388fd8b1777a0e"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "fd81e69ac1eceb2b859404e6532d2d6c158de22a8381b86c9a7928a73d643a0d"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "d19cc994d61842a022381268bee3b22680fc7d309acd5d53cae9d8935f4545eb"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "9db8c467ae012537e876ce0606232ab9997b3fb07b04c572265b8cfd6b045828"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "232fabfc326d43c031f7013def7e3b3ea7dce030ae5baa3772d9b3c0f7a586a3"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "357ac686c12386dfa935f4fb1ec0db1f89c71b3b7eaae2ebd087bae2ceed92bd"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "fdf6cbd1f7081fbf871adc3abbf946989954c09f1a4b5c3a6c3e4e9110b37a10"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "21fdeeb75916bf6d9bda42d0c27e544370a00e86d96c0254c63830afa94d886e"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "730d5d206011caa9b20766eb186ebe4446c963856a908be57ad982e2e1db70b0"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "b8fb38d5cb4089c77258fb0060619ee46d0541438ba9440cccf09aa3da7e3f22"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "6ca1c61904fe04061d9b6043e2fa77c2087b781950e7e677962f7c1f7f239c6c"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "9d66464cf7732261857bbe1ffccb8d265054f4ab9e22435f06eb998e72714feb"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "35ec9f28b62e7adff3e43b7d7fbe16d2d78e933d75a7bac3f13a1f5574db09cb"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "5364fb47e1ed00a809dde993b42fe0f2b2ce030ea5bdbf622f9787a6d33be2e2"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "b5dbf051969ad581ab17e34ef9ffe86db37b0e022d65734be188ef9c19aa1874"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "7178c1c8f326b7302e0908343ee7d3581ebaa21483e4a0053cffed896a579e18"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "832946215581c023fdb4221bb6c8a953d60d027cf12cb6d337d7e84ce16314ed"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "5b419309f16566c23a51e9485634cb7e2ed978381b62481f114d9cc7514a755f"
+    }
+  ],
+  "nextAction": "Independent visual review bound to inputHash + result SHA + evidence SHA",
+  "resultPath": "/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/framed-focus-v1-01a07f53/runs/2026-09-08T05-39-06-565Z-f83b887a/result.json"
+}

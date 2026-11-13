@@ -1,0 +1,30 @@
+[
+  {
+    "path": "assets/original-portrait.jpg",
+    "url": "http://www.jr-renovations.co.uk/images/portrait.jpg",
+    "sha256": "91b4aa07a0b04f31dda22861a8820e963536ec4b59f2448393afd1df31a9f1eb",
+    "grade": "A",
+    "rights": "Public business asset; concept use permitted; final customer confirmation pending"
+  },
+  {
+    "path": "assets/original-roman_sig.gif",
+    "url": "http://www.jr-renovations.co.uk/images/roman_sig.gif",
+    "sha256": "4600e7bf81e9241a5a74346d25403109c4ec3c227a1e28eafce8e8879fb5bb9c",
+    "grade": "A",
+    "rights": "Public business asset; concept use permitted; final customer confirmation pending"
+  },
+  {
+    "path": "assets/original-TT_W_icon.svg",
+    "url": "http://www.jr-renovations.co.uk/images/TT_W_icon.svg",
+    "sha256": "4b45e75b82c391cae96ed3f9cb4a53bcb2f1847f20a78aa9d6e7e6f869b7501f",
+    "grade": "A",
+    "rights": "Public business asset; concept use permitted; final customer confirmation pending"
+  },
+  {
+    "path": "assets/original-index_17_1539362854.JPG",
+    "url": "http://www.jr-renovations.co.uk/index_17_1539362854.JPG",
+    "sha256": "5d3f2fe21e0a35cfc9de79a05f197d4fe1c57ae8652ff4a73687b86d2c51749d",
+    "grade": "A",
+    "rights": "Public business asset; concept use permitted; final customer confirmation pending"
+  }
+]

@@ -1,0 +1,130 @@
+{
+  "retrieved_at_utc": "2026-09-02T12:48:19.469991+00:00",
+  "homepage": "https://cheery-kleicha-1b6c73.netlify.app/",
+  "origin": "https://cheery-kleicha-1b6c73.netlify.app",
+  "recovery_scope": "current deployed HTML and browser-requested same-origin static responses only; cross-origin responses are recorded but not downloaded",
+  "online_result": {
+    "status": 200,
+    "metrics": {
+      "innerWidth": 1440,
+      "innerHeight": 900,
+      "documentElementScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "title": "The Oasis Mudgee | Beauty & Wellness"
+    }
+  },
+  "resources": [
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "document",
+      "content_type": "text/html; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:48:13.594576+00:00",
+      "local_path": "index.html",
+      "bytes": 12305,
+      "sha256": "eb9b16d0d302995dcf7f353e1b5da44516e01a1801075ff496b3463ab33bf483"
+    },
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/assets/brand/the-oasis-logo-reference.webp",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/webp",
+      "retrieved_at_utc": "2026-09-02T12:48:14.058584+00:00",
+      "local_path": "assets/brand/the-oasis-logo-reference.webp",
+      "bytes": 13304,
+      "sha256": "7d33badcb5a7e49145e14d3027abe355ace3352cb25eea4c2a356b14794160ed"
+    },
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/assets/generated/advanced-facials-massage.webp",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/webp",
+      "retrieved_at_utc": "2026-09-02T12:48:14.329453+00:00",
+      "local_path": "assets/generated/advanced-facials-massage.webp",
+      "bytes": 64852,
+      "sha256": "b189189a46cd62677c65adc6dacfa612f83ca9e7ab891200dbb70b462588baf3"
+    },
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/assets/generated/lashes-brows-waxing.webp",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/webp",
+      "retrieved_at_utc": "2026-09-02T12:48:15.879661+00:00",
+      "local_path": "assets/generated/lashes-brows-waxing.webp",
+      "bytes": 66666,
+      "sha256": "c7e86c5e5450b67064ddb9e2a4dfc48c3d5641e3e465c560559a4b55711e3a4c"
+    },
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/assets/generated/makeup-tanning-nails.webp",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/webp",
+      "retrieved_at_utc": "2026-09-02T12:48:16.116293+00:00",
+      "local_path": "assets/generated/makeup-tanning-nails.webp",
+      "bytes": 63462,
+      "sha256": "23177de9d78f77252d90e2afe786e8d01eb755e4c8539e2923c2032cbdbf4011"
+    },
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/assets/generated/oasis-hero.webp",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "image",
+      "content_type": "image/webp",
+      "retrieved_at_utc": "2026-09-02T12:48:13.981422+00:00",
+      "local_path": "assets/generated/oasis-hero.webp",
+      "bytes": 84962,
+      "sha256": "f6d049d5852ad8c6935bb1c4bb5fbc8b805fb4b690470127f5a09c432b9e8705"
+    },
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/script.js",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "script",
+      "content_type": "application/javascript; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:48:13.979953+00:00",
+      "local_path": "script.js",
+      "bytes": 992,
+      "sha256": "a5cb54fdb3a48244de58164961e25c3acbccd066dba7fb15e255fdee889bd3aa"
+    },
+    {
+      "url": "https://cheery-kleicha-1b6c73.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=UTF-8",
+      "retrieved_at_utc": "2026-09-02T12:48:13.744116+00:00",
+      "local_path": "styles.css",
+      "bytes": 14568,
+      "sha256": "c172d469e2edc1067455b6b43d27521e3774b14fba39ce36f52f9b3e105fdf77"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600&family=Tenor+Sans&display=swap",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "stylesheet",
+      "content_type": "text/css; charset=utf-8",
+      "retrieved_at_utc": "2026-09-02T12:48:13.848908+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/sourcesans3/v19/nwpStKy2OAdR1K-IwhWudF-R3w8aZejf5Hc.woff2",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "font",
+      "content_type": "font/woff2",
+      "retrieved_at_utc": "2026-09-02T12:48:14.288571+00:00"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/tenorsans/v21/bx6ANxqUneKx06UkIXISn3V4Ck-L2qM.woff2",
+      "same_origin": false,
+      "status": 200,
+      "resource_type": "font",
+      "content_type": "font/woff2",
+      "retrieved_at_utc": "2026-09-02T12:48:14.288353+00:00"
+    }
+  ]
+}

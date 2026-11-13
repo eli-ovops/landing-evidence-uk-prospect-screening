@@ -1,0 +1,17 @@
+{
+  "scope": "LOCAL TEST ONLY. Real loopback HTTP and injected recording transport, no external mail.",
+  "results": [
+    {
+      "width": 1440,
+      "result": "Your enquiry has been submitted. Thank you. Reference: SP-6280ECB54F.",
+      "cleared": true,
+      "buttonEnabled": true
+    },
+    {
+      "width": 390,
+      "result": "Your enquiry has been submitted. Thank you. Reference: SP-A2BAD02211.",
+      "cleared": true,
+      "buttonEnabled": true
+    }
+  ]
+}

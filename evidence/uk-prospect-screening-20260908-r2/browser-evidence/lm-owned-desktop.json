@@ -1,0 +1,87 @@
+{
+  "retrieved": "2026-09-08T03:24:37.984Z",
+  "requested": "http://www.plastering-advice.com",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.plastering-advice.com/",
+  "title": "Professional Plasterer Gateshead | LM Plastering",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "LM Plastering North East\nPlastering Services\n \nNorth East Of England\nEst:2008\n\nHome\n\nGallery\n\nContact\n\nDid you know there is also Decorative Plaster?\nHELPING YOU FROM HOUSE TO HOME\n\nProviding quality plastering services within the North East of England.\n\nWe take great pride in our work, and always provide a reliable, professional friendly service that you can count on. Whether you're in need of plastering for your home or business, LM Plastering has you covered.\n\nCustomer Reviews\nWe take your walls from old to new\nGallery\nWE HELP YOU WITH...\nDOMESTIC WORK\n LIGHT COMMERCIAL\nPATCHING\nACCIDENTAL DAMAGE / CEILING REPAIRS\n SMALL REPAIRS\nELECTRICAL RE-WIRE DAMAGE/REPAIR\nwhat is decorative plaster?\n\nNeed advice on what to do next with your newly plastered walls? Click below to see more.\n\nPost Plaster Advice\nCall Today\n\n©2017 By L.M. Plastering. No unauthorised copying of content (text or images) is permitted without owners consent.",
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://www.plastering-advice.com/"
+    },
+    {
+      "text": "Gallery",
+      "url": "https://www.plastering-advice.com/plasteringservices"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.plastering-advice.com/contact-localplasterer-jesmond-gosforth-northeast-homeimprovements"
+    },
+    {
+      "text": "Did you know there is also Decorative Plaster?",
+      "url": "http://www.bespokefeaturewalls.com/"
+    },
+    {
+      "text": "plastering services",
+      "url": "https://www.plastering-advice.com/plasterer"
+    },
+    {
+      "text": "Customer Reviews",
+      "url": "https://www.yell.com/biz/l-m-plastering-newcastle-upon-tyne-10474981/"
+    },
+    {
+      "text": "Gallery",
+      "url": "https://www.plastering-advice.com/plasteringservices"
+    },
+    {
+      "text": "what is decorative plaster?",
+      "url": "https://www.bespokefeaturewalls.com/whatisvenetianplaster-wheremarbleplasterismade-samplesofvenetianplaster-whatcanbedonewithmarble"
+    },
+    {
+      "text": "Post Plaster Advice",
+      "url": "https://www.plastering-advice.com/general-7"
+    },
+    {
+      "text": "Call Today",
+      "url": "https://www.yell.com/biz/l-m-plastering-newcastle-upon-tyne-10474981/"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "https://static.wixstatic.com/media/f43c36_a585209e36c449a587c6a86e6e7e42e0~mv2.jpg/v1/fill/w_701,h_438,al_c,lg_1,q_90,enc_avif,quality_auto/f43c36_a585209e36c449a587c6a86e6e7e42e0~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "Newly plastered living room in Jesmond, Newcastle. By LM Plastering.",
+      "url": "https://static.wixstatic.com/media/f43c36_d7445aea8e044b439f8f15cbdf6f6cd6~mv2.jpg/v1/fill/w_1276,h_507,al_c,q_90,enc_avif,quality_auto/f43c36_d7445aea8e044b439f8f15cbdf6f6cd6~mv2.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "Plastering before and after pics_edited.",
+      "url": "https://static.wixstatic.com/media/f43c36_31be730b0c9a4f67a87b6050b6c1be01~mv2.jpg/v1/crop/x_325,y_0,w_1285,h_1291/fill/w_810,h_813,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Plastering%20before%20and%20after%20pics_edited_.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "L.M. Plastering Services Map North East England.",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "L.M. Plastering services Logo",
+      "url": "",
+      "loaded": false
+    }
+  ]
+}

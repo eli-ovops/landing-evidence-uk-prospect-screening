@@ -1,0 +1,42 @@
+[
+  {
+    "id": "A4",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/103356/gallery_large_IMG_4398.jpeg",
+    "file": "photo-4.jpg",
+    "hash": "036a834251db5360904d997eded1f4bd71fe527e4ab5b6eef1987ece9987b770",
+    "retrieved": "2026-09-08T05:26:04.926Z",
+    "grade": "B",
+    "attribution": "Business-managed My work gallery distinct from customer review uploads",
+    "rights": "Local concept only; final transfer UNKNOWN"
+  },
+  {
+    "id": "A5",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/103355/gallery_large_IMG_4399.jpeg",
+    "file": "photo-5.jpg",
+    "hash": "a789fb968825073cec50afec074c367610077e26704f7b0085fc773c8fe8f72b",
+    "retrieved": "2026-09-08T05:26:05.525Z",
+    "grade": "B",
+    "attribution": "Business-managed My work gallery distinct from customer review uploads",
+    "rights": "Local concept only; final transfer UNKNOWN"
+  },
+  {
+    "id": "A8",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/95058/gallery_large_66F3CE94-B5A6-407E-BB00-2889E94B912B.jpeg",
+    "file": "photo-8.jpg",
+    "hash": "185ac13032ad9ee9412cc2b3b747f09fd534bd2194275fc7863703082228f10e",
+    "retrieved": "2026-09-08T05:26:08.216Z",
+    "grade": "B",
+    "attribution": "Business-managed My work gallery distinct from customer review uploads",
+    "rights": "Local concept only; final transfer UNKNOWN"
+  },
+  {
+    "id": "A11",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/82697/gallery_large_D795F9DD-AEC5-41AB-920F-54F750D06554.jpeg",
+    "file": "photo-11.jpg",
+    "hash": "852f2125277a79fbd423540d3d4800b07d6dbce0c44f49c2a12ca7e35f323f85",
+    "retrieved": "2026-09-08T05:26:08.580Z",
+    "grade": "B",
+    "attribution": "Business-managed My work gallery distinct from customer review uploads",
+    "rights": "Local concept only; final transfer UNKNOWN"
+  }
+]

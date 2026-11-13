@@ -1,0 +1,128 @@
+[
+  {
+    "target": "curtis",
+    "viewport": "desktop-1440x900",
+    "status": 200,
+    "innerWidth": 1440,
+    "innerHeight": 900,
+    "documentElementScrollWidth": 1440,
+    "bodyScrollWidth": 1440
+  },
+  {
+    "target": "curtis",
+    "viewport": "mobile-390x844",
+    "status": 200,
+    "innerWidth": 390,
+    "innerHeight": 844,
+    "documentElementScrollWidth": 390,
+    "bodyScrollWidth": 390
+  },
+  {
+    "target": "kimberley",
+    "viewport": "desktop-1440x900",
+    "status": 200,
+    "innerWidth": 1440,
+    "innerHeight": 900,
+    "documentElementScrollWidth": 1440,
+    "bodyScrollWidth": 1440
+  },
+  {
+    "target": "kimberley",
+    "viewport": "mobile-390x844",
+    "status": 200,
+    "innerWidth": 390,
+    "innerHeight": 844,
+    "documentElementScrollWidth": 390,
+    "bodyScrollWidth": 390
+  },
+  {
+    "target": "cairns",
+    "viewport": "desktop-1440x900",
+    "status": 200,
+    "innerWidth": 1440,
+    "innerHeight": 900,
+    "documentElementScrollWidth": 1440,
+    "bodyScrollWidth": 1440
+  },
+  {
+    "target": "cairns",
+    "viewport": "mobile-390x844",
+    "status": 200,
+    "innerWidth": 390,
+    "innerHeight": 844,
+    "documentElementScrollWidth": 390,
+    "bodyScrollWidth": 390
+  },
+  {
+    "target": "always-love",
+    "viewport": "desktop-1440x900",
+    "status": 200,
+    "innerWidth": 1440,
+    "innerHeight": 900,
+    "documentElementScrollWidth": 1440,
+    "bodyScrollWidth": 1440
+  },
+  {
+    "target": "always-love",
+    "viewport": "mobile-390x844",
+    "status": 200,
+    "innerWidth": 390,
+    "innerHeight": 844,
+    "documentElementScrollWidth": 390,
+    "bodyScrollWidth": 390
+  },
+  {
+    "target": "cherry-walk",
+    "viewport": "desktop-1440x900",
+    "status": 200,
+    "innerWidth": 1440,
+    "innerHeight": 900,
+    "documentElementScrollWidth": 1440,
+    "bodyScrollWidth": 1440
+  },
+  {
+    "target": "cherry-walk",
+    "viewport": "mobile-390x844",
+    "status": 200,
+    "innerWidth": 390,
+    "innerHeight": 844,
+    "documentElementScrollWidth": 390,
+    "bodyScrollWidth": 390
+  },
+  {
+    "target": "bright",
+    "viewport": "desktop-1440x900",
+    "status": 200,
+    "innerWidth": 1440,
+    "innerHeight": 900,
+    "documentElementScrollWidth": 1440,
+    "bodyScrollWidth": 1440
+  },
+  {
+    "target": "bright",
+    "viewport": "mobile-390x844",
+    "status": 200,
+    "innerWidth": 390,
+    "innerHeight": 844,
+    "documentElementScrollWidth": 390,
+    "bodyScrollWidth": 390
+  },
+  {
+    "target": "oasis",
+    "viewport": "desktop-1440x900",
+    "status": 200,
+    "innerWidth": 1440,
+    "innerHeight": 900,
+    "documentElementScrollWidth": 1440,
+    "bodyScrollWidth": 1440
+  },
+  {
+    "target": "oasis",
+    "viewport": "mobile-390x844",
+    "status": 200,
+    "innerWidth": 390,
+    "innerHeight": 844,
+    "documentElementScrollWidth": 390,
+    "bodyScrollWidth": 390
+  }
+]

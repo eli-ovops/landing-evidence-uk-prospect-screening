@@ -1,0 +1,20 @@
+{
+  "retrieved": "2026-09-06T14:56:22.064Z",
+  "requested": "https://www.littledogstudio.uk/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": null,
+  "error": "page.goto: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.littledogstudio.uk/\", waiting until \"load\"\u001b[22m\n",
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.littledogstudio.uk/",
+  "title": "Little Dog Studio - Book Online",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "Little Dog Studio\n\nProfessional Dog Grooming\n\nDog Grooming Cheslyn Hay / Great Wyrley / Walsall / Cannock / Bloxwich / Staffordshire / Bloxwich / Featherstone / Shareshill / Essington / Willenhall",
+  "links": [],
+  "images": []
+}

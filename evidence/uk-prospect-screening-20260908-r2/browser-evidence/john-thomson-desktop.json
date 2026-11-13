@@ -1,0 +1,20 @@
+{
+  "retrieved": "2026-09-08T02:55:12.431Z",
+  "requested": "https://www.thomsonlocal.com/search/upholsterers/bradford-west-yorkshire",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 403,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.thomsonlocal.com/search/upholsterers/bradford-west-yorkshire",
+  "title": "You are blocked.",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "Blocked By TLC\n\nref:20260908T025512Z-16595dc5565g56w8hC1SG1629s0000001ue0000000001cy6",
+  "links": [],
+  "images": []
+}

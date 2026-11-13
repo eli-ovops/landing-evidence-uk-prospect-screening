@@ -1,0 +1,19 @@
+{
+  "ruleset": "Full Replacement v1.0",
+  "checkedAt": "2026-09-08T06:26:36.528491+00:00",
+  "files": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/PROJECT_CORE.md",
+      "sha256": "73487763a44d077648cacb070a198cd52324ed4e5085883df237c8633b1ba51f"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/REPLACEMENT_READY_DEMO_GATE_SOP.md",
+      "sha256": "a2b868b3d433c1da781b7bfc8390d4238728038b55fd9a98eb972091d95d3ded"
+    },
+    {
+      "path": "/Users/USER/.codex/AGENTS.details.md",
+      "sha256": "11910a423a198e268fd1b6e0314a880273d6f6d51f7818cefab5ed6b002b5195"
+    }
+  ],
+  "sameVersionReview": "/root/framed_reviewer approved known local fixes; full replacement gate remains BLOCKED"
+}

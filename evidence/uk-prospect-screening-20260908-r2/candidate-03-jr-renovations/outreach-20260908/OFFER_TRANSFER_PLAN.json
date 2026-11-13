@@ -1,0 +1,325 @@
+{
+  "status": "PASS",
+  "code": "Custom static HTML/CSS/JS authored in this task; no bundled font or third-party application library",
+  "assets": [
+    {
+      "path": "assets/asset-01.jpg",
+      "sha256": "e9b5ffdb78482bb2546f2f32eb76c4eac11f89a1e1fe264e4214c2d96489b6e2",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-02.jpg",
+      "sha256": "735c2731bb119658b787abeed97bed1f6105b1a3884cbccf9064bce30ebfe3ac",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-03.jpg",
+      "sha256": "38986f696b435037cff42220bd8e01d2d950757c8279155aa16fafbeddeb3ba5",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-04.jpg",
+      "sha256": "1e0586a8ffd74e087f19d6eb6287d8fd1d6ba62e1f10a41fbed35a708039e7eb",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-05.jpg",
+      "sha256": "3a990d87c4360b772dfdcfb6e8d70f8abcdd332e22eb09cc8a6078c62ce943a7",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-06.jpg",
+      "sha256": "38fb506f1d6e3dd284cba01d8fb8d8599e75ea5a1c54f9fa59f1e3a34c5c0e54",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-07.jpg",
+      "sha256": "e8e75675d7382b495ca2f85f3e9603396999b45d95d645d053404bd80e88b55e",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-08.jpg",
+      "sha256": "4c0952c644181207cab699253b550ed84c1d3b2e2c0ea042506cc81eb7692315",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-09.jpg",
+      "sha256": "31332e4c3a4efbebf02ecd593c47c08467c38b77ee419d8a8f2d28cddb426539",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-10.jpg",
+      "sha256": "d81fcb8971c201a4cc72a2456525118e946b8d7a0363c5a37d3181b02f6af6cf",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-11.jpg",
+      "sha256": "83dd2e6d749b4fc2c272d46f55be32f25654d1c1233129471d17fa6350087d53",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-12.jpg",
+      "sha256": "81370948e9df3bef563e022ad3de5f561cd3332760b82a5967401a8e005ed97c",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-13.png",
+      "sha256": "9c802885fd29a241687b15c7195d4754a328811f61ab455d8e2e5e3bb734cadc",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-14.jpg",
+      "sha256": "cc26ae809c92eeeec2886726cd1e2f3a4221e85616bab9bdcef5add4ac17ea83",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/asset-15.jpg",
+      "sha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-01.jpg",
+      "sha256": "520de9a80938c01a2bf04cce0e09523b73777f195219d4e8923d8c1914e74b32",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-02.jpg",
+      "sha256": "f7d520d8f1152ae9ba523be23868bd9d3a8f78f3b43cff21a515604d1348564a",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-03.jpg",
+      "sha256": "2c38aa283bbca257d3fe91a1947aa02c06917997843d4b01ac0ec597f84f9271",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-04.jpg",
+      "sha256": "c1ce3636523cbe0aff95058b8437444ec40ef5e387f60055688213fcdb1ac08e",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-05.jpg",
+      "sha256": "58cd1aa1bffac3eb854d2a207ea536e83bc87e607ee753d0e10041db42666b40",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-06.jpg",
+      "sha256": "36f43c191919469f8940656b32dd7aa48489731c5b951c7bc3c8f48786920315",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-07.jpg",
+      "sha256": "5ce668912fcf4a9afdfe3f3abab7a016c22cc2e22ec5e9fd82bb9f91c31397fe",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-08.jpg",
+      "sha256": "f89d5c578d6de41f46eb03a54a68fe6001fbca302fddbf6d369f825952a28615",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-09.jpg",
+      "sha256": "eff64a4dffb677fc6297692b31608c45060a0d10960565301e680bd5ccafe258",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-10.jpg",
+      "sha256": "0969ce33c58be98e3f6015c2673216c7f32e0219c08b5ed20bb37f7f4fa6d390",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-11.jpg",
+      "sha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/legacy-12.jpg",
+      "sha256": "bdfb07aa2aad09f37b03869618c75c9c2d82f35fac1bff22db51e1c18b0a95cb",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/original-TT_W_icon.svg",
+      "sha256": "4b45e75b82c391cae96ed3f9cb4a53bcb2f1847f20a78aa9d6e7e6f869b7501f",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/original-index_17_1539362854.JPG",
+      "sha256": "5d3f2fe21e0a35cfc9de79a05f197d4fe1c57ae8652ff4a73687b86d2c51749d",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/original-portrait.jpg",
+      "sha256": "91b4aa07a0b04f31dda22861a8820e963536ec4b59f2448393afd1df31a9f1eb",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/original-roman_sig.gif",
+      "sha256": "4600e7bf81e9241a5a74346d25403109c4ec3c227a1e28eafce8e8879fb5bb9c",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/room-A02.jpg",
+      "sha256": "504f627a738273b7300384411006794deffbfa011148204f2bd23ce285fb933f",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/room-A03.jpg",
+      "sha256": "e1a3b0f9165a95a391a8b278bee514396c76690941c06aac73de851216972ea8",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/room-A09.jpg",
+      "sha256": "0b40495a35c401a3a780747600e1d35657085dd375cad1ba0acc0e8f50dbb744",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/room-A10.jpg",
+      "sha256": "cec2c72ba9182c2744a4bf2a79a6661797233e77b81b9b9b2bf301c8de547d81",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "assets/room-A12.jpg",
+      "sha256": "779bc0621d676844bd0a3d1bd9c66f12ed125cecf5db0232f4426118bf0c5260",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "images/TT_W_icon.svg",
+      "sha256": "4b45e75b82c391cae96ed3f9cb4a53bcb2f1847f20a78aa9d6e7e6f869b7501f",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "images/logo_web.jpg",
+      "sha256": "cc26ae809c92eeeec2886726cd1e2f3a4221e85616bab9bdcef5add4ac17ea83",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "images/portrait.jpg",
+      "sha256": "91b4aa07a0b04f31dda22861a8820e963536ec4b59f2448393afd1df31a9f1eb",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "images/roman_sig.gif",
+      "sha256": "4600e7bf81e9241a5a74346d25403109c4ec3c227a1e28eafce8e8879fb5bb9c",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "index_17_1539362854.JPG",
+      "sha256": "5d3f2fe21e0a35cfc9de79a05f197d4fe1c57ae8652ff4a73687b86d2c51749d",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/1_before.jpg",
+      "sha256": "520de9a80938c01a2bf04cce0e09523b73777f195219d4e8923d8c1914e74b32",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/2_before.jpg",
+      "sha256": "f7d520d8f1152ae9ba523be23868bd9d3a8f78f3b43cff21a515604d1348564a",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/3_before.jpg",
+      "sha256": "2c38aa283bbca257d3fe91a1947aa02c06917997843d4b01ac0ec597f84f9271",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/4_before.jpg",
+      "sha256": "c1ce3636523cbe0aff95058b8437444ec40ef5e387f60055688213fcdb1ac08e",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/5_before.jpg",
+      "sha256": "58cd1aa1bffac3eb854d2a207ea536e83bc87e607ee753d0e10041db42666b40",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/6_before.jpg",
+      "sha256": "5ce668912fcf4a9afdfe3f3abab7a016c22cc2e22ec5e9fd82bb9f91c31397fe",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/7_before.jpg",
+      "sha256": "f89d5c578d6de41f46eb03a54a68fe6001fbca302fddbf6d369f825952a28615",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/8_before.jpg",
+      "sha256": "eff64a4dffb677fc6297692b31608c45060a0d10960565301e680bd5ccafe258",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/9_before.jpg",
+      "sha256": "0969ce33c58be98e3f6015c2673216c7f32e0219c08b5ed20bb37f7f4fa6d390",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/bath1_before.jpg",
+      "sha256": "bdfb07aa2aad09f37b03869618c75c9c2d82f35fac1bff22db51e1c18b0a95cb",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/bath2_before.jpg",
+      "sha256": "bcc596cbc3e4fc41cb821d2c4abf9f1d1d7729b7b864b84aa326744b6d872578",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    },
+    {
+      "path": "lightbox/images/big/wood_floor.jpg",
+      "sha256": "36f43c191919469f8940656b32dd7aa48489731c5b951c7bc3c8f48786920315",
+      "disposition": "CUSTOMER RECONFIRMATION REQUIRED",
+      "scope": "Current public/business-attributable customer imagery permitted for independent concept; production/source transfer not cleared"
+    }
+  ],
+  "finalTransferEligibility": "NOT VERIFIED \u2014 customer reconfirmation required; no website ZIP attached to email"
+}

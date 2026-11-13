@@ -1,0 +1,4 @@
+import { chromium } from '/Users/USER/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright/index.mjs';
+import fs from 'node:fs';import path from 'node:path';import {fileURLToPath} from 'node:url';
+const root=path.dirname(fileURLToPath(import.meta.url));const b=await chromium.launch({channel:'chrome',headless:true});
+try {for(const [id,tid] of [['rc','62399'],['hedley','35659'],['sms','71418']]){const p=await b.newPage();await p.goto('https://apps.derbyshire.gov.uk/applications/trusted-trader/profile.asp?tid='+tid,{waitUntil:'domcontentloaded',timeout:20000});const txt=await p.locator('body').innerText();const dates=[...txt.matchAll(/Reviewed on (\d{2}\/\d{2}\/\d{4})/g)].map(x=>x[1]);const result={id,url:p.url(),retrieved:new Date().toISOString(),dates};fs.writeFileSync(path.join(root,id+'-current-dates.json'),JSON.stringify(result,null,2));console.log(JSON.stringify(result));await p.close();}}finally{await b.close();}

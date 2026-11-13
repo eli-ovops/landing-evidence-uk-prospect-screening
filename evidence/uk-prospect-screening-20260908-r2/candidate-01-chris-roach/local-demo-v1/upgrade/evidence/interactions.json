@@ -1,0 +1,16 @@
+[
+  {
+    "width": 1440,
+    "serviceAnchors": "PASS",
+    "allPhotoOpenDecodeEscapeFocus": "PASS"
+  },
+  {
+    "width": 390,
+    "serviceAnchors": "PASS",
+    "allPhotoOpenDecodeEscapeFocus": "PASS"
+  },
+  {
+    "javascriptDisabled": true,
+    "photoFallback": "PASS"
+  }
+]

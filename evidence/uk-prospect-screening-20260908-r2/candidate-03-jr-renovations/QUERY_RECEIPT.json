@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-08",
+  "queries": [
+    "site:trustedtraders.which.co.uk/businesses/ decorators \"08/2026\"",
+    "\"JR Renovations\" London email website",
+    "\"JR Renovations\" \"Charlton\" facebook"
+  ],
+  "identity": "Roman Chojnacki; Charlton; domain jr-renovations.co.uk",
+  "excluded_namesakes": [
+    "jrrenovations.co.uk Trowbridge",
+    "jrrenovations.net non-UK"
+  ],
+  "browser": "HTTP published link renders; HTTPS certificate error recorded separately"
+}

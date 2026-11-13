@@ -1,0 +1,45 @@
+{
+  "retrieved": "2026-09-06T14:45:21.876Z",
+  "requested": "https://www.johnthehandyman.co.uk/prices.html",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 200,
+  "error": null,
+  "browser": "152.0.7977.76",
+  "url": "https://www.johnthehandyman.co.uk/prices.html",
+  "title": "John the Handyman Prices charged",
+  "width": 390,
+  "height": 844,
+  "body": "HOME\nJOBS\nPRICES\nREVIEWS\nABOUT\nPrices charged as of\n1st January 2026\n\n\nPlease note : I give free quotations and I do not charge a callout fee, however, I do have a minimum charge of £40.00 for any work that I do, even if it only takes a few minutes.\n\nFirst hour - £70.00\n\nsubsequent hours are charged at £45.00 /hour\n\n2 hours - £115.00\n3 hours - £160.00\n4 hours - £205.00\n5 hours - £250.00\n6 hours - £295.00\n7 hours - £340.00\n\n1 day - £385.00\n\n\nGutter clearing £110 to £190 for most houses.\nUsually work is charged on an hourly/daily rate.\nHowever, some work will be charged at an agreed set price which will only change if unforseen cicumstances occur.\nSome jobs, for example gutter clearing, are always charged at a higher rate due to the dangers involved with ladders.\nThere are always unseen costs involved in travelling to your home to do work. These consist of fuel/vehicle costs, time spent loading/unloading of tools and materials, time spent sourcing materials needed, travelling time across town to your home and back. These costs are the same whether I spend half an hour at your home or all day there. This is why the first hour (or part of) is charged at a higher rate than subsequent hours. To save money, I recommend that you save up several small jobs before calling me out.\n\nTime starts at my arrival at your home.\n\nMaterials used are charged at cost.\nNo VAT or Hidden extras.\nPayment due on completion by Cash, Bank Transfer or Cheque.\nPlease make cheques payable to:\nChesterfield Aquatics.",
+  "links": [
+    {
+      "text": "HOME",
+      "url": "https://www.johnthehandyman.co.uk/index.html"
+    },
+    {
+      "text": "JOBS",
+      "url": "https://www.johnthehandyman.co.uk/jobs.html"
+    },
+    {
+      "text": "PRICES",
+      "url": "https://www.johnthehandyman.co.uk/prices.html"
+    },
+    {
+      "text": "REVIEWS",
+      "url": "https://www.johnthehandyman.co.uk/reviews.html"
+    },
+    {
+      "text": "ABOUT",
+      "url": "https://www.johnthehandyman.co.uk/about.html"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Handyman van header",
+      "url": "https://www.johnthehandyman.co.uk/images/purple_van_header.jpg",
+      "loaded": true
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "breakpoints": [
+    {
+      "file": "index.html",
+      "width": 375,
+      "scrollWidth": 375,
+      "cta": {
+        "x": 23,
+        "y": 383.65625,
+        "width": 202.046875,
+        "height": 50,
+        "top": 383.65625,
+        "right": 225.046875,
+        "bottom": 433.65625,
+        "left": 23
+      },
+      "missingDimensions": []
+    },
+    {
+      "file": "services.html",
+      "width": 375,
+      "scrollWidth": 375,
+      "missingDimensions": []
+    },
+    {
+      "file": "gallery.html",
+      "width": 375,
+      "scrollWidth": 375,
+      "missingDimensions": [
+        "expanded-photo"
+      ]
+    },
+    {
+      "file": "testimonial.html",
+      "width": 375,
+      "scrollWidth": 375,
+      "missingDimensions": []
+    },
+    {
+      "file": "contact.html",
+      "width": 375,
+      "scrollWidth": 375,
+      "missingDimensions": []
+    },
+    {
+      "file": "index.html",
+      "width": 768,
+      "scrollWidth": 768,
+      "cta": {
+        "x": 30,
+        "y": 452.09375,
+        "width": 220.046875,
+        "height": 52.390625,
+        "top": 452.09375,
+        "right": 250.046875,
+        "bottom": 504.484375,
+        "left": 30
+      },
+      "missingDimensions": []
+    },
+    {
+      "file": "services.html",
+      "width": 768,
+      "scrollWidth": 768,
+      "missingDimensions": []
+    },
+    {
+      "file": "gallery.html",
+      "width": 768,
+      "scrollWidth": 768,
+      "missingDimensions": [
+        "expanded-photo"
+      ]
+    },
+    {
+      "file": "testimonial.html",
+      "width": 768,
+      "scrollWidth": 768,
+      "missingDimensions": []
+    },
+    {
+      "file": "contact.html",
+      "width": 768,
+      "scrollWidth": 768,
+      "missingDimensions": []
+    },
+    {
+      "file": "index.html",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "cta": {
+        "x": 48,
+        "y": 491.015625,
+        "width": 220.046875,
+        "height": 52.390625,
+        "top": 491.015625,
+        "right": 268.046875,
+        "bottom": 543.40625,
+        "left": 48
+      },
+      "missingDimensions": []
+    },
+    {
+      "file": "services.html",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "missingDimensions": []
+    },
+    {
+      "file": "gallery.html",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "missingDimensions": [
+        "expanded-photo"
+      ]
+    },
+    {
+      "file": "testimonial.html",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "missingDimensions": []
+    },
+    {
+      "file": "contact.html",
+      "width": 1024,
+      "scrollWidth": 1024,
+      "missingDimensions": []
+    }
+  ],
+  "imageLoad": [
+    {
+      "stage": "before",
+      "bytes": 6039736,
+      "images": [
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-14.jpg",
+          "bytes": 13820
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/room-A10.jpg",
+          "bytes": 1242738
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/original-TT_W_icon.svg",
+          "bytes": 6639
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/room-A02.jpg",
+          "bytes": 1400766
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/room-A03.jpg",
+          "bytes": 1100437
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/room-A09.jpg",
+          "bytes": 1002917
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-15.jpg",
+          "bytes": 53144
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/room-A12.jpg",
+          "bytes": 1219275
+        }
+      ],
+      "rendered": [
+        {
+          "id": "brand-logo",
+          "current": "http://127.0.0.1:8763/assets/asset-14.jpg",
+          "width": 39,
+          "natural": 75
+        },
+        {
+          "id": "hero-room",
+          "current": "http://127.0.0.1:8763/assets/room-A10.jpg",
+          "width": 390,
+          "natural": 4128
+        },
+        {
+          "id": "",
+          "current": "http://127.0.0.1:8763/assets/original-TT_W_icon.svg",
+          "width": 41,
+          "natural": 189
+        },
+        {
+          "id": "kitchen-work",
+          "current": "http://127.0.0.1:8763/assets/room-A03.jpg",
+          "width": 344,
+          "natural": 3096
+        },
+        {
+          "id": "bath-work",
+          "current": "http://127.0.0.1:8763/assets/room-A02.jpg",
+          "width": 164,
+          "natural": 3024
+        },
+        {
+          "id": "interior-work",
+          "current": "http://127.0.0.1:8763/assets/room-A09.jpg",
+          "width": 164,
+          "natural": 3096
+        },
+        {
+          "id": "before-after",
+          "current": "http://127.0.0.1:8763/assets/asset-15.jpg",
+          "width": 344,
+          "natural": 638
+        },
+        {
+          "id": "closing-work",
+          "current": "http://127.0.0.1:8763/assets/room-A12.jpg",
+          "width": 344,
+          "natural": 1960
+        }
+      ]
+    },
+    {
+      "stage": "after",
+      "bytes": 311619,
+      "images": [
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-05.jpg",
+          "bytes": 50286
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-14.jpg",
+          "bytes": 13820
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/original-TT_W_icon.svg",
+          "bytes": 6639
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-03.jpg",
+          "bytes": 39806
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-02.jpg",
+          "bytes": 40827
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-15.jpg",
+          "bytes": 53144
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-09.jpg",
+          "bytes": 31576
+        },
+        {
+          "url": "http://127.0.0.1:8763/assets/asset-10.jpg",
+          "bytes": 75521
+        }
+      ],
+      "rendered": [
+        {
+          "id": "brand-logo",
+          "current": "http://127.0.0.1:8763/assets/asset-14.jpg",
+          "width": 39,
+          "natural": 75
+        },
+        {
+          "id": "hero-room",
+          "current": "http://127.0.0.1:8763/assets/asset-05.jpg",
+          "width": 344,
+          "natural": 800
+        },
+        {
+          "id": "",
+          "current": "http://127.0.0.1:8763/assets/original-TT_W_icon.svg",
+          "width": 41,
+          "natural": 189
+        },
+        {
+          "id": "kitchen-work",
+          "current": "http://127.0.0.1:8763/assets/asset-03.jpg",
+          "width": 344,
+          "natural": 344
+        },
+        {
+          "id": "bath-work",
+          "current": "http://127.0.0.1:8763/assets/asset-02.jpg",
+          "width": 164,
+          "natural": 344
+        },
+        {
+          "id": "interior-work",
+          "current": "http://127.0.0.1:8763/assets/asset-09.jpg",
+          "width": 164,
+          "natural": 344
+        },
+        {
+          "id": "before-after",
+          "current": "http://127.0.0.1:8763/assets/asset-15.jpg",
+          "width": 344,
+          "natural": 638
+        },
+        {
+          "id": "closing-work",
+          "current": "http://127.0.0.1:8763/assets/asset-10.jpg",
+          "width": 344,
+          "natural": 344
+        }
+      ]
+    }
+  ],
+  "failures": []
+}

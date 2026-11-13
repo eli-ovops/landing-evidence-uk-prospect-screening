@@ -1,0 +1,34 @@
+{
+  "slug": "always-love",
+  "viewports": [
+    {
+      "viewport": "desktop-1440x900",
+      "http_status": 200,
+      "metrics": {
+        "innerWidth": 1440,
+        "innerHeight": 900,
+        "doc": 1440,
+        "body": 1440
+      },
+      "image_count": 23,
+      "all_images_loaded": true,
+      "failed_images": [],
+      "http_errors": []
+    },
+    {
+      "viewport": "mobile-390x844",
+      "http_status": 200,
+      "metrics": {
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "doc": 390,
+        "body": 390
+      },
+      "image_count": 23,
+      "all_images_loaded": true,
+      "failed_images": [],
+      "http_errors": []
+    }
+  ],
+  "method": "served recovered package directory as root and scrolled every image into view to exercise native lazy loading"
+}

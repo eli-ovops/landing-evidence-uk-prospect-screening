@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-08",
+  "queries": [
+    "\"Framed Focus\" email",
+    "\"Framed Focus\" Billericay website facebook",
+    "\"Framed Focus\" Billericay Instagram",
+    "\"[REDACTED_EMAIL]\"",
+    "\"Billericayframedfocus\" website"
+  ],
+  "sources": {
+    "h0": "https://www.yell.com/biz/framed-focus-billericay-2174145/",
+    "official": "https://www.facebook.com/Billericayframedfocus/",
+    "local": "https://essex-focus.co.uk/item/framed-focus/"
+  },
+  "h0_observation": "Review posted2026-08-04 completed artwork framing; full date in directly readable web extraction",
+  "website_link_resolution": "Yell Website -> facebook.com/Billericayframedfocus/",
+  "excluded_namesakes": [
+    "framedfocus.com consultancy",
+    "theframedfocus.com photography courses"
+  ]
+}

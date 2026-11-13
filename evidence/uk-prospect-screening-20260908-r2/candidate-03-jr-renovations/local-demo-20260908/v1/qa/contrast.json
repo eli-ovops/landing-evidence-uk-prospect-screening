@@ -1,0 +1,122 @@
+[
+  {
+    "mode": "desktop",
+    "selector": "body",
+    "contrast": 13.04,
+    "AA": true
+  },
+  {
+    "mode": "desktop",
+    "selector": ".intro",
+    "contrast": 5.92,
+    "AA": true
+  },
+  {
+    "mode": "desktop",
+    "selector": ".button",
+    "contrast": 8.28,
+    "AA": true
+  },
+  {
+    "mode": "desktop",
+    "selector": ".contact-email",
+    "contrast": 13.04,
+    "AA": true
+  },
+  {
+    "mode": "mobile",
+    "selector": "body",
+    "contrast": 13.04,
+    "AA": true
+  },
+  {
+    "mode": "mobile",
+    "selector": ".intro",
+    "contrast": 5.92,
+    "AA": true
+  },
+  {
+    "mode": "mobile",
+    "selector": ".button",
+    "contrast": 8.28,
+    "AA": true
+  },
+  {
+    "mode": "mobile",
+    "selector": ".contact-email",
+    "contrast": 13.04,
+    "AA": true
+  },
+  {
+    "mode": "desktop-dark",
+    "selector": "body",
+    "contrast": 14.37,
+    "AA": true
+  },
+  {
+    "mode": "desktop-dark",
+    "selector": ".intro",
+    "contrast": 8.7,
+    "AA": true
+  },
+  {
+    "mode": "desktop-dark",
+    "selector": ".button",
+    "contrast": 10.02,
+    "AA": true
+  },
+  {
+    "mode": "desktop-dark",
+    "selector": ".contact-email",
+    "contrast": 14.37,
+    "AA": true
+  },
+  {
+    "mode": "mobile-dark",
+    "selector": "body",
+    "contrast": 14.37,
+    "AA": true
+  },
+  {
+    "mode": "mobile-dark",
+    "selector": ".intro",
+    "contrast": 8.7,
+    "AA": true
+  },
+  {
+    "mode": "mobile-dark",
+    "selector": ".button",
+    "contrast": 10.02,
+    "AA": true
+  },
+  {
+    "mode": "mobile-dark",
+    "selector": ".contact-email",
+    "contrast": 14.37,
+    "AA": true
+  },
+  {
+    "mode": "small-mobile",
+    "selector": "body",
+    "contrast": 13.04,
+    "AA": true
+  },
+  {
+    "mode": "small-mobile",
+    "selector": ".intro",
+    "contrast": 5.92,
+    "AA": true
+  },
+  {
+    "mode": "small-mobile",
+    "selector": ".button",
+    "contrast": 8.28,
+    "AA": true
+  },
+  {
+    "mode": "small-mobile",
+    "selector": ".contact-email",
+    "contrast": 13.04,
+    "AA": true
+  }
+]

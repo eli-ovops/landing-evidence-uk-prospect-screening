@@ -1,0 +1,57 @@
+{
+  "checked": "2026-09-08T12:52:38.853461+08:00",
+  "files": [
+    {
+      "file": "candidate-01-chris-roach/CANDIDATE.md",
+      "match": true
+    },
+    {
+      "file": "candidate-01-chris-roach/QUERY_RECEIPT.json",
+      "match": true
+    },
+    {
+      "file": "AUTHORITY.md",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-desktop-section-0.png",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-desktop-section-1.png",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-desktop-section-2.png",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-desktop.json",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-desktop.png",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-mobile-section-0.png",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-mobile-section-1.png",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-mobile-section-2.png",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-mobile.json",
+      "match": true
+    },
+    {
+      "file": "browser-evidence/chris-ready-mobile.png",
+      "match": true
+    }
+  ]
+}

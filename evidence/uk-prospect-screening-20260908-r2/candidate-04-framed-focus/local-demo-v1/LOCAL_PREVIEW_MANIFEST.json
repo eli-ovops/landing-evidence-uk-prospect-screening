@@ -1,0 +1,48 @@
+{
+  "type": "LOCAL_PREVIEW_PACKAGE",
+  "createdAt": "2026-09-08T05:39:20.334288+00:00",
+  "files": [
+    {
+      "path": "assets/facebook-11.jpg",
+      "bytes": 17590,
+      "sha256": "0340ba99f1903dfaf86f8a5d7b47f42d3aadb55cf2e018ad3e188f929e87e139"
+    },
+    {
+      "path": "assets/facebook-13.jpg",
+      "bytes": 21093,
+      "sha256": "64a1a218aa8fdbe9d9d68ac1257403ffaec3140a3b5ee9e9084c3731bc9b979c"
+    },
+    {
+      "path": "assets/facebook-15.jpg",
+      "bytes": 123074,
+      "sha256": "893088b8ff79e80a2b9454af60c058b573c2f92d9d50aa914148a07e794d7765"
+    },
+    {
+      "path": "assets/facebook-6.jpg",
+      "bytes": 22911,
+      "sha256": "c491de31728dcf5523eeb22d72af6fb4bddf31de4585885503aa27cecf181847"
+    },
+    {
+      "path": "assets/facebook-8.jpg",
+      "bytes": 21071,
+      "sha256": "be3cce96c27ac7849a9fc979dc873ed0a7cae8877f2871982299a6ccd4cc8a7f"
+    },
+    {
+      "path": "assets/logo.jpg",
+      "bytes": 21378,
+      "sha256": "016d260bd47656803f58dd0db56d7f512af80a0458bd6f3480858e6c9520c1c6"
+    },
+    {
+      "path": "index.html",
+      "bytes": 9122,
+      "sha256": "9e37b682df8f429664d4db294c668955adbce79ee42d727c40fd6208b0e19827"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 9939,
+      "sha256": "07810cd26a9f59f92644ba9deb388be3012be472edb98b59ce83705f16c3f7e0"
+    }
+  ],
+  "deployment": "NOT AUTHORIZED",
+  "sourceTransfer": "NOT PREPARED"
+}

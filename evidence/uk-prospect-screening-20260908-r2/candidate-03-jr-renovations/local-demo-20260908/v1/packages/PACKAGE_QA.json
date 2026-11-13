@@ -1,0 +1,12 @@
+[
+  {
+    "viewport": "desktop",
+    "pngIdenticalToReviewed": true,
+    "broken": []
+  },
+  {
+    "viewport": "mobile",
+    "pngIdenticalToReviewed": true,
+    "broken": []
+  }
+]

@@ -1,0 +1,147 @@
+- banner:
+  - button [disabled]:
+  - button "Facebook":
+    - img "Facebook"
+  - textbox "邮箱或手机号"
+  - textbox "密码"
+  - button "登录":
+    - generic: 登录
+  - link "忘记账户了？":
+    - /url: https://www.facebook.com/recover/initiate?ars=royal_blue_bar
+- main:
+  - link "查看主页封面照片":
+    - /url: https://www.facebook.com/photo/?fbid=448586020780504&set=a.406093888363051
+  - link "Framed Focus":
+    - /url: https://www.facebook.com/photo/?fbid=406093908363049&set=a.406093891696384&__tn__=%3C
+    - img "Framed Focus"
+  - heading "Framed Focus" [level=1]: Framed Focus
+  - link "168 位粉丝":
+    - /url: https://www.facebook.com/Billericayframedfocus/followers/
+    - strong: "168"
+    - text: 位粉丝
+  - text: •
+  - link "关注 4 人":
+    - /url: https://www.facebook.com/Billericayframedfocus/following/
+    - text: 关注
+    - strong: "4"
+    - text: 人
+  - tablist:
+    - generic: 展开
+    - tab "帖子" [selected]:
+      - generic: 帖子
+    - tab "简介":
+      - generic: 简介
+    - tab "Reels":
+      - generic: Reels
+    - tab "照片":
+      - generic: 照片
+  - button "个人主页设置“查看更多”选项":
+  - heading "个人资料" [level=2]:
+    - generic: 个人资料
+  - generic: Bespoke Picture Framing Service
+  - list:
+    - button "公共主页 · 艺术":
+      - strong: 公共主页
+      - text: · 艺术
+    - generic: +44 7881 275088
+    - generic: [REDACTED_EMAIL]
+    - link "100% 推荐（11 条点评） 更多评分相关信息":
+      - /url: https://www.facebook.com/Billericayframedfocus/reviews
+      - text: 100% 推荐（11 条点评）
+      - button "更多评分相关信息":
+  - heading "照片" [level=2]:
+    - link "照片":
+      - /url: https://www.facebook.com/Billericayframedfocus/photos
+  - link "查看所有照片":
+    - /url: https://www.facebook.com/Billericayframedfocus/photos
+    - generic: 查看所有照片
+  - link:
+    - /url: /photo/?fbid=1385254640446966&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254637113633&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254633780300&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254630446967&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254627113634&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254623780301&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254620446968&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254617113635&set=pb.100068873302318.-2207520000
+  - link:
+    - /url: /photo/?fbid=1385254613780302&set=pb.100068873302318.-2207520000
+  - contentinfo "Facebook":
+    - list:
+      - link "隐私政策":
+        - /url: /privacy/policy/?entry_point=comet_dropdown
+      - generic: ·
+      - link "服务条款":
+        - /url: /policies?ref=pf
+      - generic: ·
+      - link "广告":
+        - /url: /business/
+      - generic: ·
+      - link "Ad Choices":
+        - /url: /help/568137493302217
+        - text: Ad Choices
+      - generic: ·
+      - link "Cookie":
+        - /url: /policies/cookies/
+      - generic: ·
+      - button "更多页脚链接": 更多
+  - article:
+    - link "Framed Focus":
+      - /url: https://www.facebook.com/Billericayframedfocus?__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=%3C%3C%2CP-R
+      - img "Framed Focus"
+    - heading "Framed Focus" [level=2]:
+      - link "Framed Focus":
+        - /url: https://www.facebook.com/Billericayframedfocus?__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=-UC%2CP-R
+        - generic: Framed Focus
+    - link "6天":
+      - /url: https://www.facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l?__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=%2CO%2CP-R
+    - generic: ·
+    - link "Oh! You Pretty Things (2015 Remaster) David Bowie":
+      - /url: "#"
+      - text: Oh! You Pretty Things (2015 Remaster)
+      - generic: ·
+      - text: David Bowie
+    - generic: ·
+    - img "分享对象： 公开"
+    - text: We have been a little busy over the past few months and posting my work on instagram a little slow,however here's a short catchup of what we have been up to for our cli…
+    - button "展开"
+    - link "可能是包含下列内容的艺术品：上面的文字是“PA SS/ ON”":
+      - /url: https://www.facebook.com/photo/?fbid=1385254627113634&set=pcb.1385254687113628&__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=*b0H-R
+    - link "可能是包含下列内容的艺术品：文字":
+      - /url: https://www.facebook.com/photo/?fbid=1385254630446967&set=pcb.1385254687113628&__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=*b1H-R
+    - link "可能是包含下列内容的图片：文字":
+      - /url: https://www.facebook.com/photo/?fbid=1385254637113633&set=pcb.1385254687113628&__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=*b2H-R
+    - link "没有照片描述。":
+      - /url: https://www.facebook.com/photo/?fbid=1385254613780302&set=pcb.1385254687113628&__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=*b3H-R
+    - link "可能是包含下列内容的图片：飞镖靶、室内和文字, 还剩16项内容":
+      - /url: https://www.facebook.com/photo/?fbid=1385254603780303&set=pcb.1385254687113628&__cft__[0]=AZheQcNUQtG1DiEAbzzhWR_fG2Yay4SoXNxz5WMTZZji_diXP5sxPiaL9eLbHc9cFxpEHNtCofxin6uwe6DOgc2qPUEwbnxMXDSlpTWhz0PXNYb4-t13LQbAazoY1HbzPgVoGdsnSwriPEiamMkc1bAm8Gn9joPMzvtKJBAaealaNmMucrOZcL3kHiI&__tn__=*b4H-R
+      - generic: "+16"
+    - group "Video player":
+      - button "播放音频":
+    - toolbar "查看留下心情的用户":
+      - button "赞：2位用户"
+    - generic: 所有心情：
+    - generic: "2"
+    - button "赞":
+      - generic: 赞
+    - button "评论":
+      - generic: 评论
+  - article:
+    - status "正在加载..."
+  - article:
+    - status "正在加载..."
+- generic: 登录或注册 Facebook，与亲朋好友以及其他认识的人建立联系。
+- link "登录":
+  - /url: /login/?next=%2FBillericayframedfocus%2F
+  - generic: 登录
+- generic: 或
+- link "创建新账户":
+  - /url: /reg/?next=%2FBillericayframedfocus%2F
+  - generic: 创建新账户

@@ -1,0 +1,81 @@
+{
+  "slug": "oasis",
+  "viewports": [
+    {
+      "name": "desktop-1440x900",
+      "http_status": 200,
+      "metrics": {
+        "innerWidth": 1440,
+        "innerHeight": 900,
+        "doc": 1440,
+        "body": 1440,
+        "images": [
+          {
+            "complete": true,
+            "naturalWidth": 1080
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1080
+          }
+        ]
+      },
+      "all_images_loaded": true,
+      "same_origin_http_errors": []
+    },
+    {
+      "name": "mobile-390x844",
+      "http_status": 200,
+      "metrics": {
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "doc": 390,
+        "body": 390,
+        "images": [
+          {
+            "complete": true,
+            "naturalWidth": 1080
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1536
+          },
+          {
+            "complete": true,
+            "naturalWidth": 1080
+          }
+        ]
+      },
+      "all_images_loaded": true,
+      "same_origin_http_errors": []
+    }
+  ]
+}

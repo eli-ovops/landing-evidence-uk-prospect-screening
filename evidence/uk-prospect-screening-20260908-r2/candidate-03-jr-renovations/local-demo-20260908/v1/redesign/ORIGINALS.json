@@ -1,0 +1,58 @@
+[
+  {
+    "baseAsset": "A02",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/71566/20170703_202845.jpg",
+    "file": "redesign/original-2.jpg",
+    "sha256": "504f627a738273b7300384411006794deffbfa011148204f2bd23ce285fb933f",
+    "size": [
+      3024,
+      4032
+    ],
+    "grade": "B",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED: image linked under JR Renovations merchant My work gallery",
+    "rights": "UNKNOWN; local concept only",
+    "basis": "Public original URL variant for observed same file id and filename; compare visual identity to gallery derivative"
+  },
+  {
+    "baseAsset": "A03",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/71567/20160610_174836.jpg",
+    "file": "redesign/original-3.jpg",
+    "sha256": "e1a3b0f9165a95a391a8b278bee514396c76690941c06aac73de851216972ea8",
+    "size": [
+      3096,
+      4128
+    ],
+    "grade": "B",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED: image linked under JR Renovations merchant My work gallery",
+    "rights": "UNKNOWN; local concept only",
+    "basis": "Public original URL variant for observed same file id and filename; compare visual identity to gallery derivative"
+  },
+  {
+    "baseAsset": "A09",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/71562/20160728_125741.jpg",
+    "file": "redesign/original-9.jpg",
+    "sha256": "0b40495a35c401a3a780747600e1d35657085dd375cad1ba0acc0e8f50dbb744",
+    "size": [
+      3096,
+      4128
+    ],
+    "grade": "B",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED: image linked under JR Renovations merchant My work gallery",
+    "rights": "UNKNOWN; local concept only",
+    "basis": "Public original URL variant for observed same file id and filename; compare visual identity to gallery derivative"
+  },
+  {
+    "baseAsset": "A12",
+    "url": "https://production-which-local.s3.eu-west-1.amazonaws.com/uploads/image/file/71557/20190109_111604.jpg",
+    "file": "redesign/original-12.jpg",
+    "sha256": "779bc0621d676844bd0a3d1bd9c66f12ed125cecf5db0232f4426118bf0c5260",
+    "size": [
+      1960,
+      4032
+    ],
+    "grade": "B",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED: image linked under JR Renovations merchant My work gallery",
+    "rights": "UNKNOWN; local concept only",
+    "basis": "Public original URL variant for observed same file id and filename; compare visual identity to gallery derivative"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "retrieved": "2026-09-06T14:45:05.243Z",
+  "requested": "https://www.johnthehandyman.co.uk/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "browser": "152.0.7977.76",
+  "url": "https://www.johnthehandyman.co.uk/",
+  "title": "John the Handyman - Chesterfield",
+  "width": 1440,
+  "height": 900,
+  "body": "HOME\nJOBS\nPRICES\nREVIEWS\nABOUT\nJohn the Handyman\nChesterfield\nDerbyshire\n07941 183619\nHandyman Chesterfield Derbyshire\nI am your local Handyman based in Chesterfield Derbyshire. This web page can be viewed around the world, however, I only work in the local Chesterfield area.\nI do the jobs that other tradesmen find too small. I offer free quotations and I am fully insured. I have been working with my hands for over 40 years and have a wealth of experience in many areas of maintenance and construction. I pride myself on turning up on time and providing a neat, courteous, professional service. I do not employ others, as I do all the work myself, ensuring that my high standards are maintained. Please read my reviews and give me a call or message.\n\n☎ Call/message me now",
+  "links": [
+    {
+      "text": "HOME",
+      "url": "https://www.johnthehandyman.co.uk/index.html"
+    },
+    {
+      "text": "JOBS",
+      "url": "https://www.johnthehandyman.co.uk/jobs.html"
+    },
+    {
+      "text": "PRICES",
+      "url": "https://www.johnthehandyman.co.uk/prices.html"
+    },
+    {
+      "text": "REVIEWS",
+      "url": "https://www.johnthehandyman.co.uk/reviews.html"
+    },
+    {
+      "text": "ABOUT",
+      "url": "https://www.johnthehandyman.co.uk/about.html"
+    },
+    {
+      "text": "07941 183619",
+      "url": "tel:07941183619"
+    },
+    {
+      "text": "reviews",
+      "url": "https://www.johnthehandyman.co.uk/reviews.html"
+    },
+    {
+      "text": "☎ Call/message me now",
+      "url": "tel:+447941183619"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Handyman van header",
+      "url": "https://www.johnthehandyman.co.uk/images/purple_van_header.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "Trusted Trader logo",
+      "url": "https://www.johnthehandyman.co.uk/images/tt_purple_3.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "Trusted Trader logo",
+      "url": "https://www.johnthehandyman.co.uk/images/tt_purple_3.jpg",
+      "loaded": true
+    }
+  ]
+}

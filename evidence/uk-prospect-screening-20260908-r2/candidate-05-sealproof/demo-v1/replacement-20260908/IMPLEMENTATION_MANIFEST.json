@@ -1,0 +1,111 @@
+{
+  "scope": "Local full-site replacement implementation; production receiving channel not configured",
+  "files": [
+    {
+      "path": "backend/app.py",
+      "sha256": "297e95c2a3b8264414d40f5e7a0512c2d73cd87557c65aa95a1767971faf934d",
+      "bytes": 11753
+    },
+    {
+      "path": "backend/test_app.py",
+      "sha256": "1c7e8a25d52dce0ee39b813e23534ca6aafd012b1b7f872dadb1d96c5283b77a",
+      "bytes": 2862
+    },
+    {
+      "path": "backend/test_browser.py",
+      "sha256": "b7b810e1af1e07479baade5893d8d7c8f6d2276180797b315e7613666f875bec",
+      "bytes": 1044
+    },
+    {
+      "path": "backend/test_http.py",
+      "sha256": "ebc5f54d7a66f76191b1aa70f2ba92a4fd4c1fc754f7fc4ac3017360630903ce",
+      "bytes": 2029
+    },
+    {
+      "path": "site/about/index.html",
+      "sha256": "b00e38f278fb0f20b98eb9aff51781f7b0072471b6b7816535dd8b2abc71045d",
+      "bytes": 4829
+    },
+    {
+      "path": "site/assets/brand-complete.png",
+      "sha256": "c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9",
+      "bytes": 52437
+    },
+    {
+      "path": "site/assets/y1.jpg",
+      "sha256": "3f7b71519bafcf4a0ca02879d52947eae91681abc83107556282f52e62bd9469",
+      "bytes": 130163
+    },
+    {
+      "path": "site/assets/y11.png",
+      "sha256": "4921baaa441be5f2ecbab7e7d7cfafd95f7db4a654c262bf80872b547e8f75bf",
+      "bytes": 1756529
+    },
+    {
+      "path": "site/assets/y12.png",
+      "sha256": "a3b0efa5f853e93f361dd978b23e96499b292287a7e5c2855c248d4b475265ec",
+      "bytes": 1792422
+    },
+    {
+      "path": "site/assets/y13.png",
+      "sha256": "79016ee9661cf7897f3e8c1d09ebcaa918b39f3e5a44621c02f0162bc0451f6a",
+      "bytes": 1936898
+    },
+    {
+      "path": "site/assets/y15.png",
+      "sha256": "c7225deefc7932ecc0cc1bdfef8da1d70390a357df8f7dacf81bc83058d4e674",
+      "bytes": 1333849
+    },
+    {
+      "path": "site/assets/y18.jpg",
+      "sha256": "d0dc16d2201672d1b9ab59f1c60bad2b01c2d6a66b70940f059ef52e1d9f8706",
+      "bytes": 237988
+    },
+    {
+      "path": "site/assets/y20.jpg",
+      "sha256": "4464f4e3fb2109e41880027b5322e289d81735a151500d03db85a70dd5e6ca3a",
+      "bytes": 431244
+    },
+    {
+      "path": "site/assets/y7.jpg",
+      "sha256": "73d227367d6048cac4eeec2cabf024a0f7453d6d3c8a2cb6ae920cce70858f91",
+      "bytes": 288441
+    },
+    {
+      "path": "site/assets/y9.jpg",
+      "sha256": "11dedf4fb[REDACTED_PHONE]db94f0ff4bbf9ac080396140affe68a96a2f1b5c42e6",
+      "bytes": 232380
+    },
+    {
+      "path": "site/contact/index.html",
+      "sha256": "90c7fa09a11233e35f3b0d9e916344c1653e53b65ac940825317f65a7bda7cc1",
+      "bytes": 5196
+    },
+    {
+      "path": "site/index.html",
+      "sha256": "1e2686530bd0380083d9b1112a149204a55360a5db00f7b7cc4ba957dfd17d19",
+      "bytes": 7461
+    },
+    {
+      "path": "site/services/index.html",
+      "sha256": "401a6b96dde93b42bc59204d6dd3e5742d4f34875a9504355af202e6704183ec",
+      "bytes": 7665
+    },
+    {
+      "path": "site/site.js",
+      "sha256": "bc60e913ff4f950bf61128d39d2e5ba6e2ffc36eb447b1a9ffe6d549ec76343f",
+      "bytes": 3013
+    },
+    {
+      "path": "site/styles.css",
+      "sha256": "3b4310b10d5e2040278e26d79961b4d557db810e9146c650501b701ddc8d1b1e",
+      "bytes": 14115
+    },
+    {
+      "path": "site/testimonials/index.html",
+      "sha256": "49f41af10f113710c02e18ece78fe0adbcbe3b3b5100ce4af9f6fde4ad98f214",
+      "bytes": 5428
+    }
+  ],
+  "inputHash": "9700ae2ed5507052b64d54bd24d2b3c15613cc646257d3948e0d6e9d0433e741"
+}

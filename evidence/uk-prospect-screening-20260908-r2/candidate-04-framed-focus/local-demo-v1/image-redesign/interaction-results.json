@@ -1,0 +1,37 @@
+{
+  "viewerCheck": {
+    "image": "http://127.0.0.1:18769/assets/yell-48.jpg",
+    "imageLoaded": 800,
+    "open": true
+  },
+  "focusCheck": {
+    "focus": "assets/yell-48.jpg",
+    "open": false
+  },
+  "contactCheck": {
+    "contactTop": 24.21875,
+    "hash": "#contact",
+    "loaded": [
+      {
+        "loaded": true,
+        "src": "assets/yell-48.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "assets/yell-01.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "assets/yell-56.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "assets/facebook-6.jpg"
+      },
+      {
+        "loaded": true,
+        "src": "assets/yell-50.jpg"
+      }
+    ]
+  }
+}

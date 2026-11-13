@@ -1,0 +1,47 @@
+{
+  "type": "LOCAL_PREVIEW_MANIFEST",
+  "createdAt": "2026-09-08T05:23:48.125848+00:00",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260908-r2/candidate-05-sealproof/demo-v1/site",
+  "entry": "index.html",
+  "localURL": "http://127.0.0.1:8769/",
+  "deployment": "NOT AUTHORIZED / NOT DEPLOYED",
+  "outreach": "NOT AUTHORIZED / NOT SENT",
+  "transferEligibility": "UNKNOWN",
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 6372,
+      "sha256": "4bc0c2f354aabef9424ce54083e4a46ec7266ed9da76c956b762734ddeef7422"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 8460,
+      "sha256": "efb85d66a377ffa6be07d079d287a4d066e1d8516bf95e3245d599dc35c41c2c"
+    },
+    {
+      "path": "assets/brand-complete.png",
+      "bytes": 52437,
+      "sha256": "c0cc557e1963c9d77fd3bd601927a6b4ccfa88552fda029b96b66cdb3aad88d9"
+    },
+    {
+      "path": "assets/shower-concept.png",
+      "bytes": 2175145,
+      "sha256": "3971a6e92d158dd07bbc8f6435003bed2ef2cf7b978cb9f68333cabbd425086c"
+    },
+    {
+      "path": "assets/tap-concept.png",
+      "bytes": 2030885,
+      "sha256": "a57e37ea2336b3c33480fb1a54e03a69ea13c8b8f4a6c4746ef0aecf5848688e"
+    },
+    {
+      "path": "assets/tools-concept.png",
+      "bytes": 2308606,
+      "sha256": "2910fd30a53010c30bc7bc9745733f76f13b64559e847590858257d7bc49c243"
+    }
+  ],
+  "excludedFromDisplayedManifest": [
+    "assets/brand-original.png",
+    "assets/brand-stable.png"
+  ],
+  "note": "No archive or public upload created. Unused original captures preserved for audit."
+}

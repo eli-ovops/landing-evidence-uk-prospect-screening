@@ -1,0 +1,88 @@
+{
+  "retrieved_at_utc": "2026-09-02T14:43:14.097Z",
+  "homepage": "https://shanticafee.netlify.app/",
+  "origin": "https://shanticafee.netlify.app",
+  "recovery_scope": "current deployed HTML and referenced same-origin static responses only; cross-origin URLs recorded but not downloaded",
+  "resources": [
+    {
+      "url": "https://shanticafee.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "local_path": "index.html",
+      "bytes": 6274,
+      "sha256": "0cc349b51fa5a5122cfed3ea512d3af1a5c79318e2a2943bfeecc2ee3875ec80",
+      "retrieved_at_utc": "2026-09-02T14:43:10.922Z"
+    },
+    {
+      "url": "https://shanticafee.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "local_path": "styles.css",
+      "bytes": 7438,
+      "sha256": "d334275e50c5c26c04420c1bf333654fa01c2b740e1c671c54a1947762727c2d",
+      "retrieved_at_utc": "2026-09-02T14:43:11.163Z"
+    },
+    {
+      "url": "https://bookings.wowapps.com/make-booking/shanticafe?src=web",
+      "same_origin": false,
+      "disposition": "recorded-not-downloaded"
+    },
+    {
+      "url": "https://shanticafee.netlify.app/assets/generated/hero-tropical-cafe-v3.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/generated/hero-tropical-cafe-v3.png",
+      "bytes": 2207996,
+      "sha256": "c697999e74f3b7e819fba9541c29f88d7bf333ed319638804c7fec9eb327ff35",
+      "retrieved_at_utc": "2026-09-02T14:43:12.368Z"
+    },
+    {
+      "url": "https://shanticafee.netlify.app/assets/generated/food-coffee-v3.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/generated/food-coffee-v3.png",
+      "bytes": 1964849,
+      "sha256": "5f65f4ff4bc01b02c402475ebe04e1f67b0052e85e836ce411e7549c45f6fb5d",
+      "retrieved_at_utc": "2026-09-02T14:43:12.920Z"
+    },
+    {
+      "url": "https://orders.wowapps.com/order/shanticafe?src=web",
+      "same_origin": false,
+      "disposition": "recorded-not-downloaded"
+    },
+    {
+      "url": "https://shanticafee.netlify.app/assets/generated/garden-table-v3.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/generated/garden-table-v3.png",
+      "bytes": 2409691,
+      "sha256": "bc80db57ff4034ba927e93fd75fb905e21ec4cd88140fffdc7891f662d207e39",
+      "retrieved_at_utc": "2026-09-02T14:43:13.486Z"
+    },
+    {
+      "url": "https://shanticafee.netlify.app/assets/generated/brand-close-v3.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/generated/brand-close-v3.png",
+      "bytes": 2603483,
+      "sha256": "1db085809b45711a7277286df6cec7709ed6d08a93e3b4b8476d5ede4da7445a",
+      "retrieved_at_utc": "2026-09-02T14:43:13.956Z"
+    },
+    {
+      "url": "https://shanticafee.netlify.app/script.js",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "application/javascript; charset=UTF-8",
+      "local_path": "script.js",
+      "bytes": 519,
+      "sha256": "97a2cbd9a89f6c684a726c4cf954324a0191b23e41c3220a05e20f0f6e3dd59a",
+      "retrieved_at_utc": "2026-09-02T14:43:14.097Z"
+    }
+  ]
+}

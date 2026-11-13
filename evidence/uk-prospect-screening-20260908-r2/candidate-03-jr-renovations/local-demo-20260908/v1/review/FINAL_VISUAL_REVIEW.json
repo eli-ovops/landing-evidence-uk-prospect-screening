@@ -1,0 +1,52 @@
+{
+  "inputHash": "1e94fb20405b89ed9940ea3673eb6b68c179029ac656d2d050e40dea85ec9e44",
+  "resultSha256": "bd839d46c91f2858feea9604c7bb543f111e1e1107e6d76b6010a9463c061885",
+  "reviewer": {
+    "taskId": "01a071f2-7e27-70a1-a5c1-990ff2edd340",
+    "name": "Independent JR Demo Reviewer",
+    "identityEvidence": "PMO delegation in task 01a07433-2cdb-7131-be97-e0d626c14758; reviewer is distinct from implementation owner 01a07f53-6016-7802-986e-80e23e1259ab. PMO must retain final provenance check."
+  },
+  "evidence": [
+    {"path":"browser.json","sha256":"d11bfd0ef6c1488d6654bc3511c30ee93d3f9008971a812eee7ecd69984ddbf1"},
+    {"path":"contract-summary.md","sha256":"2c297283ed289444dc0d7e3d9e2c39e74ebb494349c97c8e37ead860b47cc971"},
+    {"path":"desktop-full.png","sha256":"da73011f8d3dededf9aa80e696c019998e1219bf785347959ff089265356fee8"},
+    {"path":"desktop-section-0.png","sha256":"9758cb3802be204127d6ce940fffe1c2d236cb995c173f2d47ee5ce888539f22"},
+    {"path":"desktop-section-1.png","sha256":"870e6fd9d37ffeabcba5a43ddbfafd50f8fa749a76470d8579bdeb795a028c39"},
+    {"path":"desktop-section-2.png","sha256":"4b2db4b9c7098201980c7284d87be8f774541a9cdfefc7f5798854961de6fc7f"},
+    {"path":"desktop-section-3.png","sha256":"7e5249460e4fdb9ec5a7e190f439c0b646bac49a12225e66de411519adc742c8"},
+    {"path":"desktop-section-4.png","sha256":"1803c7dd1ad44859abdf705f2465a6d64a54b3dcef408557875f3aac4e9a2879"},
+    {"path":"desktop-section-5.png","sha256":"7430e0e9a5915796334b6d05960c4d1fe0683fe481dd7fcf2eaad7687a7e8da0"},
+    {"path":"desktop-top.png","sha256":"05b5a364c8c5fdf295795e6f540cb7d94ccefe24c16828afd22a86f4a2c19eb6"},
+    {"path":"inputs.json","sha256":"cef8957b6ccae22033b43c73eb352d9b86e24c0475bb18a193346ab70ab63259"},
+    {"path":"mobile-full.png","sha256":"7d141afff7a03bb0a90cc5b2731217b4e92f266c1d501b56ff1eb1d384c05fba"},
+    {"path":"mobile-section-0.png","sha256":"6b72a3e9863eaad6240366f3bb62b5e6c02d99fc4a524b69e8794785bb941845"},
+    {"path":"mobile-section-1.png","sha256":"6766da9e7a05de21a0f33205975806c9c594a50b2275ebba6652755284809051"},
+    {"path":"mobile-section-2.png","sha256":"d7adde4aa96afc7b8d4a24dc20dd0fb61b6676242aacf7f2643910b6488ad421"},
+    {"path":"mobile-section-3.png","sha256":"e654de2cf438926b42a7115075640a51ee4f526e0b0dbf639592bbd911aa0745"},
+    {"path":"mobile-section-4.png","sha256":"bf5a9390c96e7a59a6e407842c895dad726bc37b54c93cc1199c5604c87bf213"},
+    {"path":"mobile-section-5.png","sha256":"7701c74d9495246600daafa1610febcb0234da252934c8bf2bab465cd7272dd4"},
+    {"path":"mobile-top.png","sha256":"cd22f7b4695aa86a40c0c24913715f9660deb1ed61dcf66feef3af95dfcd9810"},
+    {"path":"visual-review-tasks.json","sha256":"bce1e7f407b948c09b3cb61dcede166928542d17d617927c01e71d35ef091aaf"}
+  ],
+  "viewportFindings": {
+    "desktop": {"status":"PASS","evidence":["desktop-top.png","desktop-full.png"],"finding":"1440x900 top and full render have a visible CTA, intact original assets, clear hierarchy and no observed overflow or blank-flow defect."},
+    "mobile": {"status":"PASS","evidence":["mobile-top.png","mobile-full.png"],"finding":"390x844 top and full render stack naturally; Hero CTA, room images, proof and contact remain readable and no horizontal overflow is present."}
+  },
+  "businessFindings": {
+    "status":"PASS",
+    "fiveSecondRecognition":"Kitchen/bathroom renovation is recognisable from JR logo, room-scale headline and real tiled-bathroom Hero.",
+    "commercialIncrement":"A mobile-readable fit-to-work-to-independent-proof-to-contact route improves on the existing desktop-shrunken gallery without denying its evidence.",
+    "bottom40":"PASS: original before/after, source-attributed homeowner review, distinct dining-room close and direct contacts add new commercial information/visual payoff.",
+    "internalTextGate":"PASS: only Independent concept preview is exposed; no governance, AI, rights or placeholder text.",
+    "clientShowable":"PASS — local hash-bound v1 only"
+  },
+  "assetFindings": {
+    "status":"PASS_WITH_LIMITS",
+    "reviewed":"A01,A03,A06,A10,A12,A14,A15 are distinct, source-led, visibly suitable and not cropped into misleading claims in desktop/mobile evidence.",
+    "limits":"Customer authorisation and final transfer rights remain NOT VERIFIED/UNKNOWN; this review grants neither transfer nor publication."
+  },
+  "visualRubric": {"brandRecognition":8.4,"assetAuthenticity":8.5,"customerIntegration":8.4,"heroImpact":8.5,"typographyHierarchy":8.4,"rhythmWhitespace":8.2,"commercialPersuasion":8.3,"mobile":8.4,"originality":8.1,"ownerPurchaseValue":8.2,"average":8.34,"minimum":8.1},
+  "independentVisualAcceptance":"PASS",
+  "clientShowable":"PASS — LOCAL HASH-BOUND V1; PMO provenance verification required",
+  "limits":"No deployment, outreach, merchant contact, public release, payment, asset transfer or final-source-transfer approval. Any bound input/evidence change invalidates this review."
+}

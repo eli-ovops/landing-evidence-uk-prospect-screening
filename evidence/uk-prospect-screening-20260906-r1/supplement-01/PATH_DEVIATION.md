@@ -1,0 +1,5 @@
+# Artifact path deviation
+
+The first isolated capture used URL.pathname without decoding Unicode, creating 16 John screenshot/JSON outputs under /Volumes/EXTERNAL/%E6%B5%B7%E5%A4%96%E8%90%BD%E5%9C%B0%E9%A1%B5/evidence/uk-prospect-screening-20260906-r1/supplement-01/browser-evidence. This was outside the authorized write root and is a scope deviation. Script corrected to fileURLToPath. Exactly those 16 generated files were copied into this supplement/browser-evidence; originals retained, no deletion or movement. No preexisting user files overwritten. Cleanup is not performed or claimed. Subsequent outputs use the verified Unicode root.
+
+Verified: 16 exact files; total 2323271 bytes; all paired SHA-256 equal. See PATH_DEVIATION_FILES.json. Destination browser-evidence was created by the copy step after initial view_image reported missing file; no destination preexisting files were observed. The copy call did not use an exclusive-create flag, so there is no atomic no-overwrite proof; no overwrite was observed. Script now validates path.relative directory boundary before writing.

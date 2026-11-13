@@ -1,0 +1,10 @@
+Screening Core v1.1.1 equivalent diff stat
+Baseline: _backups/screening_core_v1_1_1_before/
+Repository status: not a Git repository; generated with git diff --no-index
+
+AGENTS.md                              |  4 insertions,  4 deletions
+PROJECT_CORE.md                        |  9 insertions,  9 deletions
+OUTREACH_EMAIL_SOP.md                  |  4 insertions,  4 deletions
+SCREENING_CORE_V1_1_CHANGELOG.md       | 12 insertions,  0 deletions
+SCREENING_CORE_V1_1_VALIDATION.md      | 37 insertions, 34 deletions
+5 files changed, 66 insertions(+), 51 deletions(-)

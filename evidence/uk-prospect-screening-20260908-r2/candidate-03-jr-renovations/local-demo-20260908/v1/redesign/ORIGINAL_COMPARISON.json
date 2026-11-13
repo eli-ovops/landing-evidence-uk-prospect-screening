@@ -1,0 +1,47 @@
+[
+  {
+    "asset": 2,
+    "mean8bitPixelDifference": [
+      1.8244037037037037,
+      1.5427407407407407,
+      1.9885148148148148
+    ],
+    "sameWholeScene": "VISUALLY VERIFY"
+  },
+  {
+    "asset": 3,
+    "mean8bitPixelDifference": [
+      1.6481592592592593,
+      1.3876814814814815,
+      1.842625925925926
+    ],
+    "sameWholeScene": "VISUALLY VERIFY"
+  },
+  {
+    "asset": 9,
+    "mean8bitPixelDifference": [
+      1.341251851851852,
+      1.1572962962962963,
+      1.4205296296296297
+    ],
+    "sameWholeScene": "VISUALLY VERIFY"
+  },
+  {
+    "asset": 12,
+    "mean8bitPixelDifference": [
+      3.397631278538813,
+      2.9392865296803654,
+      4.310199771689498
+    ],
+    "sameWholeScene": "VISUALLY VERIFY"
+  },
+  {
+    "asset": 10,
+    "mean8bitPixelDifference": [
+      1.9634125,
+      1.50595625,
+      2.190464583333333
+    ],
+    "sameWholeScene": "VISUALLY VERIFY"
+  }
+]

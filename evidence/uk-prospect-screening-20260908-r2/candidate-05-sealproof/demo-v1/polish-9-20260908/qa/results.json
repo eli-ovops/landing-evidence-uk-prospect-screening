@@ -1,0 +1,804 @@
+{
+  "results": [
+    {
+      "mode": "desktop",
+      "page": "home",
+      "status": 200,
+      "title": "Home | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y13.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y12.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y15.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y20.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y13.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/",
+        "tel:+447415601494",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/assets/y13.png",
+        "/services/",
+        "/assets/y12.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/assets/y15.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/services/#plumbing",
+        "/services/#kitchens",
+        "/services/#carpentry",
+        "/services/#electrical",
+        "/services/#decorating",
+        "/services/#security",
+        "/about/",
+        "/testimonials/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y20.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "Repairs.Renovations.",
+      "errors": []
+    },
+    {
+      "mode": "desktop",
+      "page": "services",
+      "status": 200,
+      "title": "Services | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y7.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/y18.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/y11.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "#plumbing",
+        "#kitchens",
+        "#carpentry",
+        "#electrical",
+        "#decorating",
+        "#security",
+        "/contact/?service=plumbing",
+        "/assets/y7.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/?service=kitchens",
+        "/contact/?service=carpentry",
+        "/assets/y18.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/?service=electrical",
+        "/assets/y11.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/?service=decorating",
+        "/contact/?service=security",
+        "tel:+447415601494",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "From the quick fixto the full refit.",
+      "errors": []
+    },
+    {
+      "mode": "desktop",
+      "page": "testimonials",
+      "status": 200,
+      "title": "Testimonials | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/services/#kitchens",
+        "/services/#plumbing",
+        "/contact/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "Real experiences.Reasons to call again.",
+      "errors": []
+    },
+    {
+      "mode": "desktop",
+      "page": "about",
+      "status": 200,
+      "title": "About | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y1.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/y9.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y1.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/services/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y9.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "A family-run business.A practical pair of hands.",
+      "errors": []
+    },
+    {
+      "mode": "desktop",
+      "page": "contact",
+      "status": 200,
+      "title": "Contact | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "Tell us whatneeds doing.",
+      "errors": []
+    },
+    {
+      "mode": "desktop",
+      "form": {
+        "result": "Your message has not been sent. Online enquiries are not connected in this preview. Please call or email SealProof; your details are still here.",
+        "retained": "Synthetic local validation only.",
+        "buttonEnabled": true
+      }
+    },
+    {
+      "mode": "mobile",
+      "page": "home",
+      "status": 200,
+      "title": "Home | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y13.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y12.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y15.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y20.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y13.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/",
+        "tel:+447415601494",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/assets/y13.png",
+        "/services/",
+        "/assets/y12.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/assets/y15.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/services/#plumbing",
+        "/services/#kitchens",
+        "/services/#carpentry",
+        "/services/#electrical",
+        "/services/#decorating",
+        "/services/#security",
+        "/about/",
+        "/testimonials/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y20.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "Repairs.Renovations.",
+      "errors": []
+    },
+    {
+      "mode": "mobile",
+      "page": "services",
+      "status": 200,
+      "title": "Services | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y7.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/y18.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/y11.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "#plumbing",
+        "#kitchens",
+        "#carpentry",
+        "#electrical",
+        "#decorating",
+        "#security",
+        "/contact/?service=plumbing",
+        "/assets/y7.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/?service=kitchens",
+        "/contact/?service=carpentry",
+        "/assets/y18.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/?service=electrical",
+        "/assets/y11.png",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/?service=decorating",
+        "/contact/?service=security",
+        "tel:+447415601494",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "From the quick fixto the full refit.",
+      "errors": []
+    },
+    {
+      "mode": "mobile",
+      "page": "testimonials",
+      "status": 200,
+      "title": "Testimonials | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/services/#kitchens",
+        "/services/#plumbing",
+        "/contact/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "Real experiences.Reasons to call again.",
+      "errors": []
+    },
+    {
+      "mode": "mobile",
+      "page": "about",
+      "status": 200,
+      "title": "About | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/y1.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/y9.jpg",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y1.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/services/",
+        "/contact/",
+        "tel:+447415601494",
+        "/assets/y9.jpg",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "A family-run business.A practical pair of hands.",
+      "errors": []
+    },
+    {
+      "mode": "mobile",
+      "page": "contact",
+      "status": 200,
+      "title": "Contact | SealProof Property Maintenance",
+      "overflow": false,
+      "images": [
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        },
+        {
+          "src": "/assets/brand-complete.png",
+          "ok": true
+        }
+      ],
+      "links": [
+        "#main",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "/",
+        "/",
+        "/services/",
+        "/testimonials/",
+        "/about/",
+        "/contact/",
+        "tel:+447415601494",
+        "mailto:[REDACTED_EMAIL]",
+        "http://www.facebook.com/sealproof",
+        "https://www.yell.com/biz/sealproof-property-maintenance-london-8878727/"
+      ],
+      "h1": "Tell us whatneeds doing.",
+      "errors": []
+    },
+    {
+      "mode": "mobile",
+      "form": {
+        "result": "Your message has not been sent. Online enquiries are not connected in this preview. Please call or email SealProof; your details are still here.",
+        "retained": "Synthetic local validation only.",
+        "buttonEnabled": true
+      }
+    }
+  ],
+  "linkChecks": [
+    {
+      "href": "/",
+      "status": 200
+    },
+    {
+      "href": "/services/",
+      "status": 200
+    },
+    {
+      "href": "/testimonials/",
+      "status": 200
+    },
+    {
+      "href": "/about/",
+      "status": 200
+    },
+    {
+      "href": "/contact/",
+      "status": 200
+    },
+    {
+      "href": "/assets/y13.png",
+      "status": 200
+    },
+    {
+      "href": "/assets/y12.png",
+      "status": 200
+    },
+    {
+      "href": "/assets/y15.png",
+      "status": 200
+    },
+    {
+      "href": "/services/#plumbing",
+      "status": 200
+    },
+    {
+      "href": "/services/#kitchens",
+      "status": 200
+    },
+    {
+      "href": "/services/#carpentry",
+      "status": 200
+    },
+    {
+      "href": "/services/#electrical",
+      "status": 200
+    },
+    {
+      "href": "/services/#decorating",
+      "status": 200
+    },
+    {
+      "href": "/services/#security",
+      "status": 200
+    },
+    {
+      "href": "/assets/y20.jpg",
+      "status": 200
+    },
+    {
+      "href": "/contact/?service=plumbing",
+      "status": 200
+    },
+    {
+      "href": "/assets/y7.jpg",
+      "status": 200
+    },
+    {
+      "href": "/contact/?service=kitchens",
+      "status": 200
+    },
+    {
+      "href": "/contact/?service=carpentry",
+      "status": 200
+    },
+    {
+      "href": "/assets/y18.jpg",
+      "status": 200
+    },
+    {
+      "href": "/contact/?service=electrical",
+      "status": 200
+    },
+    {
+      "href": "/assets/y11.png",
+      "status": 200
+    },
+    {
+      "href": "/contact/?service=decorating",
+      "status": 200
+    },
+    {
+      "href": "/contact/?service=security",
+      "status": 200
+    },
+    {
+      "href": "/assets/y1.jpg",
+      "status": 200
+    },
+    {
+      "href": "/assets/y9.jpg",
+      "status": 200
+    },
+    {
+      "href": "/services",
+      "status": 200,
+      "url": "http://127.0.0.1:8769/services/"
+    },
+    {
+      "href": "/sealproof",
+      "status": 200,
+      "url": "http://127.0.0.1:8769/"
+    },
+    {
+      "href": "/sealproof/about",
+      "status": 200,
+      "url": "http://127.0.0.1:8769/about/"
+    },
+    {
+      "href": "/sealproof/contact",
+      "status": 200,
+      "url": "http://127.0.0.1:8769/contact/"
+    },
+    {
+      "href": "/sealproof/testimonials",
+      "status": 200,
+      "url": "http://127.0.0.1:8769/testimonials/"
+    },
+    {
+      "href": "/sealproof/services",
+      "status": 200,
+      "url": "http://127.0.0.1:8769/services/"
+    }
+  ]
+}

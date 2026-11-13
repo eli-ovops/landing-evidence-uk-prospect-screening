@@ -1,0 +1,24 @@
+from pathlib import Path
+import re,json
+R=Path(__file__).resolve().parent;D=R.parent;P=D/'replacement-20260908/build-pages.py'
+s=P.read_text()
+start=s.index("home=f'''");end=s.index("servicepage=",start)
+new="""home=f'''<section class="hero"><div class="hero-visual">{photo('Y13','White L-shaped kitchen with fitted cabinets, oven and black sink','hero-photo')}</div><div class="wrap hero-content"><div class="hero-copy"><p class="eyebrow">SealProof · London & Kent</p><h1>Repairs.<br>Renovations.</h1><p class="lead">From leaking taps to new kitchens and bathrooms. Practical help for the property you look after.</p>{buttons()}</div><a class="hero-inspect" href="{assets['Y13']['local']}" target="_blank" rel="noopener">View full kitchen photograph <span>↗</span></a></div></section><div class="promise"><div class="wrap"><strong>Do it right. Do it once.</strong><span>Family-run</span><span>Residential & commercial</span><span>Free quotations</span></div></div><section class="wrap section home-services"><div class="section-heading"><h2>Whatever’s on<br>your job list.</h2><a class="text-link" href="/services/">Explore all services ↗</a></div><div class="service-intro"><div class="service-mosaic">{photo('Y12','Bathroom with timber vanity, white basin and toilet','mosaic-tall')}{photo('Y15','White fitted kitchen with dark worktops and tiled splashback','mosaic-short')}<div class="mosaic-caption"><p>Room to improve.</p><span>Kitchens, bathrooms and the details in between.</span></div></div><div class="service-links">'''+''.join(f'<a href="/services/#{s[4]}"><div><h3>{s[1]}</h3><p>{s[2]}</p></div><span>↗</span></a>' for s in services)+f'''</div></div></section><section class="tint"><div class="wrap section process"><div><h2>Tell us the job.<br>We’ll talk it through.</h2><a class="text-link" href="/about/">Meet SealProof ↗</a></div><ol><li><span>01</span><div><h3>Tell us what you need</h3><p>A repair, a list of little jobs or a room you want to change.</p></div></li><li><span>02</span><div><h3>Discuss the work</h3><p>Arrange an appointment and ask for a free quotation.</p></div></li><li><span>03</span><div><h3>Agree the next step</h3><p>Confirm the scope and timing before work is arranged.</p></div></li></ol></div><div class="wrap process-proof"><h2>Called back<br>for the next job.</h2><div><p class="large-quote">After a bathroom refurbishment, James returned to SealProof for help with a plumbing problem.</p><p class="review-credit">JamesB-854998 · Yell review summary · 4 September 2026</p><a class="text-link" href="/testimonials/">Read customer experiences ↗</a></div></div></section><section class="wrap home-close"><div><p class="eyebrow">South East London, London & Kent</p><h2>A little attention.<br>A big difference.</h2><p>Repairs, maintenance and improvements for homes and commercial properties. Tell us what you have in mind.</p>{buttons()}</div>{photo('Y20','Kitchen worktop, hob and extractor against a patterned splashback')}</section>'''
+"""
+s=s[:start]+new+s[end:]
+s=s.replace("loading=\"{\"eager\" if key==\"Y12\" else \"lazy\"}\"","loading=\"{\"eager\" if key==\"Y13\" else \"lazy\"}\"")
+s=s.replace("1:('Y20','Kitchen worktop, hob and extractor against a patterned splashback'),",'')
+s=s.replace('<body><a class="skip"','<body class="page-{route.strip(\'/\') or \'home\'}"><a class="skip"')
+# Eyebrow restraint: keep one route label; all remaining text stays as normal semantic copy.
+s=s.replace('<p class="eyebrow">{s[0]} / {s[1]}</p>','<p class="service-category">{s[1]}</p>')
+s=s.replace('<p class="eyebrow">{r[1]}</p>','<p class="review-date">{r[1]}</p>')
+for text in ['From one person to a wider team','Local base. Wider reach.','Speak to SealProof','Email','Find us online','Service area','Urgent repair?','A small repair or a bigger plan?']:
+ s=s.replace(f'<p class="eyebrow">{text}</p>',f'<p class="section-label">{text}</p>')
+s=s.replace('Special discounts for pensioners—ask when enquiring','Special discounts for pensioners. Ask when enquiring.').replace('24-hour emergency call-out service—call to confirm availability','24-hour emergency call-out service. Call to confirm availability.').replace('Maintenance — Do it right','Maintenance. Do it right').replace('your home—and your plans—moving','your home and your plans moving')
+P.write_text(s)
+# Active source ledger has revised placements; originals/hashes remain unchanged.
+placements={'Y13':'Home single main hero','Y12':'Home service mosaic bathroom','Y15':'Home service mosaic kitchen','Y20':'Home closing worktop','Y7':'Services plumbing','Y18':'Services carpentry original pair','Y11':'Services electrical extractor','Y1':'About worktop','Y9':'About bathroom detail'}
+p=D/'replacement-20260908/SELECTED_ASSETS.json';items=json.loads(p.read_text())
+for a in items:
+ if a['id'] in placements:a['placement']=placements[a['id']]
+p.write_text(json.dumps(items,ensure_ascii=False,indent=2))

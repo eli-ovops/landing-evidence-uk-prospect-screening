@@ -1,0 +1,12 @@
+# Independent upgrade iteration 1
+
+Reviewed real desktop/mobile full and top, desktop portfolio, mobile customer-experience and contact screenshots, and current HTML. Result run 2026-09-08T05-35-33-414Z-a232f18f. Not final acceptance: progressive image-dialog tests still underway and the requested 9-quality target not met yet.
+
+Provisional quality estimate ~8.6–8.7, not a final bound ten-item rubric. Genuine improvements: source-appropriate image sizing, distinctive geometric-wallpaper care proof, cleaner kitchen photograph, specific customer summaries, useful enquiry guidance and lighter typography. Hero now communicates local decorator, services, actual room and main CTA within 390×844; it does not require a new direction.
+
+Same-version fixes recommended:
+1. Mobile portfolio is three consecutive portrait-image blocks; full page 5363px and the second/third repeat the viewing pattern without corresponding information gain. Keep wallpaper as the large visual anchor, then compact interiors/kitchen into image/text rows. Prefer full-width service headings before each row so the kitchen title does not become narrow stacked words. Preserve useful crops and original-image access; do not crop merely to achieve a numerical page-height target.
+2. Actual service names are subordinate tiny text under larger rhetorical headings. The portfolio's primary job is service recognition; make Wallpapering / Interior decorating / Hand-painted kitchens the clear primary title, or an equally legible dominant label. Retain attractive secondary phrases only where they add meaning, not duplicate text. This is the key improvement over a mixed directory gallery and should not be sacrificed to styling.
+3. Kitchen dialog data-caption says "Chris's hand-painted kitchen gallery" although the source is a mixed My work gallery. Use "Cream kitchen cabinetry from Chris's work gallery." No separate category was verified. Service scope remains hand-painted refurbishment as already evidenced.
+
+Existing review summaries are clearly labelled and not falsely tied to photographs; care photograph preserves both laser and covered furniture. Customer-experience and contact block remain concise enough individually. No case-study or hero redesign is warranted. Final 9-quality judgment must inspect the resulting mobile composition and dialog/no-JS/keyboard evidence, not simply raise scores after these edits.

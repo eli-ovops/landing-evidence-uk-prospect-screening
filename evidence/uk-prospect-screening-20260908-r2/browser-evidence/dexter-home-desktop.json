@@ -1,0 +1,69 @@
+{
+  "retrieved": "2026-09-08T03:36:04.540Z",
+  "requested": "https://www.andrewdexter.com/",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.andrewdexter.com/",
+  "title": "Andrew Dexter Property Maintenance",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "Home\tPainting & Decorating\nServices\tHandyman\nServices\tGarden Maintenance\nServices\tContact\n(including Terms & Conditions\nand Privacy Notice)\n\n\n\n\nEmail: [REDACTED_EMAIL]\n\nMobile: 07971 973067\n\t\nAndrew Dexter Property Maintenance Services\n\nEstablished in 2004 and located near Ware, I provide a comprehensive range of domestic painting & decorating, handyman and garden maintenance services throughout East and North Hertfordshire.\n\nI pride myself on providing personal and excellent customer service.  I am an approved trader under the Which? Trusted Traders endorsement scheme, which helps consumers find reputable traders from the home improvement sector.\n\nI undertake internal and external decorating projects, handyman home improvements and a regular garden maintenance service.  I am fully insured and always provide a no obligation, written quotation before commencing any work.\n\nFor further information about the range of services I offer, or for a no obligation quotation, please email me or call me on 07971 973067.\n\n\n\nAndrew Dexter Property Maintenance Services is fully licensed by the Environment Agency for the transportation and disposal of waste items. Waste Carrier Licence number: CBDU115334",
+  "links": [
+    {
+      "text": "Home",
+      "url": "https://www.andrewdexter.com/Home.html"
+    },
+    {
+      "text": "Painting & Decorating\nServices",
+      "url": "https://www.andrewdexter.com/Paintingdecorating.html"
+    },
+    {
+      "text": "Handyman\nServices",
+      "url": "https://www.andrewdexter.com/Handyman.html"
+    },
+    {
+      "text": "Garden Maintenance\nServices",
+      "url": "https://www.andrewdexter.com/Gardenmaintenance.html"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.andrewdexter.com/Contact.html"
+    },
+    {
+      "text": "[REDACTED_EMAIL]",
+      "url": "mailto:[REDACTED_EMAIL]"
+    },
+    {
+      "text": "Which? Trusted Traders",
+      "url": "https://trustedtraders.which.co.uk/businesses/andrew-dexter-trading-as-andrew-dexter-property-maintenance-services/"
+    },
+    {
+      "text": "email me ",
+      "url": "mailto:[REDACTED_EMAIL]"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Logo",
+      "url": "https://www.andrewdexter.com/AD%20PMS%20logo%20Oct%2023.png",
+      "loaded": true
+    },
+    {
+      "alt": "Which logo",
+      "url": "https://www.andrewdexter.com/WTT%20Hertfordshire%20dual%20logo%2010.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "Van",
+      "url": "https://www.andrewdexter.com/van%202.PNG",
+      "loaded": true
+    }
+  ]
+}

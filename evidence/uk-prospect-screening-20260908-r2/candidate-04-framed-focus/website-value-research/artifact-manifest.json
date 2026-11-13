@@ -1,0 +1,104 @@
+[
+  {
+    "file": "SOURCES.md",
+    "bytes": 3535,
+    "sha256": "f75a908b03b26957da039d6efc302eaee8532efe3d44558773f2017fc42c3ea7",
+    "mtime_utc": "2026-09-08T04:53:40.743685+00:00"
+  },
+  {
+    "file": "STATUS.md",
+    "bytes": 3112,
+    "sha256": "1cdf9b0706e80acf9f421a8158c34053e1e0cbe46e022adff3d6a594d10acf39",
+    "mtime_utc": "2026-09-08T04:53:40.744751+00:00"
+  },
+  {
+    "file": "WEBSITE_VALUE_REPORT.md",
+    "bytes": 13250,
+    "sha256": "5c21c42cef5517ee5a5162e7764a38b7842d3e404f09816ea7180bbd1eb76161",
+    "mtime_utc": "2026-09-08T04:53:40.744409+00:00"
+  },
+  {
+    "file": "authority-receipt.json",
+    "bytes": 622,
+    "sha256": "191db4fcd52b4c1badd890d7c1c2c6ccf1663b9c3b902323bc7f72470dc71e9c",
+    "mtime_utc": "2026-09-08T04:48:38.883310+00:00"
+  },
+  {
+    "file": "facebook-live-ax.txt",
+    "bytes": 261,
+    "sha256": "a534843085dd8e39f8e30c421db60844df5fa23ba19c625065a53d44226352db",
+    "mtime_utc": "2026-09-08T04:47:33.756284+00:00"
+  },
+  {
+    "file": "facebook-live-desktop.jpg",
+    "bytes": 94353,
+    "sha256": "95b30296dada35f26b686b44a85426f9750d1e4453e8d8c5a2ac3a9ec638b63f",
+    "mtime_utc": "2026-09-08T04:47:34.060120+00:00",
+    "image_dimensions": [
+      1425,
+      891
+    ]
+  },
+  {
+    "file": "facebook-live-mobile-ax.txt",
+    "bytes": 3339,
+    "sha256": "32a0cd9858adbb44f8fb751e797a9c0c9c41a2d024b4920dc5230285fe11a900",
+    "mtime_utc": "2026-09-08T04:51:24.859892+00:00"
+  },
+  {
+    "file": "facebook-live-mobile-contact.jpg",
+    "bytes": 39041,
+    "sha256": "ff3e340c0b85b6a992f32d05ebbd04a9da9694c442aa8311dbc93e0fd7ce30ba",
+    "mtime_utc": "2026-09-08T04:51:37.255012+00:00",
+    "image_dimensions": [
+      375,
+      812
+    ]
+  },
+  {
+    "file": "facebook-live-mobile.jpg",
+    "bytes": 51152,
+    "sha256": "40aec505752aec0f3b48fdb6ec44151f9d635094c84e6558bf437e87676ed011",
+    "mtime_utc": "2026-09-08T04:51:24.697235+00:00",
+    "image_dimensions": [
+      375,
+      812
+    ]
+  },
+  {
+    "file": "input-verification.json",
+    "bytes": 3757,
+    "sha256": "e8e20c10f8ee551a70353e44f9ff180fc6dd7841f5bfd4e4969675ba7cfa3f85",
+    "mtime_utc": "2026-09-08T04:48:38.878339+00:00"
+  },
+  {
+    "file": "reused-framed-ready-desktop-scroll-1.png",
+    "bytes": 358105,
+    "sha256": "7a7855b45bc7530cc392d6a49eaf83ff715cf41d4435384556b6e16316fe6958",
+    "mtime_utc": "2026-09-08T04:48:38.879151+00:00",
+    "image_dimensions": [
+      1440,
+      900
+    ]
+  },
+  {
+    "file": "reused-framed-ready-mobile-scroll-0.png",
+    "bytes": 229349,
+    "sha256": "95bd312a2e69f0e01544d80ed9112b37a9b66ef7b1a3c6886810e8d889ad5925",
+    "mtime_utc": "2026-09-08T04:48:38.879418+00:00",
+    "image_dimensions": [
+      390,
+      844
+    ]
+  },
+  {
+    "file": "reused-framed-ready-mobile-scroll-1.png",
+    "bytes": 209077,
+    "sha256": "13896d18ee087525b86aad83a974af6aa88367374baee063c400d15a2d07b949",
+    "mtime_utc": "2026-09-08T04:48:38.879618+00:00",
+    "image_dimensions": [
+      390,
+      844
+    ]
+  }
+]

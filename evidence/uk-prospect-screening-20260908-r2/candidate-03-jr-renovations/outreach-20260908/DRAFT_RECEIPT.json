@@ -1,0 +1,17 @@
+{
+  "draft_id": "r-6722002211610607521",
+  "message_id": "1a07fccd6aacce1b",
+  "labels": [
+    "DRAFT"
+  ],
+  "from": "[REDACTED_EMAIL]",
+  "to": "[REDACTED_EMAIL]",
+  "send_authorization": "Explicit user instruction 2026-09-08; persists",
+  "send_status": "NOT SENT",
+  "pending": "Recipient subscriber classification/consent basis. User asked whether Roman consented or requested proposal.",
+  "htmlLinks": 2,
+  "inline_image": "JR-Renovations-website.jpg",
+  "content_id": "jr-website-preview",
+  "imageSha256": "8c09eaded7dc0109346200fded171d7fc52ab511ed1f3325f8ebf55d57439c2d",
+  "mimeReadbackVerified": true
+}

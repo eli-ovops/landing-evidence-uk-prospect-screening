@@ -1,0 +1,92 @@
+[
+  {
+    "file": "candidate-04-framed-focus/CANDIDATE.md",
+    "expected": "825d7071676babcdb47b2d8856395f2d558317652158719beb3dba09d72c1463",
+    "actual": "825d7071676babcdb47b2d8856395f2d558317652158719beb3dba09d72c1463",
+    "match": true
+  },
+  {
+    "file": "candidate-04-framed-focus/QUERY_RECEIPT.json",
+    "expected": "6bf087bf77f8ef5eab8990fb0c8ca78558584ccbc8f8ffb5ec7eab4245ab88c3",
+    "actual": "6bf087bf77f8ef5eab8990fb0c8ca78558584ccbc8f8ffb5ec7eab4245ab88c3",
+    "match": true
+  },
+  {
+    "file": "AUTHORITY.md",
+    "expected": "50f5ea12c61698ef706b7393f7a2f83d414583feb4780993a5ec43b9e126c656",
+    "actual": "50f5ea12c61698ef706b7393f7a2f83d414583feb4780993a5ec43b9e126c656",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-desktop-scroll-0.png",
+    "expected": "f332ecc50e6a2169f1b98d750f988e51d449d96b81532cf1b2113087f9c23afb",
+    "actual": "f332ecc50e6a2169f1b98d750f988e51d449d96b81532cf1b2113087f9c23afb",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-desktop-scroll-1.png",
+    "expected": "7a7855b45bc7530cc392d6a49eaf83ff715cf41d4435384556b6e16316fe6958",
+    "actual": "7a7855b45bc7530cc392d6a49eaf83ff715cf41d4435384556b6e16316fe6958",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-desktop.json",
+    "expected": "6358fd695aa804fea3ae77a36bb514085c4b8db57e2a26de2844047c1ee0423a",
+    "actual": "6358fd695aa804fea3ae77a36bb514085c4b8db57e2a26de2844047c1ee0423a",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-desktop.png",
+    "expected": "7a7a42d6d3c01a38a082f132939889fa63f306259b829c2372b5ac8a2776a5aa",
+    "actual": "7a7a42d6d3c01a38a082f132939889fa63f306259b829c2372b5ac8a2776a5aa",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-mobile-scroll-0.png",
+    "expected": "95bd312a2e69f0e01544d80ed9112b37a9b66ef7b1a3c6886810e8d889ad5925",
+    "actual": "95bd312a2e69f0e01544d80ed9112b37a9b66ef7b1a3c6886810e8d889ad5925",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-mobile-scroll-1.png",
+    "expected": "13896d18ee087525b86aad83a974af6aa88367374baee063c400d15a2d07b949",
+    "actual": "13896d18ee087525b86aad83a974af6aa88367374baee063c400d15a2d07b949",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-mobile.json",
+    "expected": "86acac0d0dcb5d09d66750917728648d5253d652831aa30daaaf2b23112fc870",
+    "actual": "86acac0d0dcb5d09d66750917728648d5253d652831aa30daaaf2b23112fc870",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-ready-mobile.png",
+    "expected": "cffd49f348c8801118791a47e13dec33c488ddd912b04f91a781e74e371b62db",
+    "actual": "cffd49f348c8801118791a47e13dec33c488ddd912b04f91a781e74e371b62db",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-essex-desktop.json",
+    "expected": "07a0929c45c7f7baa4abcce0d405bb2b5fe1581763c38834901301fb8e38e865",
+    "actual": "07a0929c45c7f7baa4abcce0d405bb2b5fe1581763c38834901301fb8e38e865",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-essex-desktop.png",
+    "expected": "bee1c4a5d4b2161d669089b1ca139e337e9cc0f143d9af2642cb0e5d4622a9a8",
+    "actual": "bee1c4a5d4b2161d669089b1ca139e337e9cc0f143d9af2642cb0e5d4622a9a8",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-essex-mobile.json",
+    "expected": "5071389102402c1b1c0e0308e4b9d8fed6cdccfa4fe0d1db08c9c0a6be8f332a",
+    "actual": "5071389102402c1b1c0e0308e4b9d8fed6cdccfa4fe0d1db08c9c0a6be8f332a",
+    "match": true
+  },
+  {
+    "file": "browser-evidence/framed-essex-mobile.png",
+    "expected": "7d261fd6d3581698d0e704ddc4b08d8836c33471a4c0360fd117dc3ee97fc010",
+    "actual": "7d261fd6d3581698d0e704ddc4b08d8836c33471a4c0360fd117dc3ee97fc010",
+    "match": true
+  }
+]

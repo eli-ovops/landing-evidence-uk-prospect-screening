@@ -1,0 +1,72 @@
+{
+  "retrieved": "2026-09-08T02:50:58.251Z",
+  "requested": "http://www.jr-renovations.co.uk/contact.html",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "status": 200,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "http://www.jr-renovations.co.uk/contact.html",
+  "title": "JR Renovations",
+  "width": 1440,
+  "height": 900,
+  "reviewDates": [],
+  "body": "ROMAN CHOJNACKI\n\nT/A JR Renovations\n\n29A DELAFIELD ROAD\n\nCHARLTON, SE7 7NN\n\n \n\nMOBILE: 07704 668583\n\nLANDLINE: 0208 3052969\n\n \n\nEMAIL: [REDACTED_EMAIL]\n\n\n\n\nComplaints: We always endeavour to provide the best service and products for our customers. However, on rare occasions, we recognise that there may be times where our customers may not be completely satisfied. To ensure we are able to put things rights as soon as we can, please read our complaints procedure below and we will respond promptly to ensure complete satisfaction. As soon as possible after the completion of the works, please inspect the work to ensure everything has been carried out to our usual high standards. In the unlikely event there is anything you are not completely satisfied with, please contact us as soon as you can in order that we can rectify any problems as soon as possible. Where we cannot resolve any complaints using our own complaints procedure, as a Which? Trusted trader we use Dispute Resolution Ombudsman for dispute resolution. In the unlikely event of a complaint arising and you wish to refer the complaint to them please contact us on 0117 981 2929 or via their website http://www.disputeresolutionombudsman.org/which-trusted-traders-partnership/\nOur services\nGallery\nTestimonials\nContact",
+  "links": [
+    {
+      "text": "EMAIL: [REDACTED_EMAIL]",
+      "url": "mailto:[REDACTED_EMAIL]"
+    },
+    {
+      "text": "Our services",
+      "url": "http://www.jr-renovations.co.uk/services.html"
+    },
+    {
+      "text": "Gallery",
+      "url": "http://www.jr-renovations.co.uk/gallery.html"
+    },
+    {
+      "text": "Testimonials",
+      "url": "http://www.jr-renovations.co.uk/testimonial.html"
+    },
+    {
+      "text": "Contact",
+      "url": "http://www.jr-renovations.co.uk/contact.html"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "url": "http://www.jr-renovations.co.uk/images/portrait.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "http://www.jr-renovations.co.uk/images/logo_web.jpg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "http://www.jr-renovations.co.uk/images/TT_W_icon.svg",
+      "loaded": true
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    },
+    {
+      "alt": "",
+      "url": "",
+      "loaded": false
+    }
+  ]
+}

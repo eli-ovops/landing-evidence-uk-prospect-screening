@@ -1,0 +1,62 @@
+[
+  {
+    "path": "lightbox/images/big/1_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/2_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/3_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/4_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/5_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/wood_floor.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/6_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/7_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/8_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/9_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/bath2_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  },
+  {
+    "path": "lightbox/images/big/bath1_before.jpg",
+    "exists": true,
+    "hashMatch": true
+  }
+]

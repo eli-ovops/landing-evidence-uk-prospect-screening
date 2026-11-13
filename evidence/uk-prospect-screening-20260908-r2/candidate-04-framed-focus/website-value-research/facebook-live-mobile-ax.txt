@@ -1,0 +1,34 @@
+Browser tab: 1, Title: "Framed Focus | Facebook", URL: "https://www.facebook.com/Billericayframedfocus/".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~				6 link Description: 登录, Value: facebook.com/login/device-based/regular/login/
+~					9 link Description: 查看主页封面照片, Value: facebook.com/photo/
+~					11 link (collapsed) Description: Framed Focus, Value: facebook.com/photo/, Secondary Actions: Expand
+~								46 link Description: 隐私政策, Value: facebook.com/privacy/policy/
+~								48 link Description: 服务条款, Value: facebook.com/policies
+~						58 link Description: Framed Focus, Value: facebook.com/Billericayframedfocus
+~							60 link Description: Framed Focus, Value: facebook.com/Billericayframedfocus
+~						61 link Description: 6天, Value: facebook.com/Billericayframedfocus/posts/pfbid022k5yxsKMPRkb3vfDid72cXtcG8qHP7c3MMke4XF5XUApr8YiR719nPRoZQbSQQF8l
+~						62 link Description: ﻿Oh! You Pretty Things (2015 Remaster)   David Bowie, Value: facebook.com/Billericayframedfocus/
+~								68 link Description: 可能是包含下列内容的艺术品：上面的文字是“PA SS/ ON”, Value: facebook.com/photo/
+~								69 link Description: 可能是包含下列内容的艺术品：文字, Value: facebook.com/photo/
+~								70 link Description: 可能是包含下列内容的图片：文字, Value: facebook.com/photo/
+~								71 link Description: 没有照片描述。, Value: facebook.com/photo/
+~								72 link Description: 可能是包含下列内容的图片：飞镖靶、室内和文字, 还剩16项内容, Value: facebook.com/photo/
+~						87 link Description: Framed Focus, Value: facebook.com/Billericayframedfocus
+~							89 link Description: Framed Focus, Value: facebook.com/Billericayframedfocus
+~						90 link Description: 4月28日, Value: facebook.com/Billericayframedfocus/posts/pfbid02MfRupWXuV8KNrcxidPxGUQnhWXcg3MThPH3zBgMY1JPuZopJYvzZQwgzo4mHzeRFl
+~						93 link Description: @tinyriot, Value: l.facebook.com/l.php
+~						95 link Description: @realhackneydave, Value: l.facebook.com/l.php
+~						98 link Description: 没有照片描述。, Value: facebook.com/photo/
+~						111 link Description: Framed Focus, Value: facebook.com/Billericayframedfocus
+~							113 link Description: Framed Focus, Value: facebook.com/Billericayframedfocus
+~						114 link Description: 4月18日, Value: facebook.com/Billericayframedfocus/posts/pfbid0WS8cPkzHGB8hFMUhyvZadnBDxqrHbCmtqE1AMsqkrmxDy6CGS54wp9QP9Qvqzxd5l
+~						117 link Description: @officialphilcollins, Value: l.facebook.com/l.php
+~							121 link Description: 没有照片描述。, Value: facebook.com/photo/
+~							122 link Description: 没有照片描述。, Value: facebook.com/photo/
+~							123 link Description: 没有照片描述。, Value: facebook.com/photo/
+~							124 link Description: 没有照片描述。, Value: facebook.com/photo/
+~							125 link Description: 没有照片描述。, 还剩8项内容, Value: facebook.com/photo/
+~					142 link Description: 登录, Value: facebook.com/login/
+~					144 link Description: 创建新账户, Value: facebook.com/reg/
+The focused UI element is 0 AXWebArea Framed Focus | Facebook, URL: facebook.com/Billericayframedfocus/

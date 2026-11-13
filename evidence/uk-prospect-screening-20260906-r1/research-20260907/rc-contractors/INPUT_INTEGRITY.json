@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260906-r1/supplement-01/candidate-rc-contractors/CANDIDATE.md",
+    "expected": "db25cd865c15f1f3ef270394dc68082b37a1d54cfbc6d5a152826f89d8dd68c3",
+    "actual": "db25cd865c15f1f3ef270394dc68082b37a1d54cfbc6d5a152826f89d8dd68c3",
+    "match": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260906-r1/supplement-01/rc-current-dates.json",
+    "expected": "75399c94c6d413879270d2691fee8411c990ff8109cda1cf4b5237cbe42e77fc",
+    "actual": "75399c94c6d413879270d2691fee8411c990ff8109cda1cf4b5237cbe42e77fc",
+    "match": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260906-r1/supplement-01/browser-evidence/rc-clear-desktop.png",
+    "expected": "c9fbc5b369197c82697bb8abfb1d609909932479cf65470edb4429e3a312d65e",
+    "actual": "c9fbc5b369197c82697bb8abfb1d609909932479cf65470edb4429e3a312d65e",
+    "match": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260906-r1/supplement-01/browser-evidence/rc-clear-desktop.json",
+    "expected": "c19077ea057dab69c56f4c68d96e4c20ef7403b26006362943a284d84bd08ef4",
+    "actual": "c19077ea057dab69c56f4c68d96e4c20ef7403b26006362943a284d84bd08ef4",
+    "match": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260906-r1/supplement-01/browser-evidence/rc-clear-mobile.png",
+    "expected": "485ee28b4c0850214b1379827544294007cadd8b39da6bc69587bc6aec69d491",
+    "actual": "485ee28b4c0850214b1379827544294007cadd8b39da6bc69587bc6aec69d491",
+    "match": true
+  },
+  {
+    "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/evidence/uk-prospect-screening-20260906-r1/supplement-01/browser-evidence/rc-clear-mobile.json",
+    "expected": "cc5f7efc52145a6ab5cecf0a087355bf09af86224076a329074ee37bb8de2740",
+    "actual": "cc5f7efc52145a6ab5cecf0a087355bf09af86224076a329074ee37bb8de2740",
+    "match": true
+  }
+]

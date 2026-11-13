@@ -1,0 +1,7 @@
+name: Framed Focus local concept
+owner: 01a07f53-70e7-7fb2-bb6b-5c8df904ccf6
+environment: local-only
+site_root: site
+capabilities: static HTML CSS
+deployment_authorized: false
+outreach_authorized: false

@@ -1,0 +1,25 @@
+{
+  "scope": "LOCAL TEST ONLY \u2014 injectable recording transport, no SMTP/network send beyond loopback",
+  "http": [
+    {
+      "status": 200,
+      "body": {
+        "ok": true,
+        "message": "Your enquiry has been submitted. Thank you.",
+        "reference": "SP-3C7FE1E20D"
+      }
+    },
+    {
+      "status": 200,
+      "body": {
+        "ok": true,
+        "message": "Your enquiry has been submitted. Thank you.",
+        "reference": "SP-3C7FE1E20D"
+      }
+    }
+  ],
+  "receivedByLocalSink": 1,
+  "messageContainsAllFields": true,
+  "externalMailSent": false,
+  "businessInboxVerified": false
+}

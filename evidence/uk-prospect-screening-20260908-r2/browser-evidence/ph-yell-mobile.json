@@ -1,0 +1,25 @@
+{
+  "retrieved": "2026-09-08T02:49:03.910Z",
+  "requested": "https://www.yell.com/biz/p-h-decorating-altrincham-9067002/",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "status": 403,
+  "error": null,
+  "cookieAction": "none",
+  "browser": "152.0.7977.76",
+  "url": "https://www.yell.com/biz/p-h-decorating-altrincham-9067002/",
+  "title": "Attention Required! | Cloudflare",
+  "width": 390,
+  "height": 844,
+  "reviewDates": [],
+  "body": "Sorry, you have been blocked\nYou are unable to access yell.com\nWhy have I been blocked?\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.\n\nCloudflare Ray ID: a37aa34699d768f5\nYour IP: Click to reveal\nPerformance & security by Cloudflare",
+  "links": [
+    {
+      "text": "Cloudflare",
+      "url": "https://www.cloudflare.com/5xx-error-landing"
+    }
+  ],
+  "images": []
+}

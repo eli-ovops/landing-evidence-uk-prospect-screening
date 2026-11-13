@@ -1,0 +1,21 @@
+{
+  "qa/functional-results.json": "dae703f74f54f1535205258a1e3d54abd6173864be35ec1d3d99878e97dfaf81",
+  "qa/responsive-qa.cjs": "2ac5b7ed5357da5beee41d6a077968ae0fff5a722853c936adf8c17e044693ad",
+  "qa/desktop-contact.html.png": "23e5a0388a52461b2885342891ebd3ed597ba3cad4097e83cb1ef6c1f39cc054",
+  "qa/full-qa.cjs": "158de3759abdf7c5dab62f3e5e29156c958544a86f03467bca0bbec6ba4e0767",
+  "qa/desktop-testimonial.html.png": "e03ffbb5f4d70e233c78da85ca118e3c03da044b52d420986dcd461fea9ada06",
+  "qa/mobile-lightbox.png": "1a11200f1ac9417f5641b1f212369f830bb0b1e49b7309a754b8649ed0edadd5",
+  "qa/desktop-gallery.html.png": "3bc9ce9bae78e1ff4946b8328a0df34aa6eae1a4c6eedc053a1d5686c512a633",
+  "qa/home-768.png": "7577fdff7fecb74a0a86bc669eb00a81d59ca1ced20324bdfc22a2d20459b609",
+  "qa/mobile-gallery.html.png": "3f55ad67cbf65587923f189b08576a8af690219ab07061c3d5a2b41ee5fcfc78",
+  "qa/home-375.png": "d34080f382d0d5abf525e351c9afb869fec8dee2b8ea1e90cac705b6a38f34ee",
+  "qa/mobile-services.html.png": "b240d809e98d92e25cb1ee362dec2bc7179fa4639e101b123d11bca95268db09",
+  "qa/mobile-testimonial.html.png": "ae6d927710d3d46c96d7b533adf1e06bc5831ed34acd4cfe84e7571388a4a6e3",
+  "qa/desktop-lightbox.png": "9f7c5143fde40fd9677bf146319f7d61d88d6fa66c3e4e214a02ee3ccf3e74b1",
+  "qa/responsive-results.json": "f3a745aa8e7b72645edd7732c52fa158451b95779a1ec68681b94794f7b2d4e2",
+  "qa/home-1024.png": "042d9398cdd2fcdcc9683f65da980f3174ddf63d1dada68a0b5dd7a0635407c4",
+  "qa/desktop-services.html.png": "cc496aecdf7906df718545832b7119f48f4f6286c35bf23549b013641f1cbaab",
+  "qa/desktop-index.html.png": "671661ca7111c78483aa4442a0298734f645e4c208cff00a9a88af6a5b2d23fe",
+  "qa/mobile-index.html.png": "ed7f537987a3c94ea374ce225c34bdba216e46584f604d7248b9499083011a72",
+  "qa/mobile-contact.html.png": "052c1058e674f0bd60e821d17d3b58cabc7836eda4a8ef499324f28860a4c67a"
+}

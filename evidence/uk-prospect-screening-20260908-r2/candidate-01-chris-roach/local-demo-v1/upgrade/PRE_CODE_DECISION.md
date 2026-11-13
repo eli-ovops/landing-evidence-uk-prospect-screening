@@ -1,0 +1,42 @@
+# Chris Roach — nine-point upgrade pre-code decision
+PRE-CODE GATE = PASS; upgrade/review/PRE_CODE_REVIEW.md completed before customer-visible edits.
+User explicitly authorized the five proposed improvements toward a9-quality Demo. Scope remains local static one-page; this authorizes hero/service/typography/case-proof refinement. It does not authorize publish, send, login, dependencies or final asset transfer. Preserve accepted original8.05 bytes in a named local baseline before implementing; preserve root/site as the single active preview after passing this gate.
+
+## Audit and purchase thesis
+Original customer/service fidelity and functional actions work. Gaps: overlarge soft A10, tiny wallpaper evidence, duplicate green kitchen context occupying commercial beats, heavy typography at all levels, generic quote, no case-specific evidence. A finished £99 AS-SHOWN / £199 ONE PERSONALISED UPDATE portfolio should let a local homeowner recognise the three exact services, assess representative work and care, read independently supported customer experiences, and start an informed direct enquiry. This is an improvement in presentation and usability, not proof of purchase demand.
+
+## Design read / chosen direction
+Brand portfolio for Ruislip homeowners: pattern, paint and considerate craftsmanship. SOUL8 / SPECTACLE2 / DENSITY5; DESIGN_VARIANCE7 / MOTION_INTENSITY2 / VISUAL_DENSITY5. No automatic motion, no external fonts or fake effects.
+A CHOSEN: Pattern and finish portfolio. Keep real A1 wallcovering hero but introduce local decorator-first hierarchy and lighter display typography. Strong service index leads to three precisely described portfolio pieces: botanical wallpaper A2, interior A10 at <=450px, cream kitchen A4 at<=450px. Geometry/pattern A3 with visible laser alignment and protected furnishing becomes the process evidence, replacing repeated green kitchen. Customer-case summaries are separate, clearly labelled as customer feedback rather than captions claiming photo linkage. Direct contact closing retains actual small van.
+B REJECTED: Care-first quiet room hero with early customer comfort evidence. Could suit disruption-worried homeowners but overemphasises inferred audience fear and the soft room photograph; underplays distinctive wallcoverings. Neither uses invented kitchen installation or before/after.
+
+## Factual upgrade / source register
+Same-day refresh: upgrade/source/which.json, retrieved2026-09-08T05:26:03Z. Original reference screenshots/source/references.json remain same-day current: Bluespec (wallpaper visibility), Traditional Painter (precise kitchen scope), MB Nash (practitioner/craft clarity). No reference copy/assets imported. Cross-demo check from original PRE_CODE_DECISION remains applicable: Hedley/RC are nearby home-trade references, their garden/model heroes and assets are not reused.
+New inspected public gallery originals A4/A5/A8/A11 are recorded upgrade/source/assets.json. A4 cream kitchen is selected: cleaner counter/floor, cabinetry framed well. A5 reverse angle is redundant, A8 more green-kitchen construction clutter, A11 alternate interior angle adds no material evidence; exclude with originals retained. Previously excluded A3 now selected because real laser and plastic protection visibly substantiate care/precision. No generated imagery, enlargement, retouch or photographic edits. Captions state observed scenes, not guessed dates/locations/project budgets or technical performance.
+
+Activation changes from original30-row baseline:
+- R19 kitchen visual: REPLACE A7 with A4 at #kitchen-photo; R20 process: REPLACE A6 with A3 at #care-photo. The old selected assets retained in the rollback snapshot; not hidden display padding.
+- R26 now only A9 excluded; A3 used in R20.
+- R29 additional angles A5/A8/A11 excluded after explicit inspection. All11 My work images have now been inspected except no need to re-display every angle.
+- R09 generic skilled/friendly quote replaced by source-attributed case-summary block at #testimonial, sourced latest13Aug review and21July review. No link between those case accounts and gallery photos is asserted.
+- R31 NEW SOURCE CLAIM: established1986; exact fresh business profile statement, #established. It is business history claim, not company incorporation date, certification or independent verification. R24 insurance/45year numericclaim remains excluded; no unsupported guarantee.
+- R32 NEW CUSTOMER REPORT: bedroom cracks and peeling ceiling paper, reviewer pleased after work; #case-bedroom, date13Aug2026.
+- R33 NEW CUSTOMER REPORT: high-ceiling sitting-room cracks, careful protection, delighted finish; #case-sitting, date21July2026.
+- R34 NEW CUSTOMER REPORT: repeated use and considerate in-home working; June26 review short quote, #care-review. Quote only “careful and considerate at all times” (6 words) with date/platform. No aggregated customer statistic.
+- R35 NEW contact instruction: include room/kitchen, scope, area and optionally existing photos in own email; #enquiry-guide. General visitor guidance, not a new service/upload or response promise.
+- All original contacts, service areas, map, rating101/5.0, Which reviews, daily updates and preparation facts remain with existing selectors. Coverage shifts must be in actual contract before finalrun.
+
+## Storyboard and implementation mapping
+Hero: explicit Ruislip decorator identity, lighter headline, A1; compact accessible three-service index immediately following. Trust:101/5.0 linked, source-history short line; no invented Which brand badge.
+Portfolio: A2 wallpaper, A10 interior, A4 kitchen. Controlled staggered columns/widths, useful photographic captions and concise scope; no same source enlargement beyond useful resolution. Each service route leads to same contact with descriptive label.
+Care: A3 geometric wallpaper/laser/protected furniture, full original meaning retained; split with preparation, water-based/dust-controlled approach and updates. Integrate short26June customer quote beside care, explicit independent-source attribution.
+Customer experience: two compact case reports headed “From customers’ homes”, clearly introduced as summaries of customer reviews; no unrelated images and no fabricated case-study timeline. Different typographic treatment from service headings.
+Contact: calmer heading, visible call/email, concise three-part enquiry guide appropriate to all three services; actual van/location carries final visual. No form, competing workflow or automatic sending.
+
+## Skill receipt and tokens
+website-delivery-sop remains site-only root, truthful finished slice, real two-viewport QA and independent binding. finesse-ui redesign-mode audit identifies image scaling/type hierarchy/trust locality; headline weight reduced from700, section hierarchy uses500–650, A3 pattern/protection becomes business-specific motif without drawing wallpaper art. design-taste-frontend gives purposeful service index, varied photographic scale, bounded line lengths, >=44px touch targets, mobile index wrapping and distinct heading hierarchy. media-use provides B-source ownership attribution, exact original hashes, six unique display images and no image manipulation. Original navy accent#294f6c and cool neutral palette remain; no font-family change, no auto-animation. Grain omitted as decorative and not commercially useful in this clean photograph-led page; no claim of a spectacular engine. Production changes must map to actual selectors and be rechecked with JS disabled if any progressive enhancement is added.
+
+## Independent completion requirements
+Reviewer assesses actual current1440×900/390×844 against same ten dimensions without target-driven inflation. Record before/after commercial change, correct scale, exact case/source attribution and no-copy business recognition. At least9 average is the user's target, not a guaranteed result. Local misses are repaired in same active version. No score is purchase probability. No public deployment or customer send.
+
+Optional progressive photo inspection: portfolio images may link directly to their original local JPEGs, enhanced by one native dialog viewer with explicit close/Escape/focus return. No auto-carousel or background motion. Purpose: inspect workmanship at original resolution rather than enlarging every picture in the layout. Without JS, normal image links remain usable. No additional images claimed as projects.

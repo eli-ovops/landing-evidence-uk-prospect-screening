@@ -1,0 +1,7 @@
+{
+  "acceptedAtUtc": "2026-09-08T05:25:15.813338+00:00",
+  "firstPersistedDemoWorkUtc": "2026-09-08T05:04:12.325061+00:00",
+  "Actual Demo Minutes": 21.06,
+  "measurementLimit": "Measured from first Demo directory creation; preliminary instruction-read time before that is UNKNOWN and excluded. timing.json retained unchanged because independently hashed.",
+  "independentTimeAnomalyReview": "ACCEPTED WITH MEASUREMENT LIMIT; see review/FINAL_REVIEW.md"
+}

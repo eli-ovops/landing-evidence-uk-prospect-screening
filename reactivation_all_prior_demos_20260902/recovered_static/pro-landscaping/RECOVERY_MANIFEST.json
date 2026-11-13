@@ -1,0 +1,108 @@
+{
+  "retrieved_at_utc": "2026-09-02T14:43:04.872Z",
+  "homepage": "https://prolandscapingservices.netlify.app/",
+  "origin": "https://prolandscapingservices.netlify.app",
+  "recovery_scope": "current deployed HTML and referenced same-origin static responses only; cross-origin URLs recorded but not downloaded",
+  "resources": [
+    {
+      "url": "https://prolandscapingservices.netlify.app/",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "local_path": "index.html",
+      "bytes": 10470,
+      "sha256": "c16158dab2901b7613e6d45fbf5043250eaaf3f56857d6a34dbf5f80467b0f6a",
+      "retrieved_at_utc": "2026-09-02T14:43:01.150Z"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/styles.css",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "local_path": "styles.css",
+      "bytes": 8346,
+      "sha256": "78a6493107df800b3abb6537936e1b19b65c735f4939c7bc3f54ee3cdd90ff3b",
+      "retrieved_at_utc": "2026-09-02T14:43:01.274Z"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/optimise.css?v=10",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "local_path": "optimise.css",
+      "bytes": 6198,
+      "sha256": "2882664150ed1cd0ab3d10f2d176410017e9020242e2e2e001e758610fb400c4",
+      "retrieved_at_utc": "2026-09-02T14:43:01.396Z"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/assets/hero-integrated-outdoor-concept-v3.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/hero-integrated-outdoor-concept-v3.png",
+      "bytes": 2773151,
+      "sha256": "5309b54e9cff31c83c03480f0448eabe4ba571cecabe1abff435b74581b2edc8",
+      "retrieved_at_utc": "2026-09-02T14:43:02.463Z"
+    },
+    {
+      "url": "https://www.trustindex.io/reviews/prolandscapingservices.com.au",
+      "same_origin": false,
+      "disposition": "recorded-not-downloaded"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/assets/service-landscape-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/service-landscape-concept-v2.png",
+      "bytes": 3458360,
+      "sha256": "de628fdd7dfde2a8e68a0e2ed190bf562638dbbf9c7d4d29ad238f9376761605",
+      "retrieved_at_utc": "2026-09-02T14:43:03.075Z"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/assets/service-decking-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/service-decking-concept-v2.png",
+      "bytes": 2921415,
+      "sha256": "08c4f545244a90f9098b4e8469ae6b9832c1f8e17f5001eec5d7ba304d1666af",
+      "retrieved_at_utc": "2026-09-02T14:43:03.654Z"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/assets/service-concrete-pool-concept-v2.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/service-concrete-pool-concept-v2.png",
+      "bytes": 2571489,
+      "sha256": "562bdb633a3504bb4e7953cab134ea0657e0f9edd8ca0a25980ad8a6db5df326",
+      "retrieved_at_utc": "2026-09-02T14:43:04.196Z"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/assets/approach-materials-concept-v4.png",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "image/png",
+      "local_path": "assets/approach-materials-concept-v4.png",
+      "bytes": 2366165,
+      "sha256": "2f1269f65831f8724fed00563db38c758c2ae9ea5506dc145fd5d53d639f0205",
+      "retrieved_at_utc": "2026-09-02T14:43:04.749Z"
+    },
+    {
+      "url": "https://prolandscapingservices.com.au/",
+      "same_origin": false,
+      "disposition": "recorded-not-downloaded"
+    },
+    {
+      "url": "https://prolandscapingservices.netlify.app/script.js",
+      "same_origin": true,
+      "status": 200,
+      "content_type": "application/javascript; charset=UTF-8",
+      "local_path": "script.js",
+      "bytes": 599,
+      "sha256": "50a7b92282e0daa6f5774cdaa0d9a37fa4ef4016e46ae9f0f7c50aa326086aed",
+      "retrieved_at_utc": "2026-09-02T14:43:04.872Z"
+    }
+  ]
+}

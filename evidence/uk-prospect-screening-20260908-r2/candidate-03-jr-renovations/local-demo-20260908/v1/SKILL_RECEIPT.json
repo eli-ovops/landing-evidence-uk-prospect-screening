@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/Users/USER/.codex/skills/website-delivery-sop/SKILL.md",
+    "sha256": "d5d5a27b513323458f0355c2e0f041779effddd62c634a24806517d58c21b0c3",
+    "status": "READ; implementation effect pending actual selectors",
+    "scope": "Static local JR v1; project boundary overrides install/login/provider/framework defaults"
+  },
+  {
+    "path": "/Users/USER/.codex/skills/finesse-ui/SKILL.md",
+    "sha256": "2a054f99e76d5e28568bb434658597e8dc8f2d3519c9d0f5812f6cb5dc8c028f",
+    "status": "READ; implementation effect pending actual selectors",
+    "scope": "Static local JR v1; project boundary overrides install/login/provider/framework defaults"
+  },
+  {
+    "path": "/Users/USER/.agents/skills/design-taste-frontend/SKILL.md",
+    "sha256": "aa194351b246b8b4799099d4ed7b033d29eab6e6e3d58d8d2172978be7b3ec89",
+    "status": "READ; implementation effect pending actual selectors",
+    "scope": "Static local JR v1; project boundary overrides install/login/provider/framework defaults"
+  },
+  {
+    "path": "/Users/USER/.agents/skills/media-use/SKILL.md",
+    "sha256": "1301ea7cb53a0a44f5c7d62c34cba7e00b9e69b31bed57dc8d645417cea0da7c",
+    "status": "READ; implementation effect pending actual selectors",
+    "scope": "Static local JR v1; project boundary overrides install/login/provider/framework defaults"
+  }
+]

@@ -1,0 +1,19 @@
+import json,pathlib,hashlib
+b=pathlib.Path(__file__).parent.resolve();j=pathlib.Path('/Volumes/EXTERNAL/海外落地页/evidence/demo-workflow-20260905/framed-focus-v1-01a07f53');c=json.loads((j/'contract.json').read_text());research=json.loads((b/'activation.json').read_text());receipts={x['id']:x for x in json.loads((b/'download-receipt.json').read_text())}
+c['sources']=[{'id':'S1','grade':'B','url':'https://www.yell.com/biz/framed-focus-billericay-2174145/','retrievedDate':'2026-09-08','platform':'Yell','attribution':'Verified business listing; customer reviews explicitly attributed to Yell, not business authored'}, {'id':'S2','grade':'A','url':'https://www.facebook.com/Billericayframedfocus/','retrievedDate':'2026-09-08','platform':'Facebook','attribution':'Official business page linked from matching Yell identity'}, {'id':'S3','grade':'C','url':'https://essex-focus.co.uk/item/framed-focus/','retrievedDate':'2026-09-08','platform':'Essex Focus','attribution':'Third-party business directory; only specific excluded legacy info'}]
+c['assets']=[];c['items']=[]
+sel={'logo':'#header .logo','facebook-15':'#hero .facebook-15','facebook-13':'#artwork .facebook-13','facebook-8':'#shirts .facebook-8','facebook-6':'#objects .facebook-6','facebook-11':'#closing .facebook-11'}
+texts={'identity':('#hero','Billericay'),'art-services':('#artwork','Art, prints'),'sport-services':('#shirts','medals'),'box-services':('#objects','box framing'),'phone':('#phone','07881 275088'),'email':('#email','[REDACTED_EMAIL]'),'address':('#address','1 Beverley Rise'),'facebook':('#facebook','Explore more work on Facebook'),'reviews':('#reviews','Read their experiences on Yell'),'hours':('#visit-advice','Please get in touch before visiting.'),'process-tip':('#prepare','Width and height'),'other-services':('#related','canvas stretching')}
+for r in research:
+ i={'id':r['id'],'category':r['category'],'sourceId':r['source'],'factState':'SOURCE CLAIM','applicability':'NO' if r['disposition']=='EXCLUDE' else 'YES','disposition':r['disposition'],'section':r['section'],'selector':r['selector'],'reason':r['reason'],'mappingStatus':'UNCONFIRMED','viewports':['desktop','mobile']}
+ if i['disposition']!='EXCLUDE':
+  if r['category']=='image':
+   x=receipts[r['id']];c['assets'].append({'id':r['id'],'path':'assets/'+r['id']+'.jpg','originalPath':x['path'] if x['path'].startswith('/') else str(pathlib.Path('/Volumes/EXTERNAL/海外落地页')/x['path']),'sha256':x['sha256'],'originalSha256':x['sha256'],'sourceId':'S2','role':r['section'],'focus':'50% 50%; contain original source rendition without additional crop','authenticity':'REAL','rights':'User permitted local independent concept use of official public assets; no transfer or customer rights asserted','permissionEvidence':'Current project instructions A assets for local concept; explicit user demo authorization'})
+   i['assetId']=r['id'];i['selector']=sel[r['id']]
+  else:i['selector'],i['text']=texts[r['id']]
+ c['items'].append(i)
+for idx,base in enumerate(c['baseline']):
+ r=research[idx];base.update(disposition='MAPPED',itemIds=[r['id']],sourceIds=[r['source']],reason='Owner reconciled the source-only research row to exact current content or explicit exclusion')
+c['hero']={'selector':'#hero','ctaSelector':'#hero-cta'};c['sections']=['#hero','#work','#prepare','#proof','#closing'];c['coverageReview']='OWNER_RECONCILED';(j/'contract.json').write_text(json.dumps(c,indent=2))
+p=b/'site/styles.css';s=p.read_text().replace('height:88px','height:80px').replace('font-size:10px;padding-top:12px','font-size:11px;padding-top:12px').replace('.hero-figure figcaption{font-size:9px','.hero-figure figcaption{font-size:10px');p.write_text(s)
+p=b/'site/index.html';s=p.read_text().replace('prints<br>&amp;','prints<br> &amp;').replace('Shirts<br>&amp;','Shirts<br> &amp;').replace('Objects<br>&amp;','Objects<br> &amp;');p.write_text(s)

@@ -1,0 +1,11 @@
+# FINAL 3 — independently accepted CURRENT QUALIFIED candidates
+
+This file contains exactly three new candidates. Each passed the Owner hard-gate review and a different, read-only Reviewer’s Candidate Independent Acceptance Gate; see [INDEPENDENT_ACCEPTANCE.md](INDEPENDENT_ACCEPTANCE.md).
+
+| Business | Location / industry | Track / Website Status | Business link | Public business email gate | Score / priority | Specific £600 static-page commercial increment | Recommended next step |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TEM Engineering Ltd | Gateshead — CNC machining and metal fabrication | Track W / weak existing owned website | [Official site](https://tem-engineering.co.uk/) | PASS — `[REDACTED_EMAIL]` on [official LinkedIn](https://uk.linkedin.com/company/tem-engineering) | 86 / Priority A | Turn a generic builder hero/form into verified capabilities, scope and a clear direct enquiry route for buyers assessing fabrication and engineering support. | Independently accepted for further research only; no Demo authority yet. |
+| City Glass UK Ltd | Edinburgh — glazing and joinery | Track W / weak existing owned website | [Official site](https://cityglassukltd.co.uk/) | PASS — `[REDACTED_EMAIL]` on [owned contact page](https://cityglassukltd.co.uk/contact-us/) | 82 / Priority A | Give mobile visitors a legible repairs/windows/bespoke-glass choice and a direct quote route rather than a faded image-led landing with hidden navigation. | Independently accepted for further research only; no Demo authority yet. |
+| Forfar Removals Ltd | Forfar, Angus — removals and storage | Track W / weak existing owned website | [Official site](https://forfar-removals.co.uk/) | PASS — `[REDACTED_EMAIL]` on [owned site](https://forfar-removals.co.uk/) | 81 / Priority A | Present removals, storage and commercial moves with one readable mobile enquiry route, replacing the current horizontally cropped header/navigation. | Independently accepted for further research only; no Demo authority yet. |
+
+All H0, Track, H0.5, H1–H6 and public-email evidence is recorded in [EVIDENCE_LEDGER.md](EVIDENCE_LEDGER.md). **3/3 CLOSED LOOP = PASS.** No item is authorised for Demo, email drafting, outreach, sending, deployment or customer contact.

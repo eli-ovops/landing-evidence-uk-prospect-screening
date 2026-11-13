@@ -1,0 +1,101 @@
+{
+  "inputHash": "f32a1fc046148c0053df81e1cf00616c8401925ebe4e72e980322e8d24f75977",
+  "resultSha256": "52930429c6d9e62a44b445072c602926bf1d9365d38c6f2d3384a7e6d1fcf10c",
+  "reviewer": {
+    "taskId": "/root/jr_review",
+    "name": "JR independent full replacement reviewer",
+    "identityEvidence": "Parent collaboration task /root/jr_review; same dedicated independent reviewer for pre-code, full replacement and nine-point refinement; no site edits"
+  },
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "e0a17ae5f9ac399bc74318377ee3add06f98428cc7c3598cebe779d9820d37a0"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "02fd8404a905ad6f60e11be616528d6e55d97e9024376dd12949519ead5140de"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "671661ca7111c78483aa4442a0298734f645e4c208cff00a9a88af6a5b2d23fe"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "0b71a2e85e4c048a0ca17906ca18e27cd212202a1f66a393c7e146d88f56ab05"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "dff8dbe0528f3a4f131ccf0603bfaebdff5a1aac1224e0dab29e741d16b73ba1"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "36a7a5be2b4ba2b3ce91bdc7e0053b62af65f51d728fea61001ff785a2c329d1"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "2b71a1f063633b5f8f8bb1f7e0e767ca798da5214b91d6dce3504a490b8ff9ba"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "286682203a7f263cb3f20fb1e2b57fc0fa2b80bb33f2b368a2e072bae4efb39f"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "7e5c0507dfcd99a893ebe36b2fca8e2bc9fc08db168fca9c0cae83173c20a537"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "cc25d8537531d7120fdf59aac3b08c0020321a971912b628242e76874d78e34a"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "ed7f537987a3c94ea374ce225c34bdba216e46584f604d7248b9499083011a72"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "3a5aaf00d55978f7fd67c8187973f42d0eb9e8e4d601ac774ec0a9ed374426be"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "4501532def07ae8c2d36918c5e8e5a7a14d361ade7e302dc91a5e68951aea10c"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "7277ba87e6a42380f915891edf585e9d3c55463a495b945d5d3d8b21ba254e1a"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "238cc0c67841a8fc7e2433bc2b5d9498e5a959f9d4068666c8638635cbe8d764"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "5da666d20aa77a4d9b22b424b8147843133d3eed96a48c154e44faf28d499604"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "c9a366fac64b27b1a326e83ece98084965403ea5790cef2b11f3ae31ca4d86fb"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "1a64d71549359e70cd4c909a31849ba4759291644016927056f5c9a7b429e06b"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": "1440 page types and CLI top inspected. Split kitchen hero, natural-ratio complete gallery and improved typography PASS; intermediate768/1024 corrected closing screenshots also inspected.",
+    "mobile": "390 five-page views and375 evidence inspected. Contact/proprietor/wrapping fixes, complete composite images, real CTA and no overflow PASS."
+  },
+  "businessFindings": "Complete five-page source scope preserved. Target mean9.06 reached by concrete refinement, not inherited rating. See NINE_POINT_FINAL.md. Local only, no user acceptance or ROI guarantee.",
+  "assetFindings": "Existing original files only; A05 hero/A10 complete closing/A12 full contact. Correct wider-portfolio attribution. Responsive selection unchanged bytes; final client asset reconfirmation still pending.",
+  "scores": {
+    "visual": 9.0,
+    "information": 9.0,
+    "mobile": 9.1,
+    "functionality": 9.2,
+    "enquiry": 9.0
+  },
+  "mean": 9.06,
+  "qualityTarget": "PASS",
+  "replacementReadyFinal": "PASS \u2014 LOCAL",
+  "clientShowable": "PASS \u2014 LOCAL",
+  "finalPass": true
+}

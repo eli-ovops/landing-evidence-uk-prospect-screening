@@ -1,0 +1,36 @@
+{
+  "slug": "bright",
+  "online_dom_sha256": "21c33d0de29996e8521ae3d23cb641c279bd63e6137e280885f6896e01f738ac",
+  "results": [
+    {
+      "viewport": "desktop-1440x900",
+      "http_status": 200,
+      "metrics": {
+        "innerWidth": 1440,
+        "innerHeight": 900,
+        "documentElementScrollWidth": 1440,
+        "bodyScrollWidth": 1440
+      },
+      "text_and_links_match_online": true,
+      "image_count": 22,
+      "all_images_loaded": false,
+      "same_origin_failed_requests": [],
+      "same_origin_http_errors": []
+    },
+    {
+      "viewport": "mobile-390x844",
+      "http_status": 200,
+      "metrics": {
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "documentElementScrollWidth": 390,
+        "bodyScrollWidth": 390
+      },
+      "text_and_links_match_online": false,
+      "image_count": 22,
+      "all_images_loaded": false,
+      "same_origin_failed_requests": [],
+      "same_origin_http_errors": []
+    }
+  ]
+}
